@@ -43,7 +43,7 @@ PAGE_ORDER_BY = 'sortorder'
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "themes/pure"
+THEME = "themes/pure-alex"
 PROFILE_IMG_URL = '/images/picture2.jpg'
 # COVER_IMG_URL = './images/picture2.jpg'
 PROFILE_IMAGE_URL = '/images/picture2.jpg'

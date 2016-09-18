@@ -1,0 +1,15 @@
+<p class="post-meta">
+    {{ item['author'] }} ({{ item['year']}}). <i>{{ item['title']}}</i>.
+    {% if item['ENTRYTYPE'] == 'inproceedings' %}
+        {{ item['booktitle'] }}
+    {% elif item['ENTRYTYPE'] == 'article' %}
+        {{ item['journal'] }}
+        {% if 'volume' in item %}
+            {{ item['volume'] }}: ({{ item['pages'] }}).
+        {% else %}
+            .
+        {% endif %}
+    {% else %}
+        42
+    {% endif %}
+</p>
