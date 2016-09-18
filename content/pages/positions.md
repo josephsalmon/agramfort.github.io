@@ -1,0 +1,8 @@
+title: Positions
+sortorder: 3
+
+- Engineer to work on [scikit-learn](http://scikit-learn.org)
+- Engineer to work on [MNE](http://martinos.org/mne)
+- Post-doc positions on machine learning and signal processing with applications in neuroimaging (MEG, EEG)
+
+This list is fuzzy so please [contact me](mailto:alexandre.gramfort@telecom-paristech.fr) directly for potential opportunities.

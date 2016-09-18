@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import bibtexparser
+
 
 AUTHOR = u'Alexandre Gramfort'
 SITENAME = u'Alexandre Gramfort'
@@ -31,21 +33,20 @@ LINKS = ()
 SOCIAL = (
     ('github', 'https://github.com/agramfort/'),
     ('twitter-square', 'https://twitter.com/agramfort'),
-    ('ai-google-scholar-square', 'https://scholar.google.com/citations?user=fhxshS0AAAAJ')
+    ('google-scholar-square', 'https://scholar.google.com/citations?user=fhxshS0AAAAJ'),
+    ('linkedin', 'https://www.linkedin.com/in/alexandregramfort')
 )
 
 DEFAULT_PAGINATION = 10
+PAGE_ORDER_BY = 'sortorder'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# THEME = 'themes/pelican-blue'
-# THEME = "themes/pure-single"
 THEME = "themes/pure"
-# COVER_IMG_URL = './images/cajal.jpg'
-PROFILE_IMG_URL = './images/picture2.jpg'
+PROFILE_IMG_URL = '/images/picture2.jpg'
 # COVER_IMG_URL = './images/picture2.jpg'
-PROFILE_IMAGE_URL = './images/picture2.jpg'
+PROFILE_IMAGE_URL = '/images/picture2.jpg'
 
 GOOGLE_ANALYTICS = "UA-112258-9"
 
@@ -65,3 +66,35 @@ PAGINATION_PATTERNS = (
 
 PLUGIN_PATHS = ['../pelican-plugins']
 
+TEMPLATE_PAGES = {'publications.html': 'publications.html'}
+
+# Publications
+
+
+def make_nice_author(author, emphasize='Gramfort, A.'):
+    split_author = author.split(' and ')
+    insert_pos = len(split_author) - 1
+    names_split = [au.split(', ') for au in split_author]
+    names = ['{}, {}.'.format(n[0], n[1][:1]) for n in names_split]
+    author_edit = ', '.join(names[:insert_pos]) + ' and ' + names[insert_pos]
+    if emphasize:
+        author_edit = author_edit.replace(
+            emphasize, '<strong><em>' + emphasize + '</em></strong>')
+    return author_edit
+
+""" XXX
+- make sure not to use unicode or LaTeX code
+- only full author records, in "surname, name and" format
+"""
+
+with open('./data/Gramfort.bib') as bib:
+    bib_str = bib.read()
+
+records = bibtexparser.loads(bib_str)
+for item in records.entries:
+    item['author'] = make_nice_author(item['author'])
+
+records.entries.sort(key=lambda record: record['year'], reverse=True)
+
+PUBLICATION_LIST = records.entries[:]
+PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:5]
