@@ -23,13 +23,11 @@
             </div>
 
             <!-- A wrapper for all the pages -->
-            <div class="pages">
+            <div class="posts">
                 {% for pg in pages %}
-                    <h1 class="content-subhead">{{ pg.title }}</h1>
+                    <h1 class="content-subhead" id="{{ pg.category }}">{{ pg.title }}</h1>
                     <section class="post">
-                        <header class="post-header">
-                            <p class="post-meta">{{ pg.content }}</p>
-                        </header>
+                        <p class="post-meta">{{ pg.content }}</p>
                     </section>
                 {% endfor %}
             </div>

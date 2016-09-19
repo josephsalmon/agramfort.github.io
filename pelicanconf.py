@@ -94,7 +94,7 @@ records = bibtexparser.loads(bib_str)
 for item in records.entries:
     item['author'] = make_nice_author(item['author'])
 
-records.entries.sort(key=lambda record: record['year'], reverse=True)
+# records.entries.sort(key=lambda record: record['year'], reverse=True)
 
 PUBLICATION_LIST = records.entries[:]
-PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:5]
+PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:8]

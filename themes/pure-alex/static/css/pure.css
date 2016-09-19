@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: #747ca6;
+    color: rgb(0,15,97);
 }
 a:hover,
 a:focus {
@@ -16,6 +16,7 @@ a:focus {
 h3 {
     margin: 0em;
     margin-bottom: 0em;
+    font-size: 100%;
 }
 
 .events-date {
@@ -282,9 +283,9 @@ pre {
 .content {
     padding: 2em 3em 0;
     max-width: 1000px;
-    font-size: 110%;
+    font-size: 90%;
     line-height: 1.45;
-    color: #333332;
+    color: rgb(90,86,97);
 }
 
 .post {
@@ -310,7 +311,7 @@ pre {
 
 .post-meta {
     font-family: sans-serif;
-    color: #999;
+    color: rgb(90,86,97);
     font-size: 90%;
     /*margin-top: -10px;*/
 }

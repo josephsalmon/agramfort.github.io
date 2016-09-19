@@ -10,6 +10,13 @@
             .
         {% endif %}
     {% else %}
-        42
+    {% endif %}
+    {% if 'pdf' in item %}
+        <a href="{{ item['url'] }}">
+            <img src="images/Haltools_pdf.png">
+        </a>
+    {% endif %}
+    {% if 'link' in item %}
+        <a href="{{ item['link'] }}">[www]</a>
     {% endif %}
 </p>

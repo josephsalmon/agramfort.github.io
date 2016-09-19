@@ -1,5 +1,6 @@
 title: Positions
-sortorder: 3
+sortorder: 4
+category: positions
 
 - Engineer to work on [scikit-learn](http://scikit-learn.org)
 - Engineer to work on [MNE](http://martinos.org/mne)
