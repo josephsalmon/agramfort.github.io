@@ -2,9 +2,7 @@ title: Team
 sortorder: 3
 category: team
 
-### Post Docs
-
-  - Jair Montoya 
+<!-- ### Post Docs -->
 
 ### Engineers
 
@@ -26,3 +24,4 @@ category: team
 
   - [Fabian Pedregosa](http://fseoane.net/) [PhD] (coadvised with [Francis Bach](http://www.di.ens.fr/~fbach/))
   - [Michael Eickenberg](http://eickenberg.github.io/) (coadvised with [Bertrand Thirion](http://parietal.saclay.inria.fr/Members/bertrand-thirion))
+  - Jair Montoya [Post Doc]
