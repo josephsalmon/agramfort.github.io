@@ -185,8 +185,8 @@ pre {
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 0.2em;
-    margin-bottom: 1em;
-    padding-top: 0.2em;
+    /*margin-bottom: 1em;*/
+    /*padding-top: 0.2em;*/
     padding-bottom: 1em;
 
     font-size: 15px;
@@ -425,7 +425,7 @@ pre {
     }
 
     .cover-body {
-        padding-bottom: 5%;
+        padding-bottom: 0%;
         padding-top: 0;
     }
 
@@ -434,6 +434,10 @@ pre {
         text-align: center;
         top: auto;
         position: static;
+    }
+
+    .no-show-media {
+        display: none;
     }
 
     #layout {

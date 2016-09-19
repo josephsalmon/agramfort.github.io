@@ -18,14 +18,18 @@
                     <h2><a href="/">Alexandre Gramfort</a></h2>
 
                     <p class="brand-main-sub">
-                        <em>Assistant Professor</em><br />
-                        <a href="http://www.tsi.telecom-paristech.fr/"
-                        title="Département Traitement du Signal et des Images">Signal Image Processing (TSI)</a>
-                        Dept.
+                        <em>Assistant Professor</em>
                         <br />
+                        <span class="no-show-media">
+                            <a href="http://www.tsi.telecom-paristech.fr/"
+                            title="Département Traitement du Signal et des Images">Signal Image Processing (TSI)</a>
+                            Dept.
+                            <br />
+                        </span>
                         <a href="http://www.telecom-paristech.fr/">Telecom ParisTech</a>
                     </p>
-                    <p class="brand-main-sub">
+
+                    <p class="brand-main-sub no-show-media">
                         I do: <br/>
                         Machine Learning, Signal and Image Processing, Brain functional imaging (MEG, EEG, fMRI), Optimization, Scientific Computing, Software Engineering
                     </p>
@@ -51,6 +55,7 @@
                 <p class="links"><a href="{{ SITEURL }}/pages/{{ page.slug }}">{{ page.title }}</a></p>
                 {% endfor %}
                 {% endif %}
+
                 <p class="social">
                 {% for title, link in SOCIAL %}
                 {% if title == "google-scholar-square" %}
