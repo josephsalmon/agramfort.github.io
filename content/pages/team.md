@@ -25,5 +25,5 @@ category: team
 ### Alumni
 
   - [Fabian Pedregosa](http://fseoane.net/) [PhD] (coadvised with [Francis Bach](http://www.di.ens.fr/~fbach/))
-  - [Michael Eickenberg](http://eickenberg.github.io/) (coadvised with [Bertrand Thirion](http://parietal.saclay.inria.fr/Members/bertrand-thirion))
+  - [Michael Eickenberg](http://eickenberg.github.io/) [PhD] (coadvised with [Bertrand Thirion](http://parietal.saclay.inria.fr/Members/bertrand-thirion))
   - Jair Montoya [Post Doc]
