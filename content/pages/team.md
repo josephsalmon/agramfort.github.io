@@ -19,6 +19,8 @@ category: team
   - [Mainak Jas](http://perso.telecom-paristech.fr/~mjas/)
   - [Tom Dupré La Tour](https://www.researchgate.net/profile/Tom_Dupre_La_Tour) (coadvised with [Yves Grenier](http://perso.telecom-paristech.fr/~grenier/))
   - Stanislas Chambon (coadvised with [Gilles Wainrib](https://sites.google.com/site/gwainrib/home))
+  - Pierre Ablin (coadvised with [Jean-François Cardoso](http://perso.telecom-paristech.fr/~cardoso/))
+  - Mathurin Massias (coadvised with [Joseph Salmon](http://josephsalmon.eu) and [Olivier Cappé](http://perso.telecom-paristech.fr/~cappe/))
 
 ### Alumni
 
