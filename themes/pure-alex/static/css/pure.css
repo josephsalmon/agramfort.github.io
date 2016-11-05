@@ -545,3 +545,8 @@ input#select-attend:checked ~ #teach-item {
 .label-attend {
     background: #ff5177;
 }
+
+.publi-bibtex {
+    font-size: 85%;
+    display: none;
+}

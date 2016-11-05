@@ -63,6 +63,15 @@
         $('body').on('click', 'a[href="#"]', function(event) {
             event.preventDefault();
         });
+
+        // Handle toggle of bibtex entries
+        $( ".publi-bibtex-button" ).each(function( index ) {
+            $(this).unbind('click').on('click', function () {
+                $('#' + $(this).attr('id') + '_content').toggle('slide');
+            });
+        });
+    </script>
+
     </script>
     {% include 'analytics.html' %}
 </body>

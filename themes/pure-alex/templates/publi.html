@@ -12,11 +12,17 @@
     {% else %}
     {% endif %}
     {% if 'pdf' in item %}
-        <a href="{{ item['url'] }}">
+        <a href="{{ item['pdf'] }}">
             <img src="images/Haltools_pdf.png">
         </a>
     {% endif %}
     {% if 'link' in item %}
         <a href="{{ item['link'] }}">[www]</a>
+    {% endif %}
+    {% if 'bibtex' in item %}
+        <a class="publi-bibtex-button" id="bibtex_{{ item['index'] }}">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_{{ item['index'] }}_content">
+            <pre>{{ item['bibtex'] }}</pre>
+        </div>
     {% endif %}
 </p>
