@@ -2,8 +2,17 @@ title: News
 sortorder: 7
 category: news
 
+- Oct. 2016: I'll be giving a talk on statistical machine learning and neuroscience at [JSTAR Conf](https://jstar2015.sciencesconf.org/) in Rennes
+- Oct. 2016: I'll be giving a talk on optimal transport for neuroscience applications at [Workshop Optimisation et Transport optimal en Imagerie](https://www.inria.fr/centre/paris/agenda/colloque-mokaplan)
+- Oct. 2016: I'll be giving talks on group analysis with [MNE-Software](http://martinos.org/mne) and source localization at [Biomag Conf.](http://www.biomag2016.org) in Seoul, Corea
+- Sept. 2016: I'll be a panel member at [France is AI](http://www.bpifrance-lehub.fr/evenement/totem-ai/) Startup Event at BPI France
+- Sept. 2016: I'll be giving a talk about [Paris-Saclay Center for Datascience](http://datascience-paris-saclay.fr/) at [Data Science Game](http://www.datasciencegame.com/) kick-off event at Microsoft France
+- Aug. 2016: I'll be giving a talk on Gap Safe screening rules at [MAS Conf.](https://mas2016.sciencesconf.org/) in Grenoble
+- July 2016: I'll be one of the keynote speakers at [CAP Conf. (Conférence Francophone pour l'apprentissage automatique)](https://cap16.lif.univ-mrs.fr/)
+- June 2016: I'll be giving two talks on teaching and doing anomaly detection with [scikit-learn](http://scikit-learn.org) at [PyData Paris](http://pydata.org/paris2016/)
 - June 2016: I'll be teaching MEG/EEG data analysis with [MNE](http://martinos.org/mne) for 2 days at [PRNI 2016 conf.](http://prni2016.wix.com/prni2016)
 - May 2016: I'll be teaching MEG/EEG data analysis with [MNE](http://martinos.org/mne) at [Dalhousie University](http://www.dal.ca/) in Halifax, Canada
+- Nov. 2015: I'll giving a talk on the use of open source in machine learning at [Big Data Business Convention BDBC](http://www.capdigital.com/evenements/save-the-date-big-data-business-convention-bdbc/) on HEC Campus
 - Nov. 2015: I'll be giving a talk on supervised learning on MEG/EEG signals at [Paris Workshop on Decoding of Sound and Brain](http://audition.ens.fr/workshop/ws_decoding_2015/) ([slides pdf](https://dl.dropboxusercontent.com/u/2140486/workshop_decoding_ens_2015.pdf))
 - Oct. 2015: I have been awarded an **ERC Starting Grant** ! My project is called "Signal processing and Learning for Brain data (SLAB)"
 - 22 Sept. 2015: I'll give a seminar on Brain Decoding using fMRI at [Donders Center for cognitive neuroscience](http://www.ru.nl/donders/).
