@@ -104,4 +104,4 @@ for k, item in enumerate(records.entries):
 # records.entries.sort(key=lambda record: record['year'], reverse=True)
 
 PUBLICATION_LIST = records.entries[:]
-PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:8]
+PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:7]
