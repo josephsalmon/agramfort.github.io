@@ -1008,14 +1008,35 @@
 }</pre>
         </div>
 </p><p class="post-meta">
+    Eickenberg, M., <strong><em>Gramfort, A.</em></strong> and Thirion, B. (2012). <i>Multilayer Scattering Image Analysis Fits fMRI Activity in Visual Areas</i>.
+        International Workshop on Pattern Recognition in NeuroImaging
+        <a href="https://hal.inria.fr/hal-00704528/file/example_paper.pdf">
+            <img src="images/Haltools_pdf.png">
+        </a>
+        <a href="https://hal.inria.fr/hal-00704528">[www]</a>
+        <a class="publi-bibtex-button" id="bibtex_43">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_43_content">
+            <pre>@inproceedings{eickenberg-etal:2012,
+ address = {London, United Kingdom},
+ author = {Eickenberg, M., <strong><em>Gramfort, A.</em></strong> and Thirion, B.},
+ booktitle = {International Workshop on Pattern Recognition in NeuroImaging},
+ keyword = {scattering transform ; fMRI encoding models ; visual cortex},
+ link = {https://hal.inria.fr/hal-00704528},
+ month = {Jul},
+ pdf = {https://hal.inria.fr/hal-00704528/file/example_paper.pdf},
+ title = {Multilayer Scattering Image Analysis Fits fMRI Activity in Visual Areas},
+ year = {2012}
+}</pre>
+        </div>
+</p><p class="post-meta">
     Pedregosa, F., <strong><em>Gramfort, A.</em></strong>, Varoquaux, G., Cauvet, E., Pallier, C. and Thirion, B. (2012). <i>Learning to rank from medical imaging data</i>.
         MLMI 2012 - 3rd International Workshop on Machine Learning in Medical Imaging
         <a href="http://hal.inria.fr/hal-00717990/PDF/paper.pdf">
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/hal-00717990">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_43">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_43_content">
+        <a class="publi-bibtex-button" id="bibtex_44">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_44_content">
             <pre>@inproceedings{pedregosa-etal:2012a,
  abstract = {Medical images can be used to predict a clinical score coding for the severity of a disease, a pain level or the complexity of a cognitive task. In all these cases, the predicted variable has a natural order. While a standard classifier discards this information, we would like to take it into account in order to improve prediction performance. A standard linear regression does model such information, however the linearity assumption is likely not be satisfied when predicting from pixel intensities in an image. In this paper we address these modeling challenges with a supervised learning procedure where the model aims to order or rank images. We use a linear model for its robustness in high dimension and its possible interpretation. We show on simulations and two fMRI datasets that this approach is able to predict the correct ordering on pairs of images, yielding higher prediction accuracy than standard regression and multiclass classification techniques.},
  address = {Nice, France},
@@ -1042,8 +1063,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/inria-00589785">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_44">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_44_content">
+        <a class="publi-bibtex-button" id="bibtex_45">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_45_content">
             <pre>@article{jenatton-etal:2012,
  abstract = {Inverse inference, or "brain reading", is a recent paradigm for analyzing functional magnetic resonance imaging (fMRI) data, based on pattern recognition and statistical learning. By predicting some cognitive variables related to brain activation maps, this approach aims at decoding brain activity. Inverse inference takes into account the multivariate information between voxels and is currently the only way to assess how precisely some cognitive information is encoded by the activity of neural populations within the whole brain. However, it relies on a prediction function that is plagued by the curse of dimensionality, since there are far more features than samples, i.e., more voxels than fMRI volumes. To address this problem, different methods have been proposed, such as, among others, univariate feature selection, feature agglomeration and regularization techniques. In this paper, we consider a sparse hierarchical structured regularization. Specifically, the penalization we use is constructed from a tree that is obtained by spatially-constrained agglomerative clustering. This approach encodes the spatial structure of the data at different scales into the regularization, which makes the overall prediction procedure more robust to inter-subject variability. The regularization used induces the selection of spatially coherent predictive brain regions simultaneously at different scales. We test our algorithm on real data acquired to study the mental representation of objects, and we show that the proposed algorithm not only delineates meaningful brain regions but yields as well better prediction accuracy than reference methods.},
  affiliation = {Laboratoire d'informatique de l'{\'e}cole normale sup{\'e}rieure - LIENS , SIERRA - INRIA Paris - Rocquencourt , Laboratoire de Neuroimagerie Assist{\'e}e par Ordinateur - LNAO , PARIETAL - INRIA Saclay - Ile de France , Neuroimagerie cognitive},
@@ -1070,8 +1091,8 @@
         Physics in Medicine and Biology
             57: (1937-1961).
         <a href="http://hal.inria.fr/hal-00690774">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_45">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_45_content">
+        <a class="publi-bibtex-button" id="bibtex_46">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_46_content">
             <pre>@article{gramfort-etal:2012a,
  abstract = {Magneto- and electroencephalography (M/EEG) measure the electromagnetic fields produced by the neural electrical currents. Given a conductor model for the head, and the distribution of source currents in the brain, Maxwell's equations allow one to compute the ensuing M/EEG signals. Given the actual M/EEG measurements and the solution of this forward problem, one can localize, in space and in time, the brain regions that have produced the recorded data. However, due to the physics of the problem, the limited number of sensors compared to the number of possible source locations, and measurement noise, this inverse problem is ill-posed. Consequently, additional constraints are needed. Classical inverse solvers, often called minimum norm estimates (MNE), promote source estimates with a small ℓ(2) norm. Here, we consider a more general class of priors based on mixed norms. Such norms have the ability to structure the prior in order to incorporate some additional assumptions about the sources. We refer to such solvers as mixed-norm estimates (MxNE). In the context of M/EEG, MxNE can promote spatially focal sources with smooth temporal estimates with a two-level ℓ(1)/ℓ(2) mixed-norm, while a three-level mixed-norm can be used to promote spatially non-overlapping sources between different experimental conditions. In order to efficiently solve the optimization problems of MxNE, we introduce fast first-order iterative schemes that for the ℓ(1)/ℓ(2) norm give solutions in a few seconds making such a prior as convenient as the simple MNE. Furthermore, thanks to the convexity of the optimization problem, we can provide optimality conditions that guarantee global convergence. The utility of the methods is demonstrated both with simulations and experimental MEG data.},
  affiliation = {PARIETAL - INRIA Saclay - Ile de France, LNAO CEA Neurospin, Laboratoire des signaux et systemes (L2S) , Athinoula A. Martinos Center for Biomedical Imaging},
@@ -1097,8 +1118,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/hal-00704875">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_46">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_46_content">
+        <a class="publi-bibtex-button" id="bibtex_47">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_47_content">
             <pre>@inproceedings{gramfort-etal:2011d,
  abstract = {The prediction of behavioral covariates from functional MRI (fMRI) is known as brain reading. From a statistical standpoint, this challenge is a supervised learning task. The ability to predict cognitive states from new data gives a model selection criterion: prediction accu- racy. While a good prediction score implies that some of the voxels used by the classifier are relevant, one cannot state that these voxels form the brain regions involved in the cognitive task. The best predictive model may have selected by chance non-informative regions, and neglected rele- vant regions that provide duplicate information. In this contribution, we address the support identification problem. The proposed approach relies on randomization techniques which have been proved to be consistent for support recovery. To account for the spatial correlations between voxels, our approach makes use of a spatially constrained hierarchical clustering algorithm. Results are provided on simulations and a visual experiment.},
  address = {Granada, Espagne},
@@ -1124,8 +1145,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/hal-00650905">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_47">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_47_content">
+        <a class="publi-bibtex-button" id="bibtex_48">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_48_content">
             <pre>@article{pedregosa-etal:2011,
  abstract = {Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.},
  affiliation = {PARIETAL - INRIA Saclay - Ile de France , Laboratoire de Neuroimagerie Assist{\'e}e par Ordinateur - LNAO , Nuxeo , Kobe University , Bauhaus-Universit{\"a}t Weimar , Google Inc , Laboratoire de M{\'e}canique et Ing{\'e}nieries - LAMI , University of Washington , Department of Mechanical and Industrial Engineering [UMass] , Enthought Inc , TOTAL},
@@ -1148,8 +1169,8 @@
         Comput Intell Neurosci
             2011: (923703).
         <a href="http://hal.inria.fr/inria-00584205">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_48">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_48_content">
+        <a class="publi-bibtex-button" id="bibtex_49">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_49_content">
             <pre>@article{gramfort-etal:2011e,
  abstract = {To recover the sources giving rise to electro- and magnetoencephalography in individual measurements, realistic physiological modeling is required, and accurate numerical solutions must be computed. We present OpenMEEG, which solves the electromagnetic forward problem in the quasistatic regime, for head models with piecewise constant conductivity. The core of OpenMEEG consists of the symmetric Boundary Element Method, which is based on an extended Green Representation theorem. OpenMEEG is able to provide lead fields for four different electromagnetic forward problems: Electroencephalography (EEG), Magnetoencephalography (MEG), Electrical Impedance Tomography (EIT), and intracranial electric potentials (IPs). OpenMEEG is open source and multiplatform. It can be used from Python and Matlab in conjunction with toolboxes that solve the inverse problem; its integration within FieldTrip is operational since release 2.0.},
  author = {<strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Olivi, E. and Clerc, M.},
@@ -1166,8 +1187,8 @@
 </p><p class="post-meta">
     <strong><em>Gramfort, A.</em></strong>, Strohmeier, D., Haueisen, J., Hamalainen, M. and Kowalski, M. (2011). <i>Functional Brain Imaging with M/EEG Using Structured Sparsity in Time-Frequency Dictionaries</i>.
         <a href="http://dx.doi.org/10.1007/978-3-642-22092-0_49">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_49">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_49_content">
+        <a class="publi-bibtex-button" id="bibtex_50">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_50_content">
             <pre>@incollection{gramfort-etal:2011c,
  affiliation = {INRIA, Parietal team, Saclay, France},
  author = {<strong><em>Gramfort, A.</em></strong>, Strohmeier, D., Haueisen, J., Hamalainen, M. and Kowalski, M.},
@@ -1189,8 +1210,8 @@
         {Medical Imaging, IEEE Transactions on}, title={Total Variation Regularization for fMRI-Based Prediction of Behavior}
             30: (1328-1340).
         <a href="http://hal.inria.fr/inria-00563468/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_50">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_50_content">
+        <a class="publi-bibtex-button" id="bibtex_51">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_51_content">
             <pre>@article{michel-etal:2011b,
  author = {Michel, V., <strong><em>Gramfort, A.</em></strong>, Varoquaux, G., Eger, E. and Thirion, B.},
  doi = {10.1109/TMI.2011.2113378},
@@ -1212,8 +1233,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/inria-00588898/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_51">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_51_content">
+        <a class="publi-bibtex-button" id="bibtex_52">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_52_content">
             <pre>@inproceedings{varoquaux-etal:2011,
  address = {Kaufbeuren, Allemagne},
  affiliation = {Laboratoire de Neuroimagerie Assist\'ee par Ordinateur - LNAO - CEA : DSV/I2BM/NEUROSPIN - PARIETAL - INRIA Saclay - Ile de France - INRIA - Neuroimagerie cognitive - INSERM : U992 - Universit\'e Paris Sud - Paris XI - CEA : DSV/I2BM/NEUROSPIN},
@@ -1237,8 +1258,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/inria-00589201/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_52">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_52_content">
+        <a class="publi-bibtex-button" id="bibtex_53">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_53_content">
             <pre>@article{michel-etal:2011,
  affiliation = {Laboratoire de Neuroimagerie Assist\'ee par Ordinateur - LNAO - CEA : DSV/I2BM/NEUROSPIN - PARIETAL - INRIA Saclay - Ile de France - INRIA - Neuroimagerie cognitive - INSERM : U992 - Universit\'e Paris Sud - Paris XI - CEA : DSV/I2BM/NEUROSPIN - SELECT - INRIA Saclay - Ile de France - INRIA - Universit\'e Paris Sud - Paris XI - CNRS : UMR - Laboratoire de Math\'ematiques d'Orsay - LM-Orsay - CNRS : UMR8628 - Universit\'e Paris Sud - Paris XI},
  author = {Michel, V., <strong><em>Gramfort, A.</em></strong>, Varoquaux, G., Eger, E., Keribin, C. and Thirion, B.},
@@ -1261,8 +1282,8 @@
             <img src="images/Haltools_pdf.png">
         </a>
         <a href="http://hal.inria.fr/inria-00589785/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_53">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_53_content">
+        <a class="publi-bibtex-button" id="bibtex_54">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_54_content">
             <pre>@techreport{jenatton-etal:2011,
  affiliation = {Laboratoire d'informatique de l'\'ecole normale sup\'erieure - LIENS - CNRS : UMR8548 - Ecole Normale Sup\'erieure de Paris - ENS Paris - SIERRA - INRIA Paris - Rocquencourt - INRIA : PARIS - ROCQUENCOURT - Ecole Normale Sup\'erieure de Paris - ENS Paris - CNRS : UMR8548 - Laboratoire de Neuroimagerie Assist\'ee par Ordinateur - LNAO - CEA : DSV/I2BM/NEUROSPIN - PARIETAL - INRIA Saclay - Ile de France - INRIA - Neuroimagerie cognitive - INSERM : U992 - Universit\'e Paris Sud - Paris XI - CEA : DSV/I2BM/NEUROSPIN},
  author = {Jenatton, R., <strong><em>Gramfort, A.</em></strong>, Michel, V., Obozinski, G., Eger, E., Bach, F. and Thirion, B.},
@@ -1282,8 +1303,8 @@
         NeuroImage
             54: (1930-1941).
         <a href="http://www.sciencedirect.com/science/article/B6WNP-5161PBP-4/2/a788648433443badba4516b1d451b049">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_54">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_54_content">
+        <a class="publi-bibtex-button" id="bibtex_55">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_55_content">
             <pre>@article{gramfort-etal:2011b,
  author = {<strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Baillet, S. and Clerc, M.},
  doi = {DOI: 10.1016/j.neuroimage.2010.09.087},
@@ -1304,8 +1325,8 @@
         NeuroImage
             54: (1919 - 1929).
         <a href="http://www.sciencedirect.com/science/article/B6WNP-516M75G-2/2/69bf20b0381f2b20b6e6b6409d67abe0">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_55">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_55_content">
+        <a class="publi-bibtex-button" id="bibtex_56">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_56_content">
             <pre>@article{cottereau-etal:2011a,
  author = {Cottereau, B., Lorenceau, J., <strong><em>Gramfort, A.</em></strong>, Clerc, M., Thirion, B. and Baillet, S.},
  doi = {DOI: 10.1016/j.neuroimage.2010.10.004},
@@ -1325,8 +1346,8 @@
         BioMedical Engineering OnLine
             9: (45).
         <a href="http://www.biomedical-engineering-online.com/content/9/1/45">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_56">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_56_content">
+        <a class="publi-bibtex-button" id="bibtex_57">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_57_content">
             <pre>@article{gramfort-etal:10b,
  abstract = {BACKGROUND:Interpreting and controlling bioelectromagnetic phenomena require realistic physiological models and accurate numerical solvers. A semi-realistic model often used in practise is the piecewise constant conductivity model, for which only the interfaces have to be meshed. This simplified model makes it possible to use Boundary Element Methods. Unfortunately, most Boundary Element solutions are confronted with accuracy issues when the conductivity ratio between neighboring tissues is high, as for instance the scalp/skull conductivity ratio in electro-encephalography. To overcome this difficulty, we proposed a new method called the symmetric BEM, which is implemented in the OpenMEEG software. The aim of this paper is to present OpenMEEG, both from the theoretical and the practical point of view, and to compare its performances with other competing software packages.METHODS:We have run a benchmark study in the field of electro- and magneto-encephalography, in order to compare the accuracy of OpenMEEG with other freely distributed forward solvers. We considered spherical models, for which analytical solutions exist, and we designed randomized meshes to assess the variability of the accuracy. Two measures were used to characterize the accuracy. the Relative Difference Measure and the Magnitude ratio. The comparisons were run, either with a constant number of mesh nodes, or a constant number of unknowns across methods. Computing times were also compared.RESULTS:We observed more pronounced differences in accuracy in electroencephalography than in magnetoencephalography. The methods could be classified in three categories: the linear collocation methods, that run very fast but with low accuracy, the linear collocation methods with isolated skull approach for which the accuracy is improved, and OpenMEEG that clearly outperforms the others. As far as speed is concerned, OpenMEEG is on par with the other methods for a constant number of unknowns, and is hence faster for a prescribed accuracy level.CONCLUSIONS:This study clearly shows that OpenMEEG represents the state of the art for forward computations. Moreover, our software development strategies have made it handy to use and to integrate with other packages. The bioelectromagnetic research community should therefore be able to benefit from OpenMEEG with a limited development effort.},
  author = {<strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Olivi, E. and Clerc, M.},
@@ -1347,8 +1368,8 @@
     Varoquaux, G., <strong><em>Gramfort, A.</em></strong>, Poline, J. and Thirion, B. (2010). <i>Brain covariance selection: better individual functional connectivity models using population prior.</i>.
         NIPS
         <a href="http://books.nips.cc/papers/files/nips23/NIPS2010_1054.pdf">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_57">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_57_content">
+        <a class="publi-bibtex-button" id="bibtex_58">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_58_content">
             <pre>@inproceedings{varoquaux-etal:2010,
  author = {Varoquaux, G., <strong><em>Gramfort, A.</em></strong>, Poline, J. and Thirion, B.},
  booktitle = {NIPS},
@@ -1363,8 +1384,8 @@
 </p><p class="post-meta">
     Kowalski, M. and <strong><em>Gramfort, A.</em></strong> (2010). <i>A priori par normes mixtes pour les problèmes inverses: Application à la localisation de sources en M/EEG</i>.
         <a href="http://hal.archives-ouvertes.fr/hal-00473970/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_58">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_58_content">
+        <a class="publi-bibtex-button" id="bibtex_59">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_59_content">
             <pre>@unpublished{kowalski-gramfort:2010,
  affiliation = {Laboratoire des signaux et systèmes (L2S) - UMR8506 CNRS - SUPELEC - Univ Paris-Sud - PARIETAL - INRIA Saclay - Ile de France - INRIA},
  author = {Kowalski, M. and <strong><em>Gramfort, A.</em></strong>},
@@ -1378,8 +1399,8 @@
      and <strong><em>Gramfort, A.</em></strong> (2010). <i>Multi-condition M/EEG inverse modeling with sparsity assumptions: how to estimate what is common and what is specific in multiple experimental conditions</i>.
         Biomag: International Conference on Biomagnetism
         <a href="http://hal.archives-ouvertes.fr/inria-00468592/en/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_59">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_59_content">
+        <a class="publi-bibtex-button" id="bibtex_60">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_60_content">
             <pre>@inproceedings{gramfort-etal:10c,
  affiliation = {PARIETAL - INRIA Saclay - Ile de France - INRIA},
  author = { and <strong><em>Gramfort, A.</em></strong>},
@@ -1396,8 +1417,8 @@
     <strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Olivi, E. and Clerc, M. (2010). <i>An empirical evaluation of free BEM solvers for accurate M/EEG forward modeling</i>.
         Biomag: International Conference on Biomagnetism
         <a href="files/poster_openmeeg_biomag_2010.pdf">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_60">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_60_content">
+        <a class="publi-bibtex-button" id="bibtex_61">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_61_content">
             <pre>@inproceedings{gramfort-etal:10d,
  affiliation = {PARIETAL - INRIA Saclay - Ile de France - INRIA},
  author = {<strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Olivi, E. and Clerc, M.},
@@ -1414,8 +1435,8 @@
         Biomedical Engineering, IEEE Transactions on
             57: (1051 -1061).
         <a href="http://www.ncbi.nlm.nih.gov/pubmed/20142163">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_61">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_61_content">
+        <a class="publi-bibtex-button" id="bibtex_62">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_62_content">
             <pre>@article{gramfort-etal:10,
  author = {<strong><em>Gramfort, A.</em></strong>, Keriven, R. and Clerc, M.},
  doi = {10.1109/TBME.2009.2037139},
@@ -1435,8 +1456,8 @@
     Kowalski, M. and <strong><em>Gramfort, A.</em></strong> (2009). <i>A priori par normes mixtes pour les problèmes inverses Application à la localisation de sources en M/EEG</i>.
         GRETSI
         <a href="http://hal.archives-ouvertes.fr/hal-00424039/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_62">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_62_content">
+        <a class="publi-bibtex-button" id="bibtex_63">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_63_content">
             <pre>@inproceedings{kowalski-gramfort:09,
  author = {Kowalski, M. and <strong><em>Gramfort, A.</em></strong>},
  booktitle = {GRETSI},
@@ -1450,8 +1471,8 @@
 </p><p class="post-meta">
     Cottereau, B., Lorenceau, J., <strong><em>Gramfort, A.</em></strong>, Clerc, M. and Baillet, S. (2009). <i>Fine chronometric mapping of human visual areas</i>.
         Human Brain Mapping
-        <a class="publi-bibtex-button" id="bibtex_63">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_63_content">
+        <a class="publi-bibtex-button" id="bibtex_64">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_64_content">
             <pre>@inproceedings{cottereau-laurenceau-etal:09,
  author = {Cottereau, B., Lorenceau, J., <strong><em>Gramfort, A.</em></strong>, Clerc, M. and Baillet, S.},
  booktitle = {Human Brain Mapping},
@@ -1465,8 +1486,8 @@
     <strong><em>Gramfort, A.</em></strong> and Kowalski, M. (2009). <i>Improving M/EEG source localization with an inter-condition sparse prior</i>.
         IEEE International Symposium on Biomedical Imaging
         <a href="http://hal.archives-ouvertes.fr/hal-00424029/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_64">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_64_content">
+        <a class="publi-bibtex-button" id="bibtex_65">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_65_content">
             <pre>@inproceedings{gramfort-kowalski:09,
  author = {<strong><em>Gramfort, A.</em></strong> and Kowalski, M.},
  booktitle = {IEEE International Symposium on Biomedical Imaging},
@@ -1481,8 +1502,8 @@
     <strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Cottereau, B., Baillet, S. and Clerc, M. (2008). <i>Tracking cortical activity with spatio-temporal constraints using graph-cuts</i>.
         Biomag: International Conference on Biomagnetism
         <a href="http://hal.inria.fr/inria-00336887/fr/">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_65">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_65_content">
+        <a class="publi-bibtex-button" id="bibtex_66">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_66_content">
             <pre>@inproceedings{gramfort-papadopoulo-etal:08,
  author = {<strong><em>Gramfort, A.</em></strong>, Papadopoulo, T., Cottereau, B., Baillet, S. and Clerc, M.},
  booktitle = {Biomag: International Conference on Biomagnetism},
@@ -1496,8 +1517,8 @@
 </p><p class="post-meta">
     Cottereau, B., <strong><em>Gramfort, A.</em></strong>, Lorenceau, J., Thirion, B., Clerc, M. and Baillet, S. (2008). <i>Fast retinotopic mapping of visual fields using MEG</i>.
         Human Brain Mapping
-        <a class="publi-bibtex-button" id="bibtex_66">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_66_content">
+        <a class="publi-bibtex-button" id="bibtex_67">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_67_content">
             <pre>@inproceedings{cottereau-gramfort-etal:08,
  author = {Cottereau, B., <strong><em>Gramfort, A.</em></strong>, Lorenceau, J., Thirion, B., Clerc, M. and Baillet, S.},
  booktitle = {Human Brain Mapping},
@@ -1511,8 +1532,8 @@
     <strong><em>Gramfort, A.</em></strong>, Cottereau, B., Clerc, M., Thirion, B. and Baillet, S. (2007). <i>Challenging the estimation of cortical activity from MEG with simulated fMRI-constrained retinotopic maps</i>.
         EMBC 2007: IEEE, Engineering in Medicine and Biology Society
         <a href="ftp://ftp-sop.inria.fr/odyssee/Publications/2007/gramfort-cottereau-etal:07.pdf">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_67">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_67_content">
+        <a class="publi-bibtex-button" id="bibtex_68">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_68_content">
             <pre>@inproceedings{gramfort-cottereau-etal:07,
  author = {<strong><em>Gramfort, A.</em></strong>, Cottereau, B., Clerc, M., Thirion, B. and Baillet, S.},
  booktitle = {EMBC 2007: IEEE, Engineering in Medicine and Biology Society},
@@ -1528,8 +1549,8 @@
     <strong><em>Gramfort, A.</em></strong> and Clerc, M. (2007). <i>Low dimensional representations of {MEG/EEG} data using laplacian eigenmaps</i>.
         NFSI 2007: Symposium on Noninvasive Functional Source Imaging
         <a href="ftp://ftp-sop.inria.fr/odyssee/Publications/2007/gramfort-clerc:07.pdf">[www]</a>
-        <a class="publi-bibtex-button" id="bibtex_68">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_68_content">
+        <a class="publi-bibtex-button" id="bibtex_69">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_69_content">
             <pre>@inproceedings{gramfort-clerc:07,
  author = {<strong><em>Gramfort, A.</em></strong> and Clerc, M.},
  booktitle = {NFSI 2007: Symposium on Noninvasive Functional Source Imaging},
@@ -1544,8 +1565,8 @@
 </p><p class="post-meta">
     Clerc, M., <strong><em>Gramfort, A.</em></strong>, Landreau, P. and Papadopoulo, T. (2007). <i>MEG and EEG processing with OpenMEEG</i>.
         Proceedings of Neuromath
-        <a class="publi-bibtex-button" id="bibtex_69">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_69_content">
+        <a class="publi-bibtex-button" id="bibtex_70">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_70_content">
             <pre>@inproceedings{clerc-gramfort-etal:07,
  author = {Clerc, M., <strong><em>Gramfort, A.</em></strong>, Landreau, P. and Papadopoulo, T.},
  booktitle = {Proceedings of Neuromath},
@@ -1557,8 +1578,8 @@
 </p><p class="post-meta">
     Cottereau, B., Lorenceau, J., <strong><em>Gramfort, A.</em></strong>, Thirion, B., Clerc, M. and Baillet, S. (2007). <i>Fast Retinotopic Mapping of Visual Fields using MEG</i>.
         Proceedings of Neuromath
-        <a class="publi-bibtex-button" id="bibtex_70">[BibTeX]</a>
-        <div class="publi-bibtex" id="bibtex_70_content">
+        <a class="publi-bibtex-button" id="bibtex_71">[BibTeX]</a>
+        <div class="publi-bibtex" id="bibtex_71_content">
             <pre>@inproceedings{cottereau-laurenceau-etal:07,
  author = {Cottereau, B., Lorenceau, J., <strong><em>Gramfort, A.</em></strong>, Thirion, B., Clerc, M. and Baillet, S.},
  booktitle = {Proceedings of Neuromath},
