@@ -1,11 +1,8 @@
 <p class="post-meta">
-    {{ item['title']}}<br/>
-    {{ item['author'] }} ({{ item['year']}})
+    {{ item['author'] }} ({{ item['year']}}). <i>{{ item['title']}}</i>.
     {% if item['ENTRYTYPE'] == 'inproceedings' %}
-        <br/>
         {{ item['booktitle'] }}
     {% elif item['ENTRYTYPE'] == 'article' %}
-        <br/>
         {{ item['journal'] }}
         {% if 'volume' in item %}
             {{ item['volume'] }}: ({{ item['pages'] }}).
@@ -14,7 +11,6 @@
         {% endif %}
     {% else %}
     {% endif %}
-    <br/>
     {% if 'pdf' in item %}
         <a href="{{ item['pdf'] }}">
             <img src="images/Haltools_pdf.png">

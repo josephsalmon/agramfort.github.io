@@ -76,11 +76,19 @@ def make_nice_author(author, emphasize='Gramfort, A.'):
     insert_pos = len(split_author) - 1
     names_split = [au.split(', ') for au in split_author]
     names = ['{}, {}.'.format(n[0], n[1][:1]) for n in names_split]
-    author_edit = ', '.join(names[:insert_pos]) + ' and ' + names[insert_pos]
+    if len(split_author) > 1:
+        author_edit = ', '.join(names[:insert_pos]) + ' and ' + names[insert_pos]
+    else:
+        author_edit = names[insert_pos]
     if emphasize:
         author_edit = author_edit.replace(
             emphasize, '<strong><em>' + emphasize + '</em></strong>')
     return author_edit
+
+def make_nice_title(title):
+    title = title.replace('{', '')
+    title = title.replace('}', '')
+    return title
 
 """ XXX
 - make sure not to use unicode or LaTeX code
@@ -99,6 +107,7 @@ for k, item in enumerate(records.entries):
         if key in item:
             del item[key]
     item['bibtex'] = bibtexparser.dumps(one_records).strip()
+    item['title'] = make_nice_title(item['title'])
     item['index'] = k
 
 # records.entries.sort(key=lambda record: record['year'], reverse=True)
