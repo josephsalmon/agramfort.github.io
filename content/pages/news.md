@@ -2,6 +2,14 @@ title: News
 sortorder: 7
 category: news
 
+- June 2017: I'll be at the [Scipy Conference](https://scipy2017.scipy.org/ehome/index.php?eventid=220975&) in Austin, Texas to give the [scikit-learn tutorial](https://github.com/amueller/scipy-2017-sklearn) and the [talk on MNE](https://github.com/agramfort/mne_scipy2017) in the neuroscience symposium.
+- June 2017: I'll be visiting the [University of Washington](http://ilabs.washington.edu/) to give a talk on non-linear signal models for neural time-series on my way the [OHBM conference](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3734) where I'll be presenting 2 posters.
+- June 2017: Time for the annual [scikit-learn code sprint](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events) in Paris!
+- Mar. 2017: I'll attend the [MNE code sprint](https://kingjr.github.io/supervised_time_series/) at New York University Center for Datascience
+- Mar. 2017: I'll be giving a talk on Statistical Learning and optimization for MRI data mining at Inria Grenoble [Macaron workshop](https://thoth.inrialpes.fr/people/mairal/macaron/workshop2017/)
+- Mar. 2017: I'll be visiting the MEG lab and give an MNE tutorial at [Université Libre de Bruxelles](https://www.ulb.ac.be/rech/inventaire/unites/ULB684.html) in Brussels
+- Jan. 2017: I'll be giving a talk on inverse problems, optimization and machine learning at [Learning in Astrophysics day](http://www.cosmostat.org/derpicated/events_old/meetings/learning-in-astrophysics)
+- Jan. 2017: I'll be giving a introductary talk on statistical machine learning for brain imaging at Karolinska insitute in Stockholm at the [Machine learning for functional brain imaging workshop](http://natmeg.se/activities/machinelearning.html)
 - Oct. 2016: I'll be giving a talk on statistical machine learning and neuroscience at [JSTAR Conf](https://jstar2015.sciencesconf.org/) in Rennes
 - Oct. 2016: I'll be giving a talk on optimal transport for neuroscience applications at [Workshop Optimisation et Transport optimal en Imagerie](https://www.inria.fr/centre/paris/agenda/colloque-mokaplan)
 - Oct. 2016: I'll be giving talks on group analysis with [MNE-Software](http://martinos.org/mne) and source localization at [Biomag Conf.](http://www.biomag2016.org) in Seoul, Corea
