@@ -44,9 +44,9 @@ PAGE_ORDER_BY = 'sortorder'
 # RELATIVE_URLS = True
 
 THEME = "themes/pure-alex"
-PROFILE_IMG_URL = '/images/picture2.jpg'
+PROFILE_IMG_URL = '/images/picture3.jpg'
 # COVER_IMG_URL = './images/picture2.jpg'
-PROFILE_IMAGE_URL = '/images/picture2.jpg'
+PROFILE_IMAGE_URL = '/images/picture3.jpg'
 
 GOOGLE_ANALYTICS = "UA-112258-9"
 
