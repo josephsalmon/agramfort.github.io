@@ -20,7 +20,7 @@ category: team
   - [Tom Dupré La Tour](https://www.researchgate.net/profile/Tom_Dupre_La_Tour) (coadvised with [Yves Grenier](http://perso.telecom-paristech.fr/~grenier/))
   - [Stanislas Chambon](https://twitter.com/slasnista) (coadvised with [Gilles Wainrib](https://sites.google.com/site/gwainrib/home))
   - [Pierre Ablin](https://pierreablin.com) (coadvised with [Jean-François Cardoso](http://perso.telecom-paristech.fr/~cardoso/))
-  - [Mathurin Massias](https://mathurinm.github.io) (coadvised with [Joseph Salmon](http://josephsalmon.eu)](http://perso.telecom-paristech.fr/~cappe/))
+  - [Mathurin Massias](https://mathurinm.github.io) (coadvised with [Joseph Salmon](http://josephsalmon.eu))
   - [Hicham Janati](https://github.com/hichamjanati) (coadvised with [Marco Cuturi](http://marcocuturi.net/))
 
 ### Alumni
