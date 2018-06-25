@@ -23,6 +23,9 @@
     {% if 'link' in item %}
         <a href="{{ item['link'] }}">[www]</a>
     {% endif %}
+    {% if 'comment' in item %}
+        {{ item['comment'] }}
+    {% endif %}
     {% if 'bibtex' in item %}
         <a class="publi-bibtex-button" id="bibtex_{{ item['index'] }}">[BibTeX]</a>
         <div class="publi-bibtex" id="bibtex_{{ item['index'] }}_content">

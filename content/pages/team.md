@@ -7,24 +7,25 @@ category: team
 ### Engineers
 
   - [Roque Porchetto](https://www.linkedin.com/in/roque-porchetto-74897b31/)
-  - [Albert Thomas](https://albertcthomas.github.io/)
+  - [Joan Massich](https://github.com/massich)
 
 ### Post-docs
 
   - [Jean-Baptiste Schiratti](https://scholar.google.fr/citations?user=PBEJzOcAAAAJ&hl=fr)
+  - [Thomas Moreau](https://tommoral.github.io/about.html)
 
 ### PhD Students
 
-  - [Yousra Bekhti](https://sites.google.com/site/yousrabekhti/) (coadvised with [Roland Badeau](http://perso.telecom-paristech.fr/~rbadeau/))
-  - [Mainak Jas](http://perso.telecom-paristech.fr/~mjas/)
   - [Tom Dupré La Tour](https://www.researchgate.net/profile/Tom_Dupre_La_Tour) (coadvised with [Yves Grenier](http://perso.telecom-paristech.fr/~grenier/))
-  - [Stanislas Chambon](https://twitter.com/slasnista) (coadvised with [Gilles Wainrib](https://sites.google.com/site/gwainrib/home))
+  - [Stanislas Chambon](https://slasnista.github.io)
   - [Pierre Ablin](https://pierreablin.com) (coadvised with [Jean-François Cardoso](http://perso.telecom-paristech.fr/~cardoso/))
   - [Mathurin Massias](https://mathurinm.github.io) (coadvised with [Joseph Salmon](http://josephsalmon.eu))
   - [Hicham Janati](https://github.com/hichamjanati) (coadvised with [Marco Cuturi](http://marcocuturi.net/))
 
 ### Alumni
 
+  - [Mainak Jas](http://perso.telecom-paristech.fr/~mjas/) [PhD]
+  - [Yousra Bekhti](https://sites.google.com/site/yousrabekhti/) (coadvised with [Roland Badeau](http://perso.telecom-paristech.fr/~rbadeau/)) [PhD]
   - [Albert Thomas](https://albertcthomas.github.io/) (coadvised with [Stéphan Clémençon](http://perso.telecom-paristech.fr/~clemenco/Home.html)) [PhD]
   - [Jaakko Leppäkangas](https://github.com/jaeilepp) [Engineer]
   - Romain Laby (coadvised with [François Roueff](http://perso.telecom-paristech.fr/~roueff/)) (now at [Criteo](http://www.criteo.com)) [PhD]
