@@ -249,11 +249,11 @@ pre {
 .content-subhead {
     font-family: sans-serif;
     text-transform: uppercase;
-    color: #aaa;
+    color: #1e1e1e;
     border-bottom: 1px solid #eee;
-    padding: 0.4em 0;
-    font-size: 80%;
-    font-weight: 500;
+    padding: 0.2em 0;
+    font-size: 99%;
+    font-weight: 800;
     letter-spacing: 0.1em;
 }
 
@@ -285,21 +285,26 @@ pre {
     max-width: 1000px;
     font-size: 90%;
     line-height: 1.45;
-    color: rgb(90,86,97);
+    color: #000000;
+    background: #f7f2e8;
+
 }
 
 .post {
     font-family: sans-serif;
     padding-bottom: 1em;
     border-bottom: 1px solid #f2f2f0;
+    background: #f7f2e8;
 }
 
 .main {
     font-family: sans-serif;
-    color: #999;
+    color: #000000;
     padding: 0em 0;
     font-size: 100%;
     font-weight: 200;
+    background: #f7f2e8;
+
     /*letter-spacing: 0em;*/
 }
 
@@ -327,7 +332,7 @@ pre {
     margin: 0 0.1em;
     padding: 0.2em 0.6em;
     color: #fff;
-    background: #999;
+    background: #f7f2e8;
     font-size: 90%;
 }
 
@@ -476,7 +481,7 @@ label {
     padding: 0.3em 0.3em;
 }
 
-/*Select Categorie*/	
+/*Select Categorie*/
 
 input[type="radio"][id="select-talks"]:checked + label {
     font-size: 80%
@@ -493,13 +498,13 @@ input[type="radio"][id="select-awards"]:checked + label {
 
 input#select-talks:checked ~ #teach-item,
 input#select-talks:checked ~ #awards-item,
-input#select-talks:checked ~ #attend-item, 
+input#select-talks:checked ~ #attend-item,
 input#select-teach:checked ~ #talks-item,
 input#select-teach:checked ~ #awards-item,
-input#select-teach:checked ~ #attend-item, 
+input#select-teach:checked ~ #attend-item,
 input#select-awards:checked ~ #talks-item,
 input#select-awards:checked ~ #teach-item,
-input#select-awards:checked ~ #attend-item, 
+input#select-awards:checked ~ #attend-item,
 input#select-attend:checked ~ #talks-item,
 input#select-attend:checked ~ #awards-item,
 input#select-attend:checked ~ #teach-item {

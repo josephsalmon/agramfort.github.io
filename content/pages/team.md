@@ -4,11 +4,6 @@ category: team
 
 <!-- ### Post Docs -->
 
-### Engineers
-
-  - [Roque Porchetto](https://www.linkedin.com/in/roque-porchetto-74897b31/)
-  - [Joan Massich](https://github.com/massich)
-
 ### Post-docs
 
   - [Jean-Baptiste Schiratti](https://scholar.google.fr/citations?user=PBEJzOcAAAAJ&hl=fr)

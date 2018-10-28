@@ -2,12 +2,14 @@ title: Contact
 sortorder: 1
 category: contact
 
-**Email:** [alexandre.gramfort@inria.fr](mailto:alexandre.gramfort@inria.fr)
+**Email:** [joseph.salmon@umontpellier.fr](mailto:joseph.salmon@umontpellier.fr)
 
-**Address:** Inria Saclay Île-de-France,
-Bâtiment Alan Turing,
-1 rue Honoré d'Estienne d'Orves,
-Campus de l'École Polytechnique
-91120 Palaiseau
+**Address:**
+IMAG, c.c. 051
+Université de Montpellier
+Place Eugène Bataillon
+34095 Montpellier Cedex 5
+
+(office 415, building 9)
 
 

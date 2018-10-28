@@ -9,13 +9,17 @@
                 <h1 class="content-subhead">
                     Publications
                 </h1>
+                <br>
                 My publications on
-                <a href="https://hal.inria.fr/search/index/q/%2A/authIdHal_s/agramfort/" title="HAL Gramfort">HAL
-                </a>
+                <a href="https://hal.archives-ouvertes.fr/search/index/?q=%2A&authFullName_s=Joseph+Salmon&sort=producedDate_tdate+desc" title="HAL Salmon">HAL</a>, <a href="https://arxiv.org/search/?query=Salmon%2C+Joseph&searchtype=author&abstracts=show&order=-announced_date_first&size=50" title="arXiv Salmon">arXiv</a>
                 and
-                <a href="http://scholar.google.com/citations?user=fhxshS0AAAAJ">
+                <a href="https://scholar.google.fr/citations?user=m7OEDmoAAAAJ&hl=fr&oi=ao">
                 Google Scholar
                 </a>
+                <br>
+                <br>
+                <br>
+
                 {% for item in PUBLICATION_LIST %}
                     {% include 'publi.html' %}
                 {% endfor %}

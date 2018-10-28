@@ -2,7 +2,7 @@
     <div class="cover-img" {% if COVER_IMG_URL -%}
         style="background-image: url('{% block sidebar %}{{ COVER_IMG_URL }}{% endblock %}')"
         {%- else -%}
-        style="background: none repeat scroll 0% 0% #014c71"
+        style="background: none repeat scroll 0% 0% #f95e04"
         {%- endif -%}>
         <div class="cover-body">
             <header class="header">
@@ -14,32 +14,33 @@
                 {% endif %}
 
                 <nav id="nav">
-
-                    <h2><a href="/">Alexandre Gramfort</a></h2>
+                    <h2 ="brand-main">
+                        <a href="{{ SITEURL }}">{{ SITENAME }}</a></h2>
 
                     <p class="brand-main-sub">
-                        <em>Researcher</em>
+                        <em>Full professor</em>
                         <br />
-                        <a href="http://www.inria.fr/">Inria</a>,
+                        <a href="http://imag.edu.umontpellier.fr/">IMAG</a>,
                         <span class="no-show-media">
-                            <a href="http://parietal.saclay.inria.fr"
-                            title="Inria Parietal">Parietal Team</a>
+                            <a href="http://imag.edu.umontpellier.fr/equipes-de-recherche/eps/"
+                            title="EPS Team">EPS Team</a>
                         </span>
                         <br />
-                        Univ. Paris Saclay
+                        Université de Montpellier
                     </p>
 
                     <p class="brand-main-sub no-show-media">
-                        I do: <br/>
-                        Machine Learning, Signal and Image Processing, Brain functional imaging (MEG, EEG, fMRI), Optimization, Scientific Computing, Software Engineering
+                        <br/>
+                        Machine Learning, Signal and Image Processing, Optimization
                     </p>
 
                     <p>
                         <ul>
                             <li class="nav"><a href="publications.html" id="publications-link" class="skel-layers-ignoreHref">Publications</a></li>
+                            <li class="nav"><a href="teaching.html" id="publications-link" class="skel-layers-ignoreHref">Teaching</a></li>
                             <li class="nav"><a href="index.html#shortbio" id="about-link" class="skel-layers-ignoreHref">Short Bio</a></li>
                             <li class="nav"><a href="index.html#software" id="software-link" class="skel-layers-ignoreHref">Software</a></li>
-                            <li class="nav"><a href="index.html#team" id="team-link" class="skel-layers-ignoreHref">Team</a></li>
+                            <li class="nav"><a href="team.html" id="team-link" class="skel-layers-ignoreHref">Team</a></li>
                             <li class="nav"><a href="index.html#news" id="news-link" class="skel-layers-ignoreHref">News</a></li>
                         </ul>
                     </p>

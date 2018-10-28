@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 import bibtexparser
 
 
-AUTHOR = u'Alexandre Gramfort'
-SITENAME = u'Alexandre Gramfort'
+AUTHOR = u'Joseph Salmon'
+SITENAME = u'Joseph Salmon'
 SITEURL = ''
 
 PATH = 'content'
@@ -31,10 +31,8 @@ LINKS = ()
 # Social widget
 
 SOCIAL = (
-    ('github', 'https://github.com/agramfort/'),
-    ('twitter-square', 'https://twitter.com/agramfort'),
-    ('google-scholar-square', 'https://scholar.google.com/citations?user=fhxshS0AAAAJ'),
-    ('linkedin', 'https://www.linkedin.com/in/alexandregramfort')
+    ('github', 'https://github.com/josephsalmon'),
+    ('twitter-square', 'https://twitter.com/salmonjsph'),
 )
 
 DEFAULT_PAGINATION = 10
@@ -44,17 +42,18 @@ PAGE_ORDER_BY = 'sortorder'
 # RELATIVE_URLS = True
 
 THEME = "themes/pure-alex"
-PROFILE_IMG_URL = '/images/picture3.jpg'
+PROFILE_IMG_URL = '/images/photo3.png'
+PROFILE_IMAGE_URL = '/images/photo3.png'
+FAVICON = 'images/favicon.ico'
 # COVER_IMG_URL = './images/picture2.jpg'
-PROFILE_IMAGE_URL = '/images/picture3.jpg'
 
-GOOGLE_ANALYTICS = "UA-112258-9"
+GOOGLE_ANALYTICS = " UA-34336869-1"
 
 STATIC_PATHS = ['images', 'pdfs', 'widgets']
 PAGE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
 ARTICLE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_DATE = 'fs'
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 
@@ -71,7 +70,7 @@ TEMPLATE_PAGES = {'publications.html': 'publications.html'}
 # Publications
 
 
-def make_nice_author(author, emphasize='Gramfort, A.'):
+def make_nice_author(author, emphasize='Salmon, J.'):
     split_author = author.split(' and ')
     insert_pos = len(split_author) - 1
     names_split = [au.split(', ') for au in split_author]
@@ -85,6 +84,7 @@ def make_nice_author(author, emphasize='Gramfort, A.'):
             emphasize, '<strong><em>' + emphasize + '</em></strong>')
     return author_edit
 
+
 def make_nice_title(title):
     title = title.replace('{', '')
     title = title.replace('}', '')
@@ -95,10 +95,11 @@ def make_nice_title(title):
 - only full author records, in "surname, name and" format
 """
 
-with open('./data/Gramfort.bib') as bib:
+with open('./data/Salmon.bib') as bib:
     bib_str = bib.read()
 
 records = bibtexparser.loads(bib_str)
+
 one_records = bibtexparser.loads(bib_str)
 for k, item in enumerate(records.entries):
     one_records.entries = records.entries[k:k + 1]
@@ -110,7 +111,7 @@ for k, item in enumerate(records.entries):
     item['title'] = make_nice_title(item['title'])
     item['index'] = k
 
-# records.entries.sort(key=lambda record: record['year'], reverse=True)
+records.entries.sort(key=lambda record: record['year'], reverse=True)
 
 PUBLICATION_LIST = records.entries[:]
 PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:7]
