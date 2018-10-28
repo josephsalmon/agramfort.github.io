@@ -3,11 +3,14 @@
 {% block content %}
 <div class="pure-g-r" id="layout">
     {% include 'sidebar.html' %}
-    <div class="pure-u-1">
+    <div class="pure-u-1", style="background:#f7f2e8">
         <div class="content">
             <div class="pure-g">
-                <div class="pure-u-1-2",     background: #f7f2e8;
->
+                <div class="pure-u-1-2">
+                    <a class="twitter-timeline" data-width="400" data-height="400" data-link-color="#2B7BB9" href="https://twitter.com/salmonjsph">Tweets by salmonjsph</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+
+                <div class="pure-u-1-2">
                      <div id="publications" class="posts">
                         <h1 class="content-subhead">
                             Recent Publications
@@ -19,9 +22,6 @@
                         {% endfor %}
                         <a href="publications.html">Full list of publications</a>
                     </div>
-                </div>
-                <div class="pure-u-1-2">
-                    <a class="twitter-timeline" data-width="300" data-height="400" data-link-color="#2B7BB9" href="https://twitter.com/salmonjsph">Tweets by salmonjsph</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div>
 

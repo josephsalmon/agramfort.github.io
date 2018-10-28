@@ -74,7 +74,9 @@ def make_nice_author(author, emphasize='Salmon, J.'):
     split_author = author.split(' and ')
     insert_pos = len(split_author) - 1
     names_split = [au.split(', ') for au in split_author]
-    names = ['{}, {}.'.format(n[0], n[1][:1]) for n in names_split]
+    for n in names_split:
+        print(n)
+    names = ['{} {}'.format(n[1], n[0]) for n in names_split]
     if len(split_author) > 1:
         author_edit = ', '.join(names[:insert_pos]) + ' and ' + names[insert_pos]
     else:

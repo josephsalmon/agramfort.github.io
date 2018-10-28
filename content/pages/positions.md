@@ -1,4 +1,4 @@
-title: Positions
+title: Open positions in my lab
 sortorder: 4
 category: positions
 

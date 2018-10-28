@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(0,15,97);
+    color: #024D98;
 }
 a:hover,
 a:focus {
@@ -120,14 +120,12 @@ pre {
     text-align: center;
     bottom: 0;
     max-width: 90%;
-    margin: auto;
-    margin-bottom: -7em;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: righ;
     align-items: center;
     /*padding-bottom: 0;*/
-    /*padding-top: 100px;*/
+    padding-top: 40em;
     /*background-image: linear-gradient(to top,rgba(0,0,0,0.5) 0,rgba(0,0,0,0.3) 70%,rgba(0,0,0,0) 100%);*/
 }
 
@@ -250,7 +248,7 @@ pre {
     font-family: sans-serif;
     text-transform: uppercase;
     color: #1e1e1e;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #353333;
     padding: 0.2em 0;
     font-size: 99%;
     font-weight: 800;
@@ -303,7 +301,6 @@ pre {
     padding: 0em 0;
     font-size: 100%;
     font-weight: 200;
-    background: #f7f2e8;
 
     /*letter-spacing: 0em;*/
 }
@@ -332,7 +329,7 @@ pre {
     margin: 0 0.1em;
     padding: 0.2em 0.6em;
     color: #fff;
-    background: #f7f2e8;
+    background: #999;
     font-size: 90%;
 }
 

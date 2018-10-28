@@ -2,4 +2,10 @@ title: Short Bio
 sortorder: 0
 category: shortbio
 
-I'm currently researcher at [Inria](http://www.inria.fr) in the [Parietal Team](http://parietal.saclay.inria.fr/). My work is on statistical machine learning, signal and image processing, optimization, scientific computing and software engineering with primary applications in brain functional imaging (MEG, EEG, fMRI). Before joining Inria, I was an assistant professor for 5 years at [Telecom ParisTech](http://telecom-paristech.fr) in the [signal processing and machine learning department](http://www.tsi.telecom-paristech.fr/) and before I was at the [Martinos Center](http://www.nmr.mgh.harvard.edu/martinos/flashHome.php) for Biomedical Imaging at [Harvard University](http://www.harvard.edu/) in Boston. I am also an active member of the [Center for Data Science](http://www.datascience-paris-saclay.fr/) at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/). In 2015, I got an ERC Starting Grant for my project called [Signal and Learning Applied to Brain data (SLAB)](https://cordis.europa.eu/project/rcn/205175_en.html).
+I am currently a full professor at [Université de Montpellier](https://www.umontpellier.fr/)
+and an associate member at INRIA [Parietal Team](http://parietal.saclay.inria.fr/).
+For the spring and summer quarters 2018, I was a visiting assistant professor at [UW, Statistics departement](https://www.stat.washington.edu/).
+From 2012 to 2018 I was an assistant professor at [Telecom ParisTech](http://telecom-paristech.fr).
+Back in 2011 and 2012, I was a post-doctoral Associate at [Duke university](https://www.duke.edu/) working with [Rebecca Willett](https://voices.uchicago.edu/willett/).
+
+In 2010, I finished my PHD in statistics and image processing under the supervision of Dominique Picard and [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/) at the Laboratoire de Probabilités et de Modélisation Aléatoire, now [LPSM](http://isidore.lpma.math.upmc.fr/), in [Université Paris Diderot](https://www.univ-paris-diderot.fr/).
