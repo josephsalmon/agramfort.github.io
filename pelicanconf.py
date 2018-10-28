@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import bibtexparser
-
+import pandas as pd
 
 AUTHOR = u'Joseph Salmon'
 SITENAME = u'Joseph Salmon'
@@ -70,17 +70,24 @@ TEMPLATE_PAGES = {'publications.html': 'publications.html'}
 # Publications
 
 
+def make_link_author_website(author):
+    names_url = pd.read_csv('./data/coauthors_url.csv',
+                            header='infer')
+    url = names_url.loc[names_url.name==author, 'url'].values[0]
+    string_author_website = "<a href=" + url + ">" + author + "</a>"
+    return string_author_website
+
+
 def make_nice_author(author, emphasize='Salmon, J.'):
     split_author = author.split(' and ')
     insert_pos = len(split_author) - 1
     names_split = [au.split(', ') for au in split_author]
-    for n in names_split:
-        print(n)
     names = ['{} {}'.format(n[1], n[0]) for n in names_split]
+    names_url = [make_link_author_website(n) for n in names]
     if len(split_author) > 1:
-        author_edit = ', '.join(names[:insert_pos]) + ' and ' + names[insert_pos]
+        author_edit = ', '.join(names_url[:insert_pos]) + ' and ' + names_url[insert_pos]
     else:
-        author_edit = names[insert_pos]
+        author_edit = names_url[insert_pos]
     if emphasize:
         author_edit = author_edit.replace(
             emphasize, '<strong><em>' + emphasize + '</em></strong>')
@@ -105,6 +112,7 @@ records = bibtexparser.loads(bib_str)
 one_records = bibtexparser.loads(bib_str)
 for k, item in enumerate(records.entries):
     one_records.entries = records.entries[k:k + 1]
+    print(item['author'])
     item['author'] = make_nice_author(item['author'])
     for key in ['annote', 'owner', 'group', 'topic']:
         if key in item:
