@@ -1,6 +1,7 @@
 title: Open positions in my lab
-sortorder: 4
+sortorder: 8
 category: positions
+iscourse: false
 
 <!-- - Engineer to work on [scikit-learn](http://scikit-learn.org)
 - PhD/Post-doc positions on machine learning and signal processing with applications in neuroimaging (MEG, EEG)

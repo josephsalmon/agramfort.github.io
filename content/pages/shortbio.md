@@ -1,6 +1,7 @@
 title: Short Bio
 sortorder: 0
 category: shortbio
+iscourse: false
 
 I am currently a full professor at [Université de Montpellier](https://www.umontpellier.fr/)
 and an associate member at INRIA [Parietal Team](http://parietal.saclay.inria.fr/).

@@ -1,10 +1,11 @@
 title: Software
 sortorder: 2
 category: software
+iscourse: false
 
-- [scikit-learn](http://scikit-learn.org) - A Python project for machine learning.
-- [MNE](http://martinos.org/mne) - A complete package to process EEG and MEG data: forward and inverse problems, preprocessing, stats, time-frequency analysis.
-- [openmeeg](http://openmeeg.github.io) - C++ package for low-frequency bio-electromagnetism including the EEG/MEG forward problem. OpenMEEG implements the Symmetric BEM which has shown to provide very accurate solutions. Some features: parallel processing, Python Bindings, Matlab integration with Fieldtrip and BrainStorm.
+- [matlab toolboxes](http://josephsalmon.eu/code/index_codes.php) for statistics and image processing (this is legacy)
 
-More on my [Github Page](http://github.com/agramfort)
+- [Celer](https://mathurinm.github.io/celer/): a fast Lasso solver, code of the associated ICML paper "Dual Extrapolation for Faster Lasso Solvers" ([pdf](https://arxiv.org/abs/1802.07481), [slides](http://localhost/talks/UBC.pdf))
+
+More on my [Github Page](http://github.com/josephsalmon)
 

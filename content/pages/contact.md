@@ -1,6 +1,7 @@
 title: Contact
 sortorder: 1
 category: contact
+iscourse: false
 
 **Email:** [joseph.salmon@umontpellier.fr](mailto:joseph.salmon@umontpellier.fr)
 

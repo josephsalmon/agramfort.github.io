@@ -49,6 +49,8 @@ FAVICON = 'images/favicon.ico'
 
 GOOGLE_ANALYTICS = " UA-34336869-1"
 
+# NOT_COURSE_LIST = ["contact", "news", "positions", "shortbio", "software", "team"]
+
 STATIC_PATHS = ['images', 'pdfs', 'widgets']
 PAGE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
 ARTICLE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
@@ -65,7 +67,8 @@ PAGINATION_PATTERNS = (
 
 PLUGIN_PATHS = ['../pelican-plugins']
 
-TEMPLATE_PAGES = {'publications.html': 'publications.html'}
+TEMPLATE_PAGES = {'publications.html': 'publications.html',
+                  'teaching.html': 'teaching.html'}
 
 # Publications
 
