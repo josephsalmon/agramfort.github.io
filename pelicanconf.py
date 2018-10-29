@@ -68,7 +68,8 @@ PAGINATION_PATTERNS = (
 PLUGIN_PATHS = ['../pelican-plugins']
 
 TEMPLATE_PAGES = {'publications.html': 'publications.html',
-                  'teaching.html': 'teaching.html'}
+                  'teaching.html': 'teaching.html',
+                  'SD204.html': 'SD204.html'}
 
 # Publications
 
