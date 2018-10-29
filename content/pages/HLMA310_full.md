@@ -9,12 +9,17 @@ This is an undergraduate course (in French!) introducing Python for scientific c
 
 We will address some of the element in the Python scientific ecosystem:
 
-![Python scientific ecosystem](images/python_ecosystem.svg)
-
-### [Poly d'introduction à Python](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
+![Python scientific ecosystem](images/python_ecosystem.svg "Python scientific ecosystem"){ width=72% }
 
 
-## Cours: slides et notebooks
+### Syllabus:
+[version 2018-2019](/enseignement/Montpellier/HLMA310/syllabus_18_19.pdf)
+
+### Polycopié:
+[Introduction à Python, version 2018-2019](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
+
+
+### Cours: slides et notebooks
 
 1. [IntroPython_slides.pdf](/enseignement/Montpellier/HLMA310/IntroPython_slides.pdf) [prise_en_main_notebook.ipynb](/enseignement/Montpellier/HLMA310/prise_en_main_notebook.ipynb)
 
@@ -24,7 +29,7 @@ We will address some of the element in the Python scientific ecosystem:
 
 1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf)[pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
 
-## TPs:
+### Travaux pratiques:
 
 1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA310/TP1-Introduction.pdf), [TP1-Introduction.ipynb](/enseignement/Montpellier/HLMA310/TP1-Introduction.ipynb)
 
@@ -41,3 +46,10 @@ We will address some of the element in the Python scientific ecosystem:
 1. [TP7-pandas_pollution_occitanie.ipynb](/enseignement/Montpellier/HLMA310/TP7-pandas_pollution_occitanie.ipynb)
 
 1. [TP8-matplotlib_animation.pdf](/enseignement/Montpellier/HLMA310/TP8-matplotlib_animation.pdf)
+
+### More resources:
+
+- [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
+and associated
+[videos](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
+- [Scipy lecture notes](https://www.scipy-lectures.org/)

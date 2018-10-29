@@ -4,4 +4,4 @@ category: course
 iscourse: true
 isfull: false
 
-This is a grade course on robust statistics and optimization.
+This is a grade course on robust statistics and optimization; details are here [STAT593 - Robust statistics](STAT593.html).

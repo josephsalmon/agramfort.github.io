@@ -4,4 +4,5 @@ category: course
 iscourse: true
 isfull: false
 
-This is a master 2 course on statistical learning.
+This contains Master 2 exercices on statistical learning;
+details are here [M2MO - Machine Learning](M2MO.html).
