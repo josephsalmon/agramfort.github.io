@@ -10,7 +10,7 @@ This is an undergraduate course (in French!) introducing linear models and varia
 
 ![TSN-E sur la base de données digit](images/fig_tsne_digits_w_classes.svg "TSN-E sur la base de données digit"){ width=72% }
 
-### Cours: slides et notebooks
+## Cours: slides et notebooks
 
 1. Introduction: [IntroStatistics_fr.pdf](enseignement/TELECOM/MDI720/IntroStatistics_fr.pdf); [IntroStatistics_fr.ipynb](enseignement/TELECOM/MDI720/IntroStatistics_fr.ipynb), [plot_species_kde.py](enseignement/TELECOM/MDI720/plot_species_kde.py)
 
@@ -43,20 +43,20 @@ This is an undergraduate course (in French!) introducing linear models and varia
 1. CategoricalVariables: [CategoricalVariables.ipynb](enseignement/TELECOM/MDI720/CategoricalVariables.ipynb)
 
 
-### Quiz:
+## Quiz:
 [test_fr.html](enseignement/TELECOM/MDI720/test_fr.html)
 
-### TPs:
+## TPs:
 1. [TP_intro_python_fr.pdf](enseignement/TELECOM/MDI720/TP_intro_python_fr.pdf); [TP_Introduction_corr_fr.ipynb](enseignement/TELECOM/MDI720/TP_Introduction_corr_fr.ipynb)
 
 1. [TP_intro_linear_model_fr.pdf](enseignement/TELECOM/MDI720/TP_intro_linear_model_fr.pdf); [TP_intro_linear_model_corr_fr.ipynb](enseignement/TELECOM/MDI720/TP_intro_linear_model_corr_fr.ipynb)
 
 1. [TP_boostrap_n_greedy.pdf](enseignement/TELECOM/MDI720/TP_boostrap_n_greedy.pdf); [TP_boostrap_n_greedy_corr_fr.ipynb](enseignement/TELECOM/MDI720/TP_boostrap_n_greedy_corr_fr.ipynb)
 
-### Examen:
+## Examen:
 [Examen-2017-2018.pdf](enseignement/TELECOM/MDI720/Examen-2017-2018.pdf)
 
-### More resources:
+## More resources:
 
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
 and associated

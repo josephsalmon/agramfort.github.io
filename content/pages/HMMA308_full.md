@@ -9,14 +9,12 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 ![Level set for Lasso](images/separable_level_set10.svg "Level set for Lasso"){ width=27% }
 ![Level set for Adaptive Lasso (sqrt)](images/non_cvx_sqrt_level_set.svg "Level set for Adaptive Lasso (sqrt)"){ width=27% }
-![Level set for Adaptive Lasso (log)](images/non_cvx_log_level_set.svg "Level set for Adaptive Lasso (log)"){ width=27% }
+![Level set for Adaptive Lasso (log)](images/non_cvx_log_level_set.svg "Level st for Adaptive Lasso (log)"){ width=27% }
 
+## Syllabus:
+[version 2018-2019](/enseignement/Montpellier/Apprentissage_Statistique/sllabus_18_19.pdf)
 
-
-### Syllabus:
-[version 2018-2019](/enseignement/Montpellier/Apprentissage_Statistique/syllabus_18_19.pdf)
-
-### Cours:
+## Cours:
 
 1. Intro Machine Learning: [IntroML_slides.pdf](/enseignement/Montpellier/Apprentissage_Statistique/IntroML_slides.pdf)
 
@@ -40,8 +38,7 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Clustering : [clustering_slides.pdf](/enseignement/Montpellier/Apprentissage_Statistique/clustering_slides.pdf)
 
-
-### TPs:
+## TPs:
 
 
 1. [knn_tp.pdf](/enseignement/Montpellier/Apprentissage_Statistique/knn_tp.pdf) , [knn_tp_corr.pdf](/enseignement/Montpellier/Apprentissage_Statistique/knn_tp_corr.pdf),
@@ -58,6 +55,5 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. [clustering_tp.pdf](/enseignement/Montpellier/Apprentissage_Statistique/clustering_tp.pdf), [kmeans.py](/enseignement/Montpellier/Apprentissage_Statistique/kmeans.py), [gap.py](/enseignement/Montpellier/Apprentissage_Statistique/gap.py), [china.jpg](/enseignement/Montpellier/Apprentissage_Statistique/china.jpg)
 
-
-### Projet final:
+## Projet final:
 [project_2018-2019.pdf](/enseignement/Montpellier/Apprentissage_Statistique/project_2018-2019.pdf)

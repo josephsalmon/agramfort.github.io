@@ -8,18 +8,15 @@ slug: SD3-full
 This is an undergraduate course (in French) on descriptive statistics.
 
 
-![Boxplot](images/boxplots.svg "Boxplot"){ width=44% }
-![Violons](images/violons.svg "Violons"){ width=44% }
+![Boxplot](images/boxplots.svg "Boxplot"){ width=49% }
+![Violons](images/violons.svg "Violons"){ width=49% }
 
 
-### Courses
-Les documents utilisés pour ces TDs sont aussi disponibles sur le site de [Stéphane Boucheron](http://stephane-v-boucheron.fr/). Il est aussi possible de consulter le [site du cours HMLA310](HLMA310.html).
+## Courses
+Les documents utilisés pour ces TDs sont aussi disponibles sur le site de [Stéphane Boucheron](http://stephane-v-boucheron.fr/). Il est aussi possible de consulter le [site du cours HMLA310](HLMA310.html) pour avoir plus d'informations. En particulier le [polycopié](/enseignement/Montpellier/HLMA310/IntroPython.pdf) de ce cours pourra servir également (avec l'avantage d'être en Python).
 
 
-
-
-
-### TPs
+## TPs
 1. [TP1](enseignement/SD3/td1.pdf): Reprise en main de R
 
 1. [TP2](enseignement/SD3/td2.pdf): Data Frame, Matrices et tableaux
@@ -32,7 +29,7 @@ Les documents utilisés pour ces TDs sont aussi disponibles sur le site de [Sté
 1. [TP4](enseignement/SD3/td4.pdf): Corrélations
 1. [TP5](enseignement/SD3/td5.pdf): Algèbre linéaire
 
-### Resources:
+## Resources:
 
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
 and associated
@@ -43,3 +40,5 @@ and associated
 - [R pour les sociologues et assimilés](enseignement/SD3/Barnier-intro_R.pdf) par Julien Barnier.
 
 - [R pour les débutants](enseignement/SD3/Paradis-rdebuts_fr.pdf) par Emmanuel Paradis.
+
+- [Visualisation: dataviz](https://serialmentor.com/dataviz/)

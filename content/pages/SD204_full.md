@@ -16,7 +16,7 @@ This is an undergrade course on linear models.
 
 
 
-### Slides and Courses
+## Slides and Courses
 
 1. Introduction: [LeastSquare_1D_en.pdf](/enseignement/TELECOM/SD204/LeastSquare_1D_en.pdf); [LeastSquare_1D_en.ipynb](/enseignement/TELECOM/SD204/LeastSquare_1D_en.ipynb)
 

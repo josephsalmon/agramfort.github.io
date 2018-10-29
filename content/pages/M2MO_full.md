@@ -14,12 +14,12 @@ This part contains Master 2 exercises on statistical learning.
 ![Cross Validation: 3rd fold](images/CV_10_3.svg "Cross Validation: 3rd fold"){ width=40% }
 
 
-### Slides and courses
+## Slides and courses
 Documents for this course might be found on
 [Stéphan Clémençon's webpage](http://perso.telecom-paristech.fr/~clemenco/).
 
 
-### Tutorial classes:
+## Tutorial classes:
 
 1. [learning_td1.pdf](enseignement/M2/Learning/learning_td1.pdf)
 
@@ -27,7 +27,7 @@ Documents for this course might be found on
 
 1. [learning_td3.pdf](enseignement/M2/Learning/learning_td3.pdf)
 
-### Ressources en ligne:
+## Ressources en ligne:
 
 [Maxim Raginsky's course](http://maxim.ece.illinois.edu/teaching/fall15b/index.html)
 

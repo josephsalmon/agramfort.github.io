@@ -7,11 +7,11 @@ slug: STAT593-full
 
 
 
-![Depth 0 and level sets](images/depth_level_sets_full_0.svg "Depth greater than 0 "){ width=44% }
-![Depth 1 and level sets](images/depth_level_sets_full_1.svg "Depth greater than 1"){ width=44% }
+![Depth 0 and level sets](images/depth_level_sets_full_0.svg "Depth greater than 0 "){ width=41% }
+![Depth 1 and level sets](images/depth_level_sets_full_1.svg "Depth greater than 1"){ width=41% }
 
-![Depth 2 and level sets](images/depth_level_sets_full_2.svg "Depth greater than 2"){ width=44% }
-![Depth 3 and level sets](images/depth_level_sets_full.svg "Depth greater than 3"){ width=44% }
+![Depth 2 and level sets](images/depth_level_sets_full_2.svg "Depth greater than 2"){ width=41% }
+![Depth 3 and level sets](images/depth_level_sets_full.svg "Depth greater than 3"){ width=41% }
 
 
 This is a grade course on robust statistics and optimization.
@@ -19,10 +19,10 @@ This is a grade course on robust statistics and optimization.
 WARNING: Useful code (for plotting) for the entire notebooks in this course [utils.py](enseignement/UW/share_code/utils.py)
 
 
-### Syllabus:
+## Syllabus:
 [version 2017-2018](enseignement/UW/syllabus_STAT_593_spring2017.pdf)
 
-### Cours:
+## Cours:
 1. Introduction: [IntroRobustness.pdf](enseignement/UW/STAT593/IntroRobustness.pdf); [IntroRobustness.ipynb](enseignement/UW/STAT593/IntroRobustness.ipynb), [LeveragePoints.ipynb](enseignement/UW/STAT593/LeveragePoints.ipynb)
 
 1. Equivariance / Breakdown Point: [Equivariance_BP.pdf](enseignement/UW/STAT593/Equivariance_BP.pdf)
