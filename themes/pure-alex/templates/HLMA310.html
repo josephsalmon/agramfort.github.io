@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="pure-g-r" id="layout">
+    {% include 'sidebar.html' %}
+    <div class="pure-u-1", style="background:#f7f2e8">
+        <div class="content">
+            <div id="publications" class="posts" >
+
+                {% for pg in pages %}
+                {% if pg.slug == 'HLMA310-full' %}
+                    <h2 class="content-subhead" id="{{ pg.category }}">{{ pg.title }}</h2>
+                    <section class="post">
+                        <p class="post-meta">{{ pg.content }}</p>
+                    </section>
+                {% endif %}
+                {% endfor %}
+
+                {% include 'footer.html' %}
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

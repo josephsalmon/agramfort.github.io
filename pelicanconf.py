@@ -51,9 +51,9 @@ GOOGLE_ANALYTICS = " UA-34336869-1"
 
 # NOT_COURSE_LIST = ["contact", "news", "positions", "shortbio", "software", "team"]
 
-STATIC_PATHS = ['images', 'pdfs', 'widgets']
-PAGE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
-ARTICLE_EXCLUDES = ['widgets', '.ipynb_checkpoints']
+STATIC_PATHS = ['images', 'enseignement', 'pdfs', 'widgets']
+PAGE_EXCLUDES = ['widgets', 'enseignement', '.ipynb_checkpoints']
+ARTICLE_EXCLUDES = ['widgets', 'enseignement', '.ipynb_checkpoints']
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_DATE = 'fs'
@@ -69,7 +69,11 @@ PLUGIN_PATHS = ['../pelican-plugins']
 
 TEMPLATE_PAGES = {'publications.html': 'publications.html',
                   'teaching.html': 'teaching.html',
-                  'SD204.html': 'SD204.html'}
+                  'SD204.html': 'SD204.html',
+                  'HLMA310.html': 'HLMA310.html',
+                  'HMMA308.html': 'HMMA308.html',
+                  'STAT593.html': 'STAT593.html',
+                  'M2MO.html': 'M2MO.html'}
 
 # Publications
 

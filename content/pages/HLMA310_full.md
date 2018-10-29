@@ -1,0 +1,43 @@
+title: HLMA310 - Logiciels scientifiques (2018-2019)
+sortorder: 0
+category: course
+iscourse: true
+slug: HLMA310-full
+
+
+This is an undergraduate course (in French!) introducing Python for scientific computing.
+
+We will address some of the element in the Python scientific ecosystem:
+
+![Python scientific ecosystem](images/python_ecosystem.svg)
+
+### [Poly d'introduction à Python](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
+
+
+## Cours: slides et notebooks
+
+1. [IntroPython_slides.pdf](/enseignement/Montpellier/HLMA310/IntroPython_slides.pdf) [prise_en_main_notebook.ipynb](/enseignement/Montpellier/HLMA310/prise_en_main_notebook.ipynb)
+
+1. [numpy_slides.pdf](/enseignement/Montpellier/HLMA310/numpy_slides.pdf), [numpy.ipynb](/enseignement/Montpellier/HLMA310/numpy.ipynb)
+
+1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
+
+1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf)[pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
+
+## TPs:
+
+1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA310/TP1-Introduction.pdf), [TP1-Introduction.ipynb](/enseignement/Montpellier/HLMA310/TP1-Introduction.ipynb)
+
+1. [TP2-boucles_functions.pdf](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.pdf) [TP2-boucles_functions.ipynb](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb)
+
+1. [TP3-numpy_matplolib.pdf](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.pdf), [TP3-numpy_matplolib.ipynb](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.ipynb)
+
+1. [TP4-descente_gradient.pdf](/enseignement/Montpellier/HLMA310/TP4-descente_gradient.pdf), [TP4-descente_gradient.ipynb](/enseignement/Montpellier/HLMA310/TP4-descente_gradient.ipynb)
+
+1. (TP noté) : [TP5-JeuDeLaVie.pdf](/enseignement/Montpellier/HLMA310/TP5-JeuDeLaVie.pdf), [TP-Note-draft.ipynb](/enseignement/Montpellier/HLMA310/TP-Note-draft.ipynb)
+
+1. [TP6-pandas.pdf](/enseignement/Montpellier/HLMA310/TP6-pandas.pdf)
+
+1. [TP7-pandas_pollution_occitanie.ipynb](/enseignement/Montpellier/HLMA310/TP7-pandas_pollution_occitanie.ipynb)
+
+1. [TP8-matplotlib_animation.pdf](/enseignement/Montpellier/HLMA310/TP8-matplotlib_animation.pdf)
