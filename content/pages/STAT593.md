@@ -1,4 +1,4 @@
-title: STAT 593 - Robust statistics (2018-2019)
+title: STAT593 - Robust statistics (2018-2019)
 sortorder: 2
 category: course
 iscourse: true
