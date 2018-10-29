@@ -1,5 +1,5 @@
 title: Open positions in my lab
-sortorder: 8
+sortorder: 7
 category: positions
 iscourse: false
 

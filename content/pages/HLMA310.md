@@ -1,5 +1,5 @@
 title: HLMA310 - Logiciels scientifiques (2018-2019)
-sortorder: 1
+sortorder: 0
 category: course
 iscourse: true
 
