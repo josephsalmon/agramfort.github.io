@@ -1,5 +1,5 @@
 title: Contact
-sortorder: 1
+sortorder: 0
 category: contact
 iscourse: false
 

@@ -1,5 +1,8 @@
 <p class="post-meta">
-    {{ item['author'] }} ({{ item['year']}}). <i>{{ item['title']}}</i>.
+    <i><b>{{ item['title']}}</b></i>
+    <br>
+    {{ item['author'] }} ({{ item['year']}}).
+    </br>
     {% if item['ENTRYTYPE'] == 'inproceedings' %}
         {{ item['booktitle'] }}
     {% elif item['ENTRYTYPE'] == 'article' %}

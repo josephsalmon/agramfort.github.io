@@ -1,5 +1,5 @@
 title: Short Bio
-sortorder: 0
+sortorder: 2
 category: shortbio
 iscourse: false
 

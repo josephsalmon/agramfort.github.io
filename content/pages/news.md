@@ -1,5 +1,5 @@
 title: News
-sortorder: 7
+sortorder: 1
 category: news
 iscourse: false
 
