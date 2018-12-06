@@ -63,6 +63,6 @@ Any Linux/Mac user might benefit from that.
 
 - [openculture](http://www.openculture.com/) : discover Tarkovski's movies or good ol' Hitchcock's
 
-## Radio:
+## Radio
 
 - [Sur les épaules de darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)

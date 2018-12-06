@@ -5,19 +5,23 @@ iscourse: true
 isfull: true
 istalk: true
 
+- [Université Paris-Sud](http://www.u-psud.fr/fr/index.html) (04/12/2018), "Generalized Concomitant Multi-Task Lasso for sparse multimodal regression"
+[slides](talks/seminar_JS_orsay.pdf)
 
-- [University of British Columbia (Vancouver)](https://www.cs.ubc.ca/)   (17/24/2018), "Celer: a fast Lasso solver with dual extrapolation"
+- [Horizon Maths 2018 : Intelligence Artificielle](https://www.sciencesmaths-paris.fr/fr/horizon-maths-2018-intelligence-artificielle-957.htm)   (23/11/2018), Celer: a fast Lasso solver with dual
+extrapolation" [slides](talks/horizonmath.pdf)
+
+- [University of British Columbia (Vancouver)](https://www.cs.ubc.ca/)   (07/17/2018), "Celer: a fast Lasso solver with dual extrapolation"
 [slides](talks/UBC.pdf)
 
-- [ML+TOPS Seminar - University of Washington](https://www.cs.washington.edu/research/ml/seminars) (27/02/2018) "Generalized Concomitant Multi-Task
+- [ML+TOPS Seminar - University of Washington](https://www.cs.washington.edu/research/ml/seminars) (02/27/2018) "Generalized Concomitant Multi-Task
 Lasso for sparse multimodal regression" [slides](talks/seminar_JS.pdf)
 
-- Séminaire de probabilités de l'ENS Lyon (29/11/2017) "Generalized Concomitant Multi-Task
-Lasso for sparse multimodal regression" [slides](talks/seminar_ens_proba.pdf)
+- Séminaire de probabilités de l'ENS Lyon (29/11/2017) "Generalized Concomitant Multi-Task Lasso for sparse multimodal regression" [slides](talks/seminar_ens_proba.pdf)
 
 - Séminaire d'informatique de l'ENS Lyon (29/11/2017) "(Gap) Safe screening rules to speed-up sparse regression solvers" [slides](talks/GAP_Safe_Lyon.pdf)
 
-- [France / Japan Machine Learning Workshop]<http://fjml.marcocuturi.net/>
+- [France / Japan Machine Learning Workshop](http://fjml.marcocuturi.net/)
 Paris, France, September, 2017
 "From safe screening rules to working sets for faster Lasso-type solvers"
  ([slides](talks/France-Japan-JS.pdf))
