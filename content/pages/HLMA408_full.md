@@ -22,7 +22,15 @@ We will address some of the element in the Python scientific ecosystem
 
 ## Cours: slides et notebooks
 
-1. [StatDescriptives.pdf](/enseignement/Montpellier/HLMA408/StatDescriptives.pdf) [StatDescriptives.ipynb](/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb), [StatDescriptives.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb?flush_cache=true), [Gaussiennes.ipynb](/enseignement/Montpellier/HLMA408/Gaussiennes.ipynb), [Gaussiennes.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Gaussiennes.ipynb?flush_cache=true)
+1. [StatDescriptives.pdf](/enseignement/Montpellier/HLMA408/StatDescriptives.pdf),
+[StatDescriptives.ipynb](/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb),
+[StatDescriptives.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb?flush_cache=true),
+2. [GaussianDistribution.pdf](/enseignement/Montpellier/HLMA408/GaussianDistribution.pdf),
+[GaussianDistribution.ipynb](/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb),
+[GaussianDistribution.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb?flush_cache=true)
+3. [Echantillonage.pdf](/enseignement/Montpellier/HLMA408/Echantillonage.pdf),
+[Echantillonage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonage.ipynb),
+[Echantillonage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonage.ipynb?flush_cache=true)
 
 
 ## Travaux dirigés:
