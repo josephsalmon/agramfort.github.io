@@ -5,6 +5,12 @@ iscourse: true
 isfull: true
 istalk: true
 
+- [Prediction and Analysis of Structured AnD Heterogeneous DAta workshop](http://www.lpsm.paris/pageperso/sangnier/pasadena_program.html) (15/02/2019), "Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise"
+[slides](talks/seminar_pasadena.pdf)
+
+- [Université de Montpellier: Séminaires EPS](https://imag.edu.umontpellier.fr/seminaires/seminaires-eps/) (14/01/2019), "Celer: a Fast Solver for the Lasso with Dual Extrapolation"
+[slides](talks/horizonmath.pdf)
+
 - [Université Paris-Sud](http://www.u-psud.fr/fr/index.html) (04/12/2018), "Generalized Concomitant Multi-Task Lasso for sparse multimodal regression"
 [slides](talks/seminar_JS_orsay.pdf)
 
