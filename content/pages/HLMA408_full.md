@@ -40,7 +40,7 @@ We will address some of the element in the Python scientific ecosystem
 
 1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf)
 1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf),
-[QCM1.pdf](/enseignement/Montpellier/HLMA408/QCM1.pdf)
+[QCM1.pdf](/enseignement/Montpellier/HLMA408/QCM1.pdf),
 [QCM1_corr.pdf](/enseignement/Montpellier/HLMA408/QCM1_corr.pdf)
 
 
