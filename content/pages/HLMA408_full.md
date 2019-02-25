@@ -46,7 +46,7 @@ We will address some of the element in the Python scientific ecosystem
 
 ## Travaux pratiques:
 
-1. [???.pdf](/enseignement/Montpellier/HLMA408/???.pdf), [???.ipynb](/enseignement/Montpellier/HLMA408/???.ipynb), [???.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/???.ipynb)
+1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction.pdf), [TP1-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction_R.pdf), [TP1-Squelette.ipynb](/enseignement/Montpellier/HLMA408/TP1-Squelette.ipynb)
 
 
 ## Plus d'information et quelques sources de données:
