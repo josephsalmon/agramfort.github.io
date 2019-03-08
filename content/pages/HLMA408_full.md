@@ -42,11 +42,12 @@ We will address some of the element in the Python scientific ecosystem
 1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf),
 [QCM1.pdf](/enseignement/Montpellier/HLMA408/QCM1.pdf),
 [QCM1_corr.pdf](/enseignement/Montpellier/HLMA408/QCM1_corr.pdf)
-
+1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf),
 
 ## Travaux pratiques:
 
-1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction.pdf), [TP1-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction_R.pdf), [TP1-Squelette.ipynb](/enseignement/Montpellier/HLMA408/TP1-Squelette.ipynb)
+1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction.pdf), [TP1-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction_R.pdf), [TP1-Squelette.ipynb](/enseignement/Montpellier/HLMA408/TP1-Squelette.ipynb), [exemple_session.R](/enseignement/Montpellier/HLMA408/exemple_session.R)
+
 
 
 ## Plus d'information et quelques sources de données:
