@@ -31,10 +31,12 @@ We will address some of the element in the Python scientific ecosystem
 3. [Echantillonage.pdf](/enseignement/Montpellier/HLMA408/Echantillonage.pdf),
 [Echantillonage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonage.ipynb),
 [Echantillonage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonage.ipynb?flush_cache=true)
-3. [EstimationTests.pdf](/enseignement/Montpellier/HLMA408/EstimationTests.pdf),
+4. [EstimationTests.pdf](/enseignement/Montpellier/HLMA408/EstimationTests.pdf),
 [EstimationTests.ipynb](/enseignement/Montpellier/HLMA408/EstimationTests.ipynb),
 [EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
-
+5. [ICGaussiens.pdf](/enseignement/Montpellier/HLMA408/ICGaussiens.pdf),
+[ICGaussiens.ipynb](/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb),
+[ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb)
 
 ## Travaux dirigés:
 
@@ -42,11 +44,15 @@ We will address some of the element in the Python scientific ecosystem
 1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf),
 [QCM1.pdf](/enseignement/Montpellier/HLMA408/QCM1.pdf),
 [QCM1_corr.pdf](/enseignement/Montpellier/HLMA408/QCM1_corr.pdf)
-1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf),
+1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf)
 
 ## Travaux pratiques:
 
 1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction.pdf), [TP1-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction_R.pdf), [TP1-Squelette.ipynb](/enseignement/Montpellier/HLMA408/TP1-Squelette.ipynb), [exemple_session.R](/enseignement/Montpellier/HLMA408/exemple_session.R)
+
+
+1. [TP-chi2.pdf](/enseignement/Montpellier/HLMA408/TP-chi2.pdf), [TP-chi2_R.pdf](/enseignement/Montpellier/HLMA408/TP-chi2_R.pdf),[TP-chi2_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2_squelette.ipynb)
+
 
 
 

@@ -71,11 +71,14 @@ PAGINATION_PATTERNS = (
 PLUGIN_PATHS = ['../pelican-plugins']
 
 # List of pages to appear in html exceptions:
+# should be put in content/pages. and also create pure-alex/templates/****.html
 TEMPLATE_PAGES = {'publications.html': 'publications.html',
                   'teaching.html': 'teaching.html',
                   'talks.html': 'talks.html',
                   'misc.html': 'misc.html',
                   'SD204.html': 'SD204.html',
+                  'HMMA237.html': 'HMMA237.html',
+                  'HMMA238.html': 'HMMA238.html',
                   'HLMA408.html': 'HLMA408.html',
                   'HLMA310.html': 'HLMA310.html',
                   'HMMA308.html': 'HMMA308.html',

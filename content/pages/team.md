@@ -3,10 +3,6 @@ sortorder: 3
 category: team
 iscourse: false
 
-<!-- ### Post Docs
-  - [Thomas Moreau](https://tommoral.github.io/about.html)
--->
-
 ### PhD Students
 
 - [Mathurin Massias](https://mathurinm.github.io) (co-advised with [Alexandre Gramfort](http://alexandre.gramfort.net/)): 2016-2019?
