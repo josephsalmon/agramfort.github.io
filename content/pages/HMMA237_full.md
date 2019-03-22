@@ -13,7 +13,7 @@ This is an undergraduate course (in French!) introducing advanced
 
 
 ## Syllabus:
-[version 2018-2019](/enseignement/Montpellier/HLMA408/syllabus_HMMA238_2018-2019.pdf)
+[version 2018-2019](/enseignement/Montpellier/HMMA237/syllabus_HMMA237_18_19.pdf)
 
 
 ## Cours: slides et notebooks
@@ -22,7 +22,11 @@ TBD.
 
 ## Travaux dirigés:
 
-1. [TD1.pdf](/enseignement/Montpellier/HMMA237/TD1.pdf)
+1. [TD1-Woodbury.pdf](/enseignement/Montpellier/HMMA237/TD1-Woodbury.pdf)
+
+## Exemple de projet LaTeX:
+
+Fichier pour la partie LaTeX du cours: [latex-homework.zip](/enseignement/Montpellier/HMMA237/latex-homework.zip)
 
 
 ## Plus d'information et quelques sources de données:
