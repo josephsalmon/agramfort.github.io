@@ -9,8 +9,9 @@ This is an undergraduate course (in French!) introducing Python for scientific c
 
 We will address some of the element in the Python scientific ecosystem:
 
+<center>
 ![Python scientific ecosystem](images/python_ecosystem.svg "Python scientific ecosystem"){ width=72% }
-
+</center>
 
 ## Syllabus:
 [version 2018-2019](/enseignement/Montpellier/HLMA310/syllabus_18_19.pdf)

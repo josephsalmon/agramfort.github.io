@@ -8,9 +8,9 @@ slug: HMMA237-full
 
 This is an undergraduate course (in French!) introducing advanced
 
-
+<center>
 ![Python scientific ecosystem](images/moindre_carre_projection.svg "Moindres Carrés"){ width=72% }
-
+</center>
 
 ## Syllabus:
 [version 2018-2019](/enseignement/Montpellier/HMMA237/syllabus_HMMA237_18_19.pdf)

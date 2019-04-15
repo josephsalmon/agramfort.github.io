@@ -8,10 +8,9 @@ slug: HLMA408-full
 
 This is an undergraduate course (in French!) introducing statistics and data visualisation.
 
-We will address some of the element in the Python scientific ecosystem
-
-![Python scientific ecosystem](images/moindre_carre_projection.svg "Moindres Carrés"){ width=72% }
-
+<center>
+![Python scientific ecosystem](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=70%}
+</center>
 
 ## Syllabus:
 [version 2018-2019](/enseignement/Montpellier/HLMA408/syllabus_HLMA408_2018-2019.pdf)
@@ -36,7 +35,13 @@ We will address some of the element in the Python scientific ecosystem
 [EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
 5. [ICGaussiens.pdf](/enseignement/Montpellier/HLMA408/ICGaussiens.pdf),
 [ICGaussiens.ipynb](/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb),
-[ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb)
+[ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb?flush_cache=true)
+5. [ModeleLineaire.pdf](/enseignement/Montpellier/HLMA408/ModeleLineaire.pdf),
+[ModeleLineaire.ipynb](/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb),
+[ModeleLineaire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb?flush_cache=true)
+5. [Anova.pdf](/enseignement/Montpellier/HLMA408/Anova.pdf),
+[Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
+[Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
 
 ## Travaux dirigés:
 
@@ -45,15 +50,22 @@ We will address some of the element in the Python scientific ecosystem
 [QCM1.pdf](/enseignement/Montpellier/HLMA408/QCM1.pdf),
 [QCM1_corr.pdf](/enseignement/Montpellier/HLMA408/QCM1_corr.pdf)
 1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf)
+1. [TD4.pdf](/enseignement/Montpellier/HLMA408/TD4.pdf)
+1. [TD5.pdf](/enseignement/Montpellier/HLMA408/TD5.pdf)
 
 ## Travaux pratiques:
 
-1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction.pdf), [TP1-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP1-Introduction_R.pdf), [TP1-Squelette.ipynb](/enseignement/Montpellier/HLMA408/TP1-Squelette.ipynb), [exemple_session.R](/enseignement/Montpellier/HLMA408/exemple_session.R)
+1. Introduction
+	- Python: [TP-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP-Introduction.pdf), [TP-Introduction_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-Introduction_squelette.ipynb), [TP-Introduction.ipynb](/enseignement/Montpellier/HLMA408/TP-Introduction.ipynb),
+	- R :     [TP-Introduction_R.pdf](/enseignement/Montpellier/HLMA408/TP-Introduction_R.pdf), [TP-Introduction.R](/enseignement/Montpellier/HLMA408/TP-Introduction.R)
 
+1. Chi2
+	- Python: [TP-chi2.pdf](/enseignement/Montpellier/HLMA408/TP-chi2.pdf), [TP-chi2_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2_squelette.ipynb), [TP-chi2.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2.ipynb)
+	- R:  [TP-chi2_R.pdf](/enseignement/Montpellier/HLMA408/TP-chi2_R.pdf), [TP-chi2.R](/enseignement/Montpellier/HLMA408/TP-chi2.R)
 
-1. [TP-chi2.pdf](/enseignement/Montpellier/HLMA408/TP-chi2.pdf), [TP-chi2_R.pdf](/enseignement/Montpellier/HLMA408/TP-chi2_R.pdf),[TP-chi2_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2_squelette.ipynb)
-
-
+1. Tests et loi gaussiennes:
+	- Python: [TP-Gaussiennes.pdf](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.pdf), [TP-Gaussiennes_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-Gaussiennes_squelette.ipynb), [TP-Gaussiennes.ipynb](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.ipynb)
+	- R: [TP-Gaussiennes_R.pdf](/enseignement/Montpellier/HLMA408/TP-Gaussiennes_R.pdf), [TP-Gaussiennes.R](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.R)
 
 
 ## Plus d'information et quelques sources de données:

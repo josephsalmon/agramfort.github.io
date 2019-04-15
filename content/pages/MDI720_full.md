@@ -8,7 +8,9 @@ slug: MDI720-full
 
 This is an undergraduate course (in French!) introducing linear models and variants.
 
+<center>
 ![TSN-E sur la base de données digit](images/fig_tsne_digits_w_classes.svg "TSN-E sur la base de données digit"){ width=72% }
+</center>
 
 ## Cours: slides et notebooks
 

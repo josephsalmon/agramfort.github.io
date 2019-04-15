@@ -7,9 +7,11 @@ slug: HMMA308-full
 
 This course is in French, and deals with Machine Learning, mostly supervised learning.
 
+<center>
 ![Level set for Lasso](images/separable_level_set10.svg "Level set for Lasso"){ width=27% }
 ![Level set for Adaptive Lasso (sqrt)](images/non_cvx_sqrt_level_set.svg "Level set for Adaptive Lasso (sqrt)"){ width=27% }
 ![Level set for Adaptive Lasso (log)](images/non_cvx_log_level_set.svg "Level st for Adaptive Lasso (log)"){ width=27% }
+</center>
 
 ## Syllabus:
 [version 2018-2019](/enseignement/Montpellier/Apprentissage_Statistique/sllabus_18_19.pdf)

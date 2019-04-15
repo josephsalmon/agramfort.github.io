@@ -10,21 +10,28 @@ This is an undergraduate course (in French!) introducing computing and coding.
 
 We will address some of the element in the Python scientific ecosystem
 
+<center>
 ![Python scientific ecosystem](images/python_ecosystem.svg "Python scientific ecosystem"){ width=72% }
-
+</center>
 
 ## Syllabus:
-[version 2018-2019](/enseignement/Montpellier/HLMA408/syllabus_HMMA238_2018-2019.pdf)
+[version 2018-2019](/enseignement/Montpellier/HMMA238/syllabus_HMMA238_18_19.pdf)
 
 ## Polycopié:
 [Introduction à Python, version 2018-2019](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
 
 
-## Cours: slides et notebooks
+## Cours: notebooks
+[1-Intro-Python.ipynb](/enseignement/Montpellier/HMMA238/1-Intro-Python.ipynb),
+[1-Intro-Python.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/1-Intro-Python.ipynb?flush_cache=true),
+[hello-world.py](/enseignement/Montpellier/HMMA238/hello-world.py)
+
+[2-Numpy-Matplotlib.ipynb](/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb), [2-Numpy-Matplotlib.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb?flush_cache=true),
 
 
-## Travaux pratiques:
+## Exemple de projet LaTeX:
 
+Fichier pour la partie LaTeX du cours: [draft-project.zip](/enseignement/Montpellier/HMMA238/draft-project.zip)
 
 ## Plus d'information et quelques sources de données:
 
