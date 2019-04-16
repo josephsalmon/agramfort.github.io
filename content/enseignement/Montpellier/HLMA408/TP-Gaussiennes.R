@@ -122,7 +122,7 @@ t.test(brochet$conc[brochet$age == "2"], brochet$conc[brochet$age == "3"],
 # 10) Charger les données dans R dans un dataframe
 # que vous nommerez pol_occ. (attention aux séparateurs !)
 pol_occ<- read.csv("Mesure_journaliere_Region_Occitanie_Polluants_Principaux.csv",
-                   head=T, sep=";", dec=".")
+                   head=T, sep=",", dec=".")
 # /!\ Attention au séparateur des champs ET des décimales : 
 # bien regarder à quoi ressemble le fichier en l'ouvrant avec un éditeur de texte!!!
 

@@ -67,6 +67,7 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 	- Python: [TP-Gaussiennes.pdf](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.pdf), [TP-Gaussiennes_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-Gaussiennes_squelette.ipynb), [TP-Gaussiennes.ipynb](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.ipynb)
 	- R: [TP-Gaussiennes_R.pdf](/enseignement/Montpellier/HLMA408/TP-Gaussiennes_R.pdf), [TP-Gaussiennes.R](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.R)
 
+1. Modèle linéaire: [TP-MCO.pdf](/enseignement/Montpellier/HLMA408/TP-MCO.pdf); Aide pour le package statsmodel (en français): [fr_Tanagra_Python_StatsModels.pdf](http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Python_StatsModels.pdf)
 
 ## Plus d'information et quelques sources de données:
 

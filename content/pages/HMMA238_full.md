@@ -26,7 +26,11 @@ We will address some of the element in the Python scientific ecosystem
 [1-Intro-Python.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/1-Intro-Python.ipynb?flush_cache=true),
 [hello-world.py](/enseignement/Montpellier/HMMA238/hello-world.py)
 
-[2-Numpy-Matplotlib.ipynb](/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb), [2-Numpy-Matplotlib.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb?flush_cache=true),
+[2-Numpy-Matplotlib.ipynb](/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb), [2-Numpy-Matplotlib.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/2-Numpy-Matplotlib.ipynb?flush_cache=true)
+
+[3-Scipy.ipynb](/enseignement/Montpellier/HMMA238/3-Scipy.ipynb), [3-Scipy.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/3-Scipy.ipynb?flush_cache=true)
+
+[4-Pandas.ipynb](/enseignement/Montpellier/HMMA238/4-Pandas.ipynb), [4-Pandas.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/4-Pandas.ipynb?flush_cache=true)
 
 
 ## Exemple de projet LaTeX:
