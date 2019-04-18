@@ -32,6 +32,8 @@ We will address some of the element in the Python scientific ecosystem
 
 [4-Pandas.ipynb](/enseignement/Montpellier/HMMA238/4-Pandas.ipynb), [4-Pandas.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/4-Pandas.ipynb?flush_cache=true)
 
+[5-Statsmodels.ipynb](/enseignement/Montpellier/HMMA238/5-Statsmodels.ipynb), [5-Statsmodels.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/5-Statsmodels.ipynb?flush_cache=true)
+
 
 ## Exemple de projet LaTeX:
 
