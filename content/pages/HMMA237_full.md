@@ -22,12 +22,16 @@ This is an undergraduate course (in French!) introducing advanced
 
 1. [Ridge.pdf](/enseignement/Montpellier/HMMA237/Ridge.pdf)
 
+1. [Filtrage.pdf](/enseignement/Montpellier/HMMA237/Filtrage.pdf)
+
 
 ## Travaux dirigés:
 
 1. [TD1-Woodbury.pdf](/enseignement/Montpellier/HMMA237/TD1-Woodbury.pdf)
 
 1. [TD2-Kalman.pdf](/enseignement/Montpellier/HMMA237/TD2-Kalman.pdf)
+
+1. [TD3-ProgrammationDynamique.pdf](/enseignement/Montpellier/HMMA237/TD3-ProgrammationDynamique.pdf)
 
 ## Exemple de projet LaTeX:
 
