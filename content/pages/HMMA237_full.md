@@ -24,6 +24,10 @@ This is an undergraduate course (in French!) introducing advanced
 
 1. [Filtrage.pdf](/enseignement/Montpellier/HMMA237/Filtrage.pdf)
 
+1. [Kalman.pdf](/enseignement/Montpellier/HMMA237/Kalman.pdf)
+
+1. [ProgrammationDynamique.pdf](/enseignement/Montpellier/HMMA237/ProgrammationDynamique.pdf)
+
 
 ## Travaux dirigés:
 

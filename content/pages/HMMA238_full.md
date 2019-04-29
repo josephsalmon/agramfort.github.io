@@ -34,10 +34,12 @@ We will address some of the element in the Python scientific ecosystem
 
 [5-Statsmodels.ipynb](/enseignement/Montpellier/HMMA238/5-Statsmodels.ipynb), [5-Statsmodels.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/5-Statsmodels.ipynb?flush_cache=true)
 
-[6-TempsMemoire.ipynb](/enseignement/Montpellier/HMMA238/6-TempsMemoire.ipynb), [6-TempsMemoire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/6-TempsMemoire.ipynb?flush_cache=true)
+[6-TempsMemoire.ipynb](/enseignement/Montpellier/HMMA238/6-TempsMemoire.ipynb), [force.css](/enseignement/Montpellier/HMMA238/force.css), [force.html](/enseignement/Montpellier/HMMA238/force.html), [force.js](/enseignement/Montpellier/HMMA238/force.js), [force.json](/enseignement/Montpellier/HMMA238/force.json), [6-TempsMemoire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/6-TempsMemoire.ipynb?flush_cache=true)
+
 
 [7-Numba.ipynb](/enseignement/Montpellier/HMMA238/7-Numba.ipynb), [7-Numba.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA238/7-Numba.ipynb?flush_cache=true)
 
+[8-Git.pdf](/enseignement/Montpellier/HMMA238/8-Git.pdf)
 
 
 
