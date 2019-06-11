@@ -45,7 +45,9 @@ We will address some of the element in the Python scientific ecosystem
 
 ## Exemple de projet LaTeX:
 
-Fichier pour la partie LaTeX du cours: [draft-project.zip](/enseignement/Montpellier/HMMA238/draft-project.zip)
+- Fichier pour la partie LaTeX du cours: [draft-project.zip](/enseignement/Montpellier/HMMA238/draft-project.zip)
+
+- Enoncé du TP noté: [TPnote.pdf](/enseignement/Montpellier/HMMA238/TPnote.pdf)
 
 ## Plus d'information et quelques sources de données:
 

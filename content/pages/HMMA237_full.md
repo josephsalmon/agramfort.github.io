@@ -28,6 +28,9 @@ This is an undergraduate course (in French!) introducing advanced
 
 1. [ProgrammationDynamique.pdf](/enseignement/Montpellier/HMMA237/ProgrammationDynamique.pdf)
 
+1. [DetectionRuptures.pdf](/enseignement/Montpellier/HMMA237/DetectionRuptures.pdf)
+
+1. [Splines.pdf](/enseignement/Montpellier/HMMA237/Splines.pdf)
 
 ## Travaux dirigés:
 
