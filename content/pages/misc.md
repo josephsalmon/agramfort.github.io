@@ -7,8 +7,7 @@ istalk: false
 ismisc: true
 
 ## Ecology
-- [open-sciences-participatives] (https://www.open-sciences-participatives.org/home/): "OPEN", le portail qui permet à tous de participer à l'observation de la biodiversité
-
+- [open-sciences-participatives](https://www.open-sciences-participatives.org/home/): "OPEN", le portail qui permet à tous de participer à l'observation de la biodiversité
 
 ## Latex
 

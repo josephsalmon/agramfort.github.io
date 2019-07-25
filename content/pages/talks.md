@@ -1,7 +1,7 @@
 title: Talks
 sortorder: 11
 category: course
-iscourse: true
+iscourse: false
 isfull: true
 istalk: true
 
