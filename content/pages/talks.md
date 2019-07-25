@@ -6,6 +6,9 @@ isfull: true
 istalk: true
 
 
+- [Colloque: "Montpellier : Berceau de la data science"](https://mtp-datascience.sciencesconf.org/) (19/05/2019), "Safe Grid Search with Optimal Complexity"
+[slides](talks/slides.pdf)
+
 - [Inria Lille](seminaire.univ-lille1.fr/node/371) (24/05/2019), "Safe screening rules to speed-up sparse regression solvers"
 [slides](talks/GAP_Safe_lille.pdf)
 
