@@ -24,6 +24,7 @@ We will address some of the element in the Python scientific ecosystem:
 
 1. [IntroPython_slides.pdf](/enseignement/Montpellier/HLMA310/IntroPython_slides.pdf), [prise_en_main_notebook.ipynb](/enseignement/Montpellier/HLMA310/prise_en_main_notebook.ipynb), [prise_en_main_notebook.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/prise_en_main_notebook.ipynb)
 
+<!---
 1. [numpy_slides.pdf](/enseignement/Montpellier/HLMA310/numpy_slides.pdf), [numpy.ipynb](/enseignement/Montpellier/HLMA310/numpy.ipynb),
 [numpy.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/numpy.ipynb)
 
@@ -31,7 +32,6 @@ We will address some of the element in the Python scientific ecosystem:
 1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb), [matplotlib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
 
 1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
-
 
 ## Travaux pratiques:
 
@@ -51,6 +51,7 @@ We will address some of the element in the Python scientific ecosystem:
 1. [TP7-pandas_pollution_occitanie.ipynb](/enseignement/Montpellier/HLMA310/TP7-pandas_pollution_occitanie.ipynb), [TP7-pandas_pollution_occitanie.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP7-pandas_pollution_occitanie.ipynb)
 
 1. [TP8-matplotlib_animation.pdf](/enseignement/Montpellier/HLMA310/TP8-matplotlib_animation.pdf)
+--->
 
 ## More resources:
 

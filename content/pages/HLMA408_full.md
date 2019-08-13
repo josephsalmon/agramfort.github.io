@@ -43,6 +43,8 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
 [Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
 
+<!---
+
 ## Travaux dirigés:
 
 1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf)
@@ -68,7 +70,7 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 	- R: [TP-Gaussiennes_R.pdf](/enseignement/Montpellier/HLMA408/TP-Gaussiennes_R.pdf), [TP-Gaussiennes.R](/enseignement/Montpellier/HLMA408/TP-Gaussiennes.R)
 
 1. Modèle linéaire: [TP-MCO.pdf](/enseignement/Montpellier/HLMA408/TP-MCO.pdf); Aide pour le package statsmodel (en français): [fr_Tanagra_Python_StatsModels.pdf](http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Python_StatsModels.pdf)
-
+--->
 ## Plus d'information et quelques sources de données:
 
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)

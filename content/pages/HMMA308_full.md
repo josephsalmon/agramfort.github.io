@@ -20,6 +20,7 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Intro Machine Learning: [IntroML_slides.pdf](/enseignement/Montpellier/Apprentissage_Statistique/IntroML_slides.pdf)
 
+<!---
 1. Régression logistique/LDA: [RegressionLogistique_slides.pdf](/enseignement/Montpellier/Apprentissage_Statistique/RegressionLogistique_slides.pdf)
 
 1. Validation Croisée: [CrossValidation_slides.pdf](/enseignement/Montpellier/Apprentissage_Statistique/CrossValidation_slides.pdf)
@@ -59,3 +60,4 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 ## Projet final:
 [project_2018-2019.pdf](/enseignement/Montpellier/Apprentissage_Statistique/project_2018-2019.pdf)
+--->
