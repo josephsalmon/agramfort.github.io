@@ -4,4 +4,4 @@ category: course
 iscourse: true
 isfull: false
 
-This is an undergraduate course (in French!) introducing statistics and data visualisation; details are here [HMMA238 - Scientific software dev](HMMA238.html).
+This is an undergraduate course (in French!) introducing statistics and data visualisation. Details can be found here: [HMMA238 - Scientific software dev](HMMA238.html).

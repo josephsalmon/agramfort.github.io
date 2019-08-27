@@ -1,4 +1,4 @@
-title: HMMA308 - Apprentissage statistique (2018-2019)
+title: HMMA308 - Apprentissage statistique (2018-2020)
 sortorder: 1
 category: coursesHMMA308
 iscourse: true
@@ -14,7 +14,7 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 </center>
 
 ## Syllabus:
-[version 2018-2019](/enseignement/Montpellier/Apprentissage_Statistique/sllabus_18_19.pdf)
+[sllabus_hmma308.pdf](/enseignement/Montpellier/Apprentissage_Statistique/syllabus_hmma308.pdf)
 
 ## Cours:
 

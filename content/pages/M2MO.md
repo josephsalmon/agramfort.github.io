@@ -4,5 +4,5 @@ category: course
 iscourse: true
 isfull: false
 
-This contains Master 2 exercices on statistical learning;
-details are here [M2MO - Machine Learning](M2MO.html).
+This contains Master 2 exercices on statistical learning.
+Details can be found here: [M2MO - Machine Learning](M2MO.html).

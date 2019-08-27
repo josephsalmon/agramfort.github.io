@@ -5,4 +5,4 @@ iscourse: true
 isfull: false
 
 This is an undergraduate course (in French) on descriptive statistics;
-details are here [SD3 - Statistiques Descriptives](SD3.html).
+Details can be found here: [SD3 - Statistiques Descriptives](SD3.html).

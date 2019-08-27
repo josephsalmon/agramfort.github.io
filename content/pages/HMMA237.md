@@ -5,5 +5,5 @@ iscourse: true
 isfull: false
 
 
-This is an undergraduate course (in French!) introducing advanced time series analysis. Details are here [HMMA237 - Advanced time series](HMMA237.html).
+This is an undergraduate course (in French!) introducing advanced time series analysis. Details can be found here: [HMMA237 - Advanced time series](HMMA237.html).
 

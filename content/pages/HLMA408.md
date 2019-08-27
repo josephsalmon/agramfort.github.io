@@ -4,4 +4,5 @@ category: course
 iscourse: true
 isfull: false
 
-This is an undergraduate course (in French!) introducing statistics and data visualisation; details are here [HLMA408 - Data science for ecology](HLMA408.html).
+This is an undergraduate course (in French!) introducing statistics and data visualisation.
+Details can be found here: [HLMA408 - Data science for ecology](HLMA408.html).
