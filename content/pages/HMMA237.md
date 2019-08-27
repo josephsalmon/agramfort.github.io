@@ -1,5 +1,5 @@
 title: HMMA237 - Série temporelles avancées (2018-2019)
-sortorder: -1
+sortorder: 3
 category: course
 iscourse: true
 isfull: false

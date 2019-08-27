@@ -9,7 +9,7 @@ slug: HLMA408-full
 This is an undergraduate course (in French!) introducing statistics and data visualisation.
 
 <center>
-![Python scientific ecosystem](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=70%}
+![Pollution en Occitanie](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=70%}
 </center>
 
 ## Syllabus:

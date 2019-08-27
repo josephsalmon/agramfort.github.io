@@ -1,5 +1,5 @@
 title: STAT593 - Robust statistics (2018-2019)
-sortorder: 2
+sortorder: 4
 category: course
 iscourse: true
 isfull: false

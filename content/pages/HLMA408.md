@@ -1,5 +1,5 @@
 title: HLMA408 - Traitement de données pour l'écologie (2018-2019)
-sortorder: -1
+sortorder: 3
 category: course
 iscourse: true
 isfull: false
