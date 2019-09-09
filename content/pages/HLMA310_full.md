@@ -14,7 +14,7 @@ We will address some of the element in the Python scientific ecosystem:
 </center>
 
 ## Syllabus:
-[version 2018-2019](/enseignement/Montpellier/HLMA310/syllabus_18_19.pdf)
+[syllabus_HLMA310.pdf](/enseignement/Montpellier/HLMA310/syllabus_HLMA310.pdf)
 
 ## Polycopié:
 [Introduction à Python, version 2018-2019](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
