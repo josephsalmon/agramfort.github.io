@@ -17,7 +17,7 @@ We will address some of the element in the Python scientific ecosystem:
 [syllabus_HLMA310.pdf](/enseignement/Montpellier/HLMA310/syllabus_HLMA310.pdf)
 
 ## Polycopié:
-[Introduction à Python, version 2018-2019](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
+[Introduction à Python, version 2019-2020](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
 
 
 ## Cours: slides et notebooks
@@ -28,14 +28,17 @@ We will address some of the element in the Python scientific ecosystem:
 1. [numpy_slides.pdf](/enseignement/Montpellier/HLMA310/numpy_slides.pdf), [numpy.ipynb](/enseignement/Montpellier/HLMA310/numpy.ipynb),
 [numpy.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/numpy.ipynb)
 
+
+## Travaux pratiques:
+
+1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA310/TP1-Introduction.pdf), [TP1-Introduction-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP1-Introduction-skeleton.ipynb), [TP1-Introduction-skeleton.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP1-Introduction-skeleton.ipynb)
+
+
 <!---
 1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb), [matplotlib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
 
 1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
 
-## Travaux pratiques:
-
-1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA310/TP1-Introduction.pdf), [TP1-Introduction.ipynb](/enseignement/Montpellier/HLMA310/TP1-Introduction.ipynb), [TP1-Introduction.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP1-Introduction.ipynb)
 
 1. [TP2-boucles_functions.pdf](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.pdf), [TP2-boucles_functions.ipynb](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb), [TP2-boucles_functions.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb)
 

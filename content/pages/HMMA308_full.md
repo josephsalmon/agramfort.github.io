@@ -20,14 +20,24 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Intro Machine Learning: [IntroML_slides.pdf](/enseignement/Montpellier/HMMA308/IntroML_slides.pdf)
 
-<!---
 1. Régression logistique/LDA: [RegressionLogistique_slides.pdf](/enseignement/Montpellier/HMMA308/RegressionLogistique_slides.pdf)
+
 
 1. Validation Croisée: [CrossValidation_slides.pdf](/enseignement/Montpellier/HMMA308/CrossValidation_slides.pdf)
 
-1. SVD: [SVD_slides.pdf](/enseignement/Montpellier/HMMA308/SVD_slides.pdf); [SVD.ipynb](/enseignement/Montpellier/HMMA308/SVD.ipynb)
+1. SVD: [SVD_slides.pdf](/enseignement/Montpellier/HMMA308/SVD_slides.pdf), [SVD.ipynb](/enseignement/Montpellier/HMMA308/SVD.ipynb)
 
-1. Ridge: [Ridge_slides.pdf](/enseignement/Montpellier/HMMA308/Ridge_slides.pdf), [Ridge_fr.ipynb](/enseignement/Montpellier/HMMA308/Ridge_fr.ipynb)
+1. Ridge: [Ridge_slides.pdf](/enseignement/Montpellier/HMMA308/Ridge_slides.pdf), [Ridge.ipynb](/enseignement/Montpellier/HMMA308/Ridge.ipynb)
+
+## TPs:
+
+
+1. [knn_tp.pdf](/enseignement/Montpellier/HMMA308/knn_tp.pdf),
+[tp_knn_source.py](/enseignement/Montpellier/HMMA308/tp_knn_source.py), [tp_knn_script.py](/enseignement/Montpellier/HMMA308/tp_knn_script.py), [tp_knn_script_corr.py](/enseignement/Montpellier/HMMA308/tp_knn_script_corr.py)
+[knn_tp_corr.pdf](/enseignement/Montpellier/HMMA308/knn_tp_corr.pdf)
+
+<!---
+
 
 1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
 
@@ -42,7 +52,6 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 1. Clustering : [clustering_slides.pdf](/enseignement/Montpellier/HMMA308/clustering_slides.pdf)
 
 ## TPs:
-
 
 1. [knn_tp.pdf](/enseignement/Montpellier/HMMA308/knn_tp.pdf) , [knn_tp_corr.pdf](/enseignement/Montpellier/HMMA308/knn_tp_corr.pdf),
 [tp_knn_source.py](/enseignement/Montpellier/HMMA308/tp_knn_source.py), [tp_knn_script.py](/enseignement/Montpellier/HMMA308/tp_knn_script.py), [tp_knn_script_corr.py](/enseignement/Montpellier/HMMA308/tp_knn_script_corr.py)
