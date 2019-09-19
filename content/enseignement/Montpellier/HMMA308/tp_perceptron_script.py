@@ -20,11 +20,12 @@ from tp_perceptron_source import (rand_gauss, rand_bi_gauss, rand_checkers,
 
 plt.close('all')
 rc('font', **{'family': 'sans-serif', 'sans-serif': ['Computer Modern Roman']})
-params = {'axes.labelsize': 12,
-          'font.size': 16,
-          'legend.fontsize': 16,
+params = {'figure.figsize': (15, 8),
           'text.usetex': False,
-          'figure.figsize': (8, 6)}
+          # 'axes.labelsize': 12,
+          # 'font.size': 16,
+          # 'legend.fontsize': 16,
+          }
 plt.rcParams.update(params)
 
 sns.set_context("poster")
@@ -37,7 +38,7 @@ sns.axes_style()
 np.random.seed(seed=44)
 
 # for saving files
-saving_activated = True  # False
+saving_activated = False  # True
 
 ###############################################################################
 #            Data Generation: example
@@ -117,6 +118,8 @@ wh, costh = gradient(X1, y1, epsilon, niter, w_ini, lfun, gr_lfun,
                      stochastic=False)
 plot_gradient(X1, y1, wh, costh, lfun)
 plt.suptitle('MSE and batch')
+plt.tight_layout()
+plt.subplots_adjust(top=0.8)
 plt.show()
 
 # Gradient descent manually coded:
@@ -126,20 +129,20 @@ plt.suptitle('MSE and stochastic')
 wh_sto, costh_sto = gradient(X1, y1, epsilon, niter * len(y1), w_ini, lfun,
                              gr_lfun, stochastic=True)
 plot_gradient(X1, y1, wh_sto, costh_sto, lfun)
+plt.tight_layout()
+plt.subplots_adjust(top=0.8)
 plt.show()
 
 
 # Sklearn SGD:
 
-
-def f(xx):
-    """Classifier"""
-    return clf.predict(xx.reshape(1, -1))
 clf = linear_model.SGDClassifier()
 clf.fit(X1, y1)
+
 plt.figure(88)
+ax = plt.gca()
 wsgd = [clf.intercept_[0], clf.coef_[0, 0], clf.coef_[0, 1]]
-frontiere_new(f, X1, y1, wsgd, step=200, alpha_choice=1)
+frontiere_new(clf, X1, y1, ax, wsgd, step=200, alpha_choice=1)
 plt.show()
 
 
@@ -157,6 +160,8 @@ wh, costh = gradient(X1, y1, epsilon, niter, w_ini, lfun,
 plt.figure(9)
 plt.suptitle('Hinge and batch')
 plot_gradient(X1, y1, wh, costh, lfun)
+plt.tight_layout()
+plt.subplots_adjust(top=0.8)
 plt.show()
 
 plt.figure(10)
@@ -164,6 +169,8 @@ plt.suptitle('Hinge and stochastic')
 wh_sto, costh_sto = gradient(X1, y1, epsilon, niter, w_ini, lfun,
                              gr_lfun, stochastic=True)
 plot_gradient(X1, y1, wh_sto, costh_sto, lfun)
+plt.tight_layout()
+plt.subplots_adjust(top=0.8)
 plt.show()
 
 
@@ -192,7 +199,8 @@ my_pipeline = Pipeline([('poly_quad', poly_quad), ('sgd', clf)])
 my_pipeline.fit(X2, y2)
 
 plt.figure(11)
-frontiere_new(my_pipeline, X2, y2)
+ax = plt.gca()
+frontiere_new(my_pipeline, X2, y2, ax)
 plt.show()
 
 # QUESTION: compare with or without 2nd order features.

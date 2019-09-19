@@ -13,12 +13,22 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.colors import ListedColormap
 from matplotlib import cm
 import seaborn as sns
-
+from matplotlib import rc
+from mpl_toolkits.axes_grid1 import make_axes_locatable
 ###############################################################################
 # Displaying labeled data
 ###############################################################################
 
 symlist = ['o', 'p', '*', 's', '+', 'x', 'D', 'v', '-', '^']
+
+rc('font', **{'family': 'sans-serif', 'sans-serif': ['Computer Modern Roman']})
+params = {'text.usetex': False,
+          # 'axes.labelsize': 1,
+          # 'font.size': 8,
+          # 'legend.fontsize': 8,
+          # 'figure.figsize': (8, 6)
+          }
+plt.rcParams.update(params)
 
 sns.set_context("poster")
 sns.set_palette("colorblind")
@@ -163,8 +173,8 @@ def plot_2d(X, y, w=None, step=50, alpha_choice=1):
     sns.set_palette(color_blind_list)
     for i, label in enumerate(y):
         label_num = np.where(labels == label)[0][0]
-        plt.scatter(X[i, 0], X[i, 1], c=color_blind_list[label_num],
-                    s=4, marker=symlist[label_num])
+        plt.scatter(X[i, 0], X[i, 1], color=color_blind_list[label_num],
+                    s=80, marker=symlist[label_num])
     plt.xlim([min_tot0 - delta0 / 10., max_tot0 + delta0 / 10.])
     plt.ylim([min_tot1 - delta1 / 10., max_tot1 + delta1 / 10.])
     if w is not None:
@@ -250,7 +260,7 @@ def gr_pen_loss(l):
 ###############################################################################
 
 
-def frontiere(f, X, step=50, cmap_choice=cm.coolwarm):
+def frontiere(f, X, ax, step=50, cmap_choice=cm.coolwarm):
     """Frontiere plotting for a decision function f."""
     min_tot0 = np.min(X[:, 0])
     max_tot0 = np.max(X[:, 0])
@@ -264,11 +274,13 @@ def frontiere(f, X, step=50, cmap_choice=cm.coolwarm):
     z = z.reshape(xx.shape)
     plt.imshow(z, origin='lower', interpolation="nearest", cmap=cmap_choice,
                extent=[min_tot0, max_tot0, min_tot1, max_tot1])
-    plt.colorbar()
+    divider = make_axes_locatable(ax)
+    cax = divider.append_axes("right", size="8%", pad=0.2)
+    plt.colorbar(cax=cax)
 
 
-def frontiere_new(clf, X, y, w=None, step=50, alpha_choice=1, colorbar=True,
-                  samples=True):
+def frontiere_new(clf, X, y, ax, w=None, step=50, alpha_choice=1, colorbar=True,
+                  samples=True, n_labels=3, n_neighbors=3):
     """Trace la frontiere pour la fonction de decision de clf."""
     min_tot0 = np.min(X[:, 0])
     min_tot1 = np.min(X[:, 1])
@@ -287,23 +299,27 @@ def frontiere_new(clf, X, y, w=None, step=50, alpha_choice=1, colorbar=True,
     my_cmap = ListedColormap(color_blind_list)
     plt.imshow(z, origin='lower', interpolation="mitchell", alpha=0.80,
                cmap=my_cmap, extent=[min_tot0, max_tot0, min_tot1, max_tot1])
-    if colorbar is True:
-        ax = plt.gca()
-        cbar = plt.colorbar(ticks=labels)
-        cbar.ax.set_yticklabels(labels, fontsize=16)
     if samples is True:
         for i, label in enumerate(y):
             label_num = np.where(labels == label)[0][0]
-            plt.scatter(X[i, 0], X[i, 1], c=color_blind_list[label_num],
-                        s=4, marker=symlist[label_num])
+            ax.scatter(X[i, 0], X[i, 1], color=color_blind_list[label_num],
+                       s=80, marker=symlist[label_num])
     plt.xlim([min_tot0, max_tot0])
     plt.ylim([min_tot1, max_tot1])
+    ax.get_yaxis().set_ticks([])
+    ax.get_xaxis().set_ticks([])
     if w is not None:
         plt.plot([min_tot0, max_tot0],
                  [min_tot0 * -w[1] / w[2] - w[0] / w[2],
                   max_tot0 * -w[1] / w[2] - w[0] / w[2]],
                  "k", alpha=alpha_choice)
-    plt.title("Frontiere visualization")
+    plt.title("L=" + str(n_labels) + ",k=" +
+              str(n_neighbors))
+    if colorbar is True:
+        divider = make_axes_locatable(ax)
+        cax = divider.append_axes("right", size="5%", pad=0.2)
+        cbar = plt.colorbar(cax=cax, ticks=labels)
+        cbar.ax.set_yticklabels(labels)
 
 
 def frontiere_3d(f, data, step=20):
@@ -320,34 +336,32 @@ def frontiere_3d(f, data, step=20):
                     cmap=plt.cm.coolwarm)
 
 
-def plot_cout(X, y, loss_fun, w=None):
-    """Plot the cost function encoded by loss_fun.
+def plot_cout(X, y, loss_fun, ax, w=None):
+    """Plot the cost function encoded by loss_fun,
 
     Parameters
     ----------
     X : data features
     y :  labels
     loss_fun : loss function
-    w : (optionnal) can be used to give a historic path of the weights
-    """
+    w : (optionnal) can be used to give a historic path of the weights """
     def _inter(wn):
         ww = np.zeros(3)
         ww[1:] = wn
         return loss_fun(X, y, ww).mean()
     datarange = np.array([[np.min(X[:, 0]), np.min(X[:, 1])],
                           [np.max(X[:, 0]), np.max(X[:, 1])]])
-    frontiere(_inter, np.array(datarange))
+    frontiere(_inter, np.array(datarange), ax)
     if w is not None:
-        plt.plot(w[:, 1], w[:, 2], 'k')
-    plt.xlim([np.min(X[:, 0]), np.max(X[:, 0])])
-    plt.ylim([np.min(X[:, 1]), np.max(X[:, 1])])
+        ax.plot(w[:, 1], w[:, 2], 'k')
+    ax.set_xlim([np.min(X[:, 0]), np.max(X[:, 0])])
+    ax.set_ylim([np.min(X[:, 1]), np.max(X[:, 1])])
 
 
 def plot_cout3d(x, y, loss_fun, w):
-    """Trace le cout de la fonction cout loss_fun passee en parametre, en x,y,
+    """ trace le cout de la fonction cout loss_fun passee en parametre, en x,y,
         en faisant varier les coordonnees du poids w.
-        W peut etre utilise pour passer un historique de poids.
-    """
+        W peut etre utilise pour passer un historique de poids"""
     def _inter(wn):
         ww = np.zeros(3)
         ww[1:] = wn
@@ -365,7 +379,7 @@ def plot_cout3d(x, y, loss_fun, w):
 
 
 def gradient(x, y, eps, niter, w_ini, loss_fun, gr_loss_fun, stochastic=True):
-    """Algorithme de descente du gradient.
+    """ algorithme de descente du gradient:
         - x : donnees
         - y : label
         - eps : facteur multiplicatif de descente
@@ -374,7 +388,7 @@ def gradient(x, y, eps, niter, w_ini, loss_fun, gr_loss_fun, stochastic=True):
         - loss_fun : fonction de cout
         - gr_loss_fun : gradient de la fonction de cout
         - stoch : True : gradient stochastique
-    """
+        """
     w = np.zeros((niter, w_ini.size))
     w[0] = w_ini
     loss = np.zeros(niter)
@@ -391,26 +405,26 @@ def gradient(x, y, eps, niter, w_ini, loss_fun, gr_loss_fun, stochastic=True):
 
 
 def plot_gradient(X, y, wh, cost_hist, loss_fun):
-    """Display 4 figures on how  (stochastic) gradient descent behaves.
-
+    """ display 4 figures on how  (stochastic) gradient descent behaves
     wh : solution history
     cost_hist : cost history
     loss_fun : loss function
     """
     best = np.argmin(cost_hist)
     plt.subplot(221)
-    plt.title('Data and hyperplane estimated', fontsize=8)
+    plt.title('Data and hyperplane estimated')
     plot_2d(X, y, wh[best, :])
     plt.subplot(222)
-    plt.title('Projection of level line and algorithm path', fontsize=8)
-    plot_cout(X, y, loss_fun, wh)
+    ax = plt.gca()
+    plt.title('Projection of level line and algorithm path')
+    plot_cout(X, y, loss_fun, ax, wh)
     plt.subplot(223)
-    plt.title('Objective function vs iterations', fontsize=8)
+    plt.title('Objective function vs iterations')
     plt.plot(range(cost_hist.shape[0]), cost_hist)
     plt.subplot(224, projection='3d')
-    plt.title('Level line and algorithm path', fontsize=8)
+    plt.title('Level line and algorithm path')
     plot_cout3d(X, y, loss_fun, wh)
-    # plt.subplots_adjust(hspace=0.5)
+    plt.tight_layout()
 
 
 ###############################################################################
@@ -419,7 +433,7 @@ def plot_gradient(X, y, wh, cost_hist, loss_fun):
 
 
 def poly2(x):
-    """Create features for second order interactions."""
+    """ creates features for second order interactions """
     if x.ndim == 1:
         x = x[None, :]
     nb, d = x.shape
@@ -431,7 +445,7 @@ def poly2(x):
 
 
 def poly3(x):
-    """Create features for third order interactions."""
+    """ creates features for third order interactions """
     if x.ndim == 1:
             x = x[None, :]
     nb, d = x.shape
