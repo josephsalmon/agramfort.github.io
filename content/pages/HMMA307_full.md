@@ -21,3 +21,5 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 ## Travaux dirigés:
 
 1. [TD1-KKT-SVD.pdf](/enseignement/Montpellier/HMMA307/TD1-KKT-SVD.pdf)
+
+1. [TD2-KKT.pdf](/enseignement/Montpellier/HMMA307/TD2-KKT.pdf)

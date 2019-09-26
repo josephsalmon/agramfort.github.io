@@ -29,6 +29,9 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Ridge: [Ridge_slides.pdf](/enseignement/Montpellier/HMMA308/Ridge_slides.pdf), [Ridge.ipynb](/enseignement/Montpellier/HMMA308/Ridge.ipynb)
 
+
+1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
+
 ## TPs:
 
 
@@ -38,12 +41,12 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 
 1. [perceptron_tp.pdf](/enseignement/Montpellier/HMMA308/perceptron_tp.pdf),
-[tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py),
+[tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
 <!---
 
 
-1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
+
 
 1. Méthodes non-linéaires, GAM et splines: [Splines_GAM_slides.pdf](/enseignement/Montpellier/HMMA308/Splines_GAM_slides.pdf), [GAM.ipynb](/enseignement/Montpellier/HMMA308/GAM.ipynb)
 

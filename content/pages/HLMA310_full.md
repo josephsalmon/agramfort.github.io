@@ -29,6 +29,12 @@ We will address some of the element in the Python scientific ecosystem:
 [numpy.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/numpy.ipynb)
 
 
+1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb), [matplotlib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
+
+
+1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
+
+
 ## Travaux pratiques:
 
 1. [TP1-Introduction.pdf](/enseignement/Montpellier/HLMA310/TP1-Introduction.pdf),
@@ -37,18 +43,19 @@ We will address some of the element in the Python scientific ecosystem:
 [TP1-Introduction.ipynb](/enseignement/Montpellier/HLMA310/TP1-Introduction.ipynb),
 
 1. [TP2-boucles_functions.pdf](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.pdf),
-[TP2-boucles_functions-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP2-boucles_functions-skeleton.ipynb)
+[TP2-boucles_functions-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP2-boucles_functions-skeleton.ipynb),
+[TP2-boucles_functions.ipynb](/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb),
+[TP2-boucles_functions.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb)
+
+
+1. [TP3-numpy_matplolib.pdf](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.pdf), [TP3-numpy_matplolib-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib-skeleton.ipynb),
+[TP3-numpy_matplolib-skeleton.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib-skeleton.ipynb)
 
 
 <!---
 
 
 [TP2-boucles_functions.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP2-boucles_functions.ipynb)
-
-
-1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb), [matplotlib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
-
-1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
 
 
 
@@ -74,4 +81,4 @@ and associated
 
 - [Scipy lecture notes](https://www.scipy-lectures.org/)
 
-- [Pollution sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
+- [Donnés de pollution sur le site data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
