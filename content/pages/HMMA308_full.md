@@ -32,6 +32,9 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
 
+
+1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
+
 ## TPs:
 
 
@@ -43,14 +46,16 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 1. [perceptron_tp.pdf](/enseignement/Montpellier/HMMA308/perceptron_tp.pdf),
 [tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
+1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf)
+
 <!---
+1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
 
 
 
 
 1. Méthodes non-linéaires, GAM et splines: [Splines_GAM_slides.pdf](/enseignement/Montpellier/HMMA308/Splines_GAM_slides.pdf), [GAM.ipynb](/enseignement/Montpellier/HMMA308/GAM.ipynb)
 
-1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
 
 1. Bagging et forêts aléatoires : [ForetsAleatoires_slides.pdf](/enseignement/Montpellier/HMMA308/ForetsAleatoires_slides.pdf)
 

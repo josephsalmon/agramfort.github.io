@@ -15,6 +15,9 @@ istalk: true
 - [Université de Montpellier: formation Meso@LR](https://meso-lr.umontpellier.fr/formations/) (21/05/2019), "Optimization: (Block) coordinate descent for neuro-imaging"
 [slides](talks/sparsemodels_motivation.pdf)
 
+- [Prediction and Analysis of Structured AnD Heterogeneous DAta workshop](http://www.lpsm.paris/pageperso/sangnier/pasadena.html)
+"Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise" (15/02/2019)
+
 - [Université de Montpellier: Séminaires EPS](https://imag.edu.umontpellier.fr/seminaires/seminaires-eps/) (14/01/2019), "Celer: a Fast Solver for the Lasso with Dual Extrapolation"
 [slides](talks/horizonmath.pdf)
 
