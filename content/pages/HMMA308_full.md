@@ -32,8 +32,14 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
 
-
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
+
+1. Bagging et forêts aléatoires : [ForetsAleatoires_slides.pdf](/enseignement/Montpellier/HMMA308/ForetsAleatoires_slides.pdf)
+
+1. SVM : [svm_slides.pdf](/enseignement/Montpellier/HMMA308/svm_slides.pdf)
+
+1. Clustering : [clustering_slides.pdf](/enseignement/Montpellier/HMMA308/clustering_slides.pdf)
+
 
 ## TPs:
 
@@ -47,6 +53,14 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 [tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
 1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf)
+
+1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip), [svm_correction.py](/enseignement/Montpellier/HMMA308/svm_correction.py)
+
+
+1. [clustering_tp.pdf](/enseignement/Montpellier/HMMA308/clustering_tp.pdf), [kmeans.py](/enseignement/Montpellier/HMMA308/kmeans.py), [gap.py](/enseignement/Montpellier/HMMA308/gap.py), [china.jpg](/enseignement/Montpellier/HMMA308/china.jpg)
+
+## Projet final:
+[project_2019-2020.pdf](/enseignement/Montpellier/HMMA308/project_2019-2020.pdf)
 
 <!---
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)

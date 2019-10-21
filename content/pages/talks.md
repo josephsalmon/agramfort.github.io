@@ -1,9 +1,10 @@
-title: Talks
-sortorder: 11
+title: Miscellaneous
+sortorder: 12
 category: course
-iscourse: false
+iscourse: true
 isfull: true
-istalk: true
+istalk: false
+ismisc: true
 
 
 - [Colloque: "Montpellier : Berceau de la data science"](https://mtp-datascience.sciencesconf.org/) (19/05/2019), "Safe Grid Search with Optimal Complexity"

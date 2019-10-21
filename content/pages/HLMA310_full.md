@@ -54,6 +54,10 @@ We will address some of the element in the Python scientific ecosystem:
 1. [TP4-descente_gradient.pdf](/enseignement/Montpellier/HLMA310/TP4-descente_gradient.pdf), [TP4-descente_gradient-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP4-descente_gradient-skeleton.ipynb), [TP4-descente_gradient-skeleton.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP4-descente_gradient-skeleton.ipynb)
 
 
+1. [TP5-pandas.pdf](/enseignement/Montpellier/HLMA310/TP5-pandas.pdf), [TP5-pandas.ipynb](/enseignement/Montpellier/HLMA310/TP5-pandas.ipynb)
+,[TP5-pandas.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP5-pandas.ipynb)
+
+
 <!---
 
 
