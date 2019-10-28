@@ -3,11 +3,10 @@ sortorder: 1
 category: news
 iscourse: false
 
+
+- September 2019: New paper accepted at NeurIPS 2019, joint work with Q. Bertrand, M. Massias and A. Gramfort. "Handling correlated and repeated measurements with the smoothed Multivariate square-root Lasso" [arxiv](https://arxiv.org/abs/1902.02509), [code](https://github.com/QB3/CLaR)
 - Workshop in Montpellier (May 2-3 2019): [Graph signals : learning and optimization perspectives](https://graph-sig-2019.sciencesconf.org/)
 - February 2019: New preprint out, joint work with A. Parmentier, V. Cohen, V. Leclère and G. Obozinski. "Mathematical programming for influence diagrams " [arxiv](https://arxiv.org/abs/1902.07039).
-- January 2019: New preprint out, joint work with Q. Bertrand, M. Massias and A. Gramfort. "Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise" [arxiv](https://arxiv.org/abs/1902.02509).
-- January 2019: New preprint out, joint work with N. Gazagnadou, R. Gower and J. Salmon. "Optimal mini-batch and step sizes for SAGA" [arxiv](https://arxiv.org/abs/1902.00071).
-- January 2019: New preprint out, joint work with G. Gasso and A. Rakotomamonjy. "Screening Rules for Lasso with Non-Convex Sparse Regularizers" [arxiv](https://arxiv.org/abs/1902.06125).
-- July 2018: "Celer: a Fast Solver for the Lasso with Dual Extrapolation", accepted to ICML2018; [code](https://mathurinm.github.io/celer/) and companion paper called ([pdf](https://arxiv.org/abs/1802.07481), [slides](http://localhost/talks/UBC.pdf)).
+- "Celer: a Fast Solver for the Lasso with Dual Extrapolation", accepted to ICML2018; [code](https://mathurinm.github.io/celer/) and companion paper called ([pdf](https://arxiv.org/abs/1802.07481), [slides](http://localhost/talks/UBC.pdf)).
 Joint work with [Mathurin Massias](https://mathurinm.github.io/)	and [Alexandre Gramfort](http://alexandre.gramfort.net/)
 - [classgrade](https://github.com/classgrade/classgrade): an open source project for peer grading, mostly developped by [C. Marini](https://github.com/camillemarini). In the process of being merged into: [Peeramid](https://github.com/SOSFutur-public/Peeramid).

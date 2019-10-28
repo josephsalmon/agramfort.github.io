@@ -58,6 +58,8 @@ We will address some of the element in the Python scientific ecosystem:
 ,[TP5-pandas.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP5-pandas.ipynb)
 
 
+1. [TP-note-Splines.pdf](/enseignement/Montpellier/HLMA310/TP-note-Splines.pdf),
+
 <!---
 
 

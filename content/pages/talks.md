@@ -1,11 +1,13 @@
-title: Miscellaneous
+title: Talks
 sortorder: 12
 category: course
 iscourse: true
 isfull: true
-istalk: false
+istalk: true
 ismisc: true
 
+- [Seminar, UNAM (Mexico)](http://www.dpye.iimas.unam.mx/) (28/10/2019), "Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise"
+[slides](talks/seminar_UNAM.pdf)
 
 - [Colloque: "Montpellier : Berceau de la data science"](https://mtp-datascience.sciencesconf.org/) (19/05/2019), "Safe Grid Search with Optimal Complexity"
 [slides](talks/slides.pdf)
