@@ -1,4 +1,4 @@
-title: HLMA408 - Traitement de données pour l'écologie (2018-2019)
+title: HLMA408 - Traitement de données pour l'écologie (2018--??)
 sortorder: -1
 category: course
 iscourse: true
@@ -13,10 +13,10 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 </center>
 
 ## Syllabus:
-[version 2018-2019](/enseignement/Montpellier/HLMA408/syllabus_HLMA408_2018-2019.pdf)
+[Syllabus 2019-2020](/enseignement/Montpellier/HLMA408/syllabus_HLMA408.pdf)
 
 ## Polycopié:
-[Introduction à Python, version 2018-2019](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
+[Introduction à Python (HLMA310)](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
 
 
 ## Cours: slides et notebooks
@@ -24,9 +24,22 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 1. [StatDescriptives.pdf](/enseignement/Montpellier/HLMA408/StatDescriptives.pdf),
 [StatDescriptives.ipynb](/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb),
 [StatDescriptives.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb?flush_cache=true),
+
 2. [GaussianDistribution.pdf](/enseignement/Montpellier/HLMA408/GaussianDistribution.pdf),
 [GaussianDistribution.ipynb](/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb),
 [GaussianDistribution.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb?flush_cache=true)
+
+
+
+## Travaux dirigés:
+
+1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf)
+
+1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf)
+
+
+<!---
+
 3. [Echantillonage.pdf](/enseignement/Montpellier/HLMA408/Echantillonage.pdf),
 [Echantillonage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonage.ipynb),
 [Echantillonage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonage.ipynb?flush_cache=true)
@@ -43,7 +56,6 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
 [Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
 
-<!---
 
 ## Travaux dirigés:
 
@@ -73,13 +85,19 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 --->
 ## Plus d'information et quelques sources de données:
 
+- [Comment choisir les couleurs pour les daltoniens?](https://usabilla.com/blog/how-to-design-for-color-blindness/)
+
+- [Zététique, autodéfense intellectuelle par R. Monvoisin](https://www.youtube.com/watch?v=CGEmZaIeB2Q)
+
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
 and associated
 [videos](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
+- [Compstat: "Tutorial on Computational Statistics", by Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)
+
 - [Scipy lecture notes](https://www.scipy-lectures.org/)
 
-- [Pollution sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
+- [Pollution on data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
 
 - [Open Climate Data](http://openclimatedata.net)
 

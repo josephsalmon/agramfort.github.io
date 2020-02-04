@@ -3,9 +3,11 @@ sortorder: 1
 category: news
 iscourse: false
 
-
+- January 2020: New paper accepted to AISTATS "Support recovery and sup-norm convergence rates for sparse pivotal estimation" with Q. Bertrand, M. Massias and A. Gramfort.
+- December 2019: The AI chair proposal CaMeLOt (CooperAtive MachinE Leanrning and OpTimization) has been selected by the ANR. Open PhD and postdoc positions will be published soon (location: Montpellier)
+ Do not hesitate to contact me for additional information
 - September 2019: New paper accepted at NeurIPS 2019, joint work with Q. Bertrand, M. Massias and A. Gramfort. "Handling correlated and repeated measurements with the smoothed Multivariate square-root Lasso" [arxiv](https://arxiv.org/abs/1902.02509), [code](https://github.com/QB3/CLaR)
-- Workshop in Montpellier (May 2-3 2019): [Graph signals : learning and optimization perspectives](https://graph-sig-2019.sciencesconf.org/)
+- May 2019 : Workshop in Montpellier [Graph signals : learning and optimization perspectives](https://graph-sig-2019.sciencesconf.org/)
 - February 2019: New preprint out, joint work with A. Parmentier, V. Cohen, V. Leclère and G. Obozinski. "Mathematical programming for influence diagrams " [arxiv](https://arxiv.org/abs/1902.07039).
 - "Celer: a Fast Solver for the Lasso with Dual Extrapolation", accepted to ICML2018; [code](https://mathurinm.github.io/celer/) and companion paper called ([pdf](https://arxiv.org/abs/1802.07481), [slides](http://localhost/talks/UBC.pdf)).
 Joint work with [Mathurin Massias](https://mathurinm.github.io/)	and [Alexandre Gramfort](http://alexandre.gramfort.net/)

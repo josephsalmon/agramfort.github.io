@@ -6,7 +6,7 @@ isfull: true
 slug: HMMA238-full
 
 
-This is an undergraduate course (in French!) introducing computing and coding.
+This is an undergraduate course (in French!) introducing scientific computing and modern software practices.
 
 We will address some of the element in the Python scientific ecosystem
 

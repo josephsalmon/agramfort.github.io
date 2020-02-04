@@ -6,6 +6,21 @@ isfull: true
 istalk: true
 ismisc: true
 
+
+- [Fast-big Workshop (Paris, Inria)](https://project.inria.fr/fastbig/fast-big-worshop-january-10th-2020-paris/) (10/01/2020), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"
+[slides](talks/seminar_JS_IMT.pdf)
+
+- [Séminaire de Statistique (Toulouse, IMT)](https://www.math.univ-toulouse.fr/spip.php?rubrique54&lang=fr) (26/11/2019), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"
+[slides](talks/seminar_JS_IMT.pdf)
+
+- [Journée calcul et automatisation avancée (Univ. Montpellier)](https://www.msoc.fr/journee-automatisation-avancee/) (14/11/2019), "Fast solver for Sparse Generalized Linear Models"
+[slides](talks/MIPS-MathEntreprise2019.pdf)
+
+- [Guanajuato, CIMAT (Mexico)](https://pcc.cimat.mx/) (04/11/2019), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"
+[slides](talks/seminar_JS_CIMAT.pdf)
+
+- [I Taller Interinstitucional de Ciencia de Datos e Inteligencia Artificial, UDLAP (Puebla)](https://tallerdatos.udlap.mx/) (28/10/2019), "Coordinate descent (and beyond) for sparse learning optimization" (3X 1h course) [slides](talks/sparse_learning.pdf)
+
 - [Seminar, UNAM (Mexico)](http://www.dpye.iimas.unam.mx/) (28/10/2019), "Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise"
 [slides](talks/seminar_UNAM.pdf)
 
