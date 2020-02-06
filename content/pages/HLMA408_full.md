@@ -29,6 +29,9 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [GaussianDistribution.ipynb](/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb),
 [GaussianDistribution.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb?flush_cache=true)
 
+3. [Echantillonnage.pdf](/enseignement/Montpellier/HLMA408/Echantillonnage.pdf),
+[Echantillonnage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonnage.ipynb),
+[Echantillonnage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonnage.ipynb)
 
 
 ## Travaux dirigés:
@@ -40,9 +43,7 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 <!---
 
-3. [Echantillonage.pdf](/enseignement/Montpellier/HLMA408/Echantillonage.pdf),
-[Echantillonage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonage.ipynb),
-[Echantillonage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonage.ipynb?flush_cache=true)
+
 4. [EstimationTests.pdf](/enseignement/Montpellier/HLMA408/EstimationTests.pdf),
 [EstimationTests.ipynb](/enseignement/Montpellier/HLMA408/EstimationTests.ipynb),
 [EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
