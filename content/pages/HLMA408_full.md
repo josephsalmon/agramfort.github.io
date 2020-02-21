@@ -23,7 +23,7 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 1. [StatDescriptives.pdf](/enseignement/Montpellier/HLMA408/StatDescriptives.pdf),
 [StatDescriptives.ipynb](/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb),
-[StatDescriptives.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb?flush_cache=true),
+[StatDescriptives.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/StatDescriptives.ipynb?flush_cache=true)
 
 2. [GaussianDistribution.pdf](/enseignement/Montpellier/HLMA408/GaussianDistribution.pdf),
 [GaussianDistribution.ipynb](/enseignement/Montpellier/HLMA408/GaussianDistribution.ipynb),
@@ -33,6 +33,9 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [Echantillonnage.ipynb](/enseignement/Montpellier/HLMA408/Echantillonnage.ipynb),
 [Echantillonnage.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Echantillonnage.ipynb)
 
+4. [EstimationTests.pdf](/enseignement/Montpellier/HLMA408/EstimationTests.pdf),
+[EstimationTests.ipynb](/enseignement/Montpellier/HLMA408/EstimationTests.ipynb),
+[EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
 
 ## Travaux dirigés:
 
@@ -44,9 +47,7 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 <!---
 
 
-4. [EstimationTests.pdf](/enseignement/Montpellier/HLMA408/EstimationTests.pdf),
-[EstimationTests.ipynb](/enseignement/Montpellier/HLMA408/EstimationTests.ipynb),
-[EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
+
 5. [ICGaussiens.pdf](/enseignement/Montpellier/HLMA408/ICGaussiens.pdf),
 [ICGaussiens.ipynb](/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb),
 [ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb?flush_cache=true)
@@ -86,6 +87,8 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 --->
 ## Plus d'information et quelques sources de données:
 
+- [Compstat: "Tutorial on Computational Statistics", by Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)
+
 - [Comment choisir les couleurs pour les daltoniens?](https://usabilla.com/blog/how-to-design-for-color-blindness/)
 
 - [Zététique, autodéfense intellectuelle par R. Monvoisin](https://www.youtube.com/watch?v=CGEmZaIeB2Q)
@@ -93,8 +96,6 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
 and associated
 [videos](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
-
-- [Compstat: "Tutorial on Computational Statistics", by Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)
 
 - [Scipy lecture notes](https://www.scipy-lectures.org/)
 
