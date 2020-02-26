@@ -87,6 +87,8 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 --->
 ## Plus d'information et quelques sources de données:
 
+- [The Safe Sneeze by Mythbusters](https://www.youtube.com/watch?v=3vw0hIs2LEg)
+
 - [Compstat: "Tutorial on Computational Statistics", by Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)
 
 - [Comment choisir les couleurs pour les daltoniens?](https://usabilla.com/blog/how-to-design-for-color-blindness/)
