@@ -37,26 +37,45 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [EstimationTests.ipynb](/enseignement/Montpellier/HLMA408/EstimationTests.ipynb),
 [EstimationTests.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/EstimationTests.ipynb?flush_cache=true)
 
+5. [ICGaussiens.pdf](/enseignement/Montpellier/HLMA408/ICGaussiens.pdf),
+[ICGaussiens.ipynb](/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb),
+[ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb?flush_cache=true)
+
+
+6. [ModeleLineaire.pdf](/enseignement/Montpellier/HLMA408/ModeleLineaire.pdf),
+[ModeleLineaire.ipynb](/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb),
+[ModeleLineaire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb?flush_cache=true),
+[Widgets_MCO.ipynb](/enseignement/Montpellier/HLMA408/Widgets_MCO.ipynb)
+
+7. [Anova.pdf](/enseignement/Montpellier/HLMA408/Anova.pdf),
+[Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
+[Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
+
 ## Travaux dirigés:
 
-1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf)
+1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf), [TD1_corr.pdf](/enseignement/Montpellier/HLMA408/TD1_corr.pdf)
 
-1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf)
+1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf), [TD2_corr.pdf](/enseignement/Montpellier/HLMA408/TD2_corr.pdf)
+
+1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf), [TD3_corr.pdf](/enseignement/Montpellier/HLMA408/TD3_corr.pdf), [TD3-Loi-uniforme.ipynb](/enseignement/Montpellier/HLMA408/TD3-Loi-uniforme.ipynb)
+
+1. [TD4.pdf](/enseignement/Montpellier/HLMA408/TD4.pdf), [TD4_corr.pdf](/enseignement/Montpellier/HLMA408/TD4_corr.pdf)
+1. [TD5.pdf](/enseignement/Montpellier/HLMA408/TD5.pdf), [TD5_corr.pdf](/enseignement/Montpellier/HLMA408/TD5_corr.pdf)
+
+
+## Travaux pratiques:
+
+1. Introduction: [TP-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP-Introduction.pdf), [TP-Introduction_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-Introduction_squelette.ipynb)
+
+1. Chi2: [TP-chi2.pdf](/enseignement/Montpellier/HLMA408/TP-chi2.pdf), [TP-chi2_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2_squelette.ipynb), [Courbe_ROC.ipynb](/enseignement/Montpellier/HLMA408/Courbe_ROC.ipynb)
+
 
 
 <!---
 
 
 
-5. [ICGaussiens.pdf](/enseignement/Montpellier/HLMA408/ICGaussiens.pdf),
-[ICGaussiens.ipynb](/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb),
-[ICGaussiens.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ICGaussiens.ipynb?flush_cache=true)
-5. [ModeleLineaire.pdf](/enseignement/Montpellier/HLMA408/ModeleLineaire.pdf),
-[ModeleLineaire.ipynb](/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb),
-[ModeleLineaire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/ModeleLineaire.ipynb?flush_cache=true)
-5. [Anova.pdf](/enseignement/Montpellier/HLMA408/Anova.pdf),
-[Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
-[Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
+
 
 
 ## Travaux dirigés:
@@ -86,6 +105,12 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 1. Modèle linéaire: [TP-MCO.pdf](/enseignement/Montpellier/HLMA408/TP-MCO.pdf); Aide pour le package statsmodel (en français): [fr_Tanagra_Python_StatsModels.pdf](http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Python_StatsModels.pdf)
 --->
 ## Plus d'information et quelques sources de données:
+
+- [ScienceEtonnante: Les politiques d'austérité : à cause d'une erreur Excel ?](https://www.youtube.com/watch?v=yeX_Zs7zztY&feature=youtu.be)
+
+- [The mathematics of the corona outbreak](https://www.youtube.com/watch?v=gSqIwXl6IjQ)
+
+- [Le déclassement de la fonction publique](https://www.liberation.fr/france/2020/01/08/prof-un-metier-qui-n-attire-plus_1769790)
 
 - [The Safe Sneeze by Mythbusters](https://www.youtube.com/watch?v=3vw0hIs2LEg)
 

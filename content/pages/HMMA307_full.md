@@ -20,12 +20,22 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 
 ## Notes de cours:
 1. [Introduction.pdf](/enseignement/Montpellier/HMMA307/Introduction.pdf)
-1. [Optimisation.pdf](/enseignement/Montpellier/HMMA307/Optimisation.pdf), [Optimisation.ipynb](/enseignement/Montpellier/HMMA307/Optimisation.ipynb)
-1. [Anova.pdf](/enseignement/Montpellier/HMMA307/Anova.pdf), [ANOVA.ipynb](/enseignement/Montpellier/HMMA307/ANOVA.ipynb)
-1. [Anova2F.pdf](/enseignement/Montpellier/HMMA307/Anova2F.pdf), [Anova2F.ipynb](/enseignement/Montpellier/HMMA307/Anova2F.ipynb)
-1. [Anova_aleatoire.pdf](/enseignement/Montpellier/HMMA307/Anova_aleatoire.pdf), [Anova_aleatoire.ipynb](/enseignement/Montpellier/HMMA307/Anova_aleatoire.ipynb)
-1. [ModelesLineairesMixtes.pdf](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.pdf), [ModelesLineairesMixtes.ipynb](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.ipynb), [data.csv](/enseignement/Montpellier/HMMA307/data.csv)
-1. [RegressionQuantile.pdf](/enseignement/Montpellier/HMMA307/RegressionQuantile.pdf), [RegressionQuantile.ipynb](/enseignement/Montpellier/HMMA307/RegressionQuantile.ipynb)
+1. [Optimisation.pdf](/enseignement/Montpellier/HMMA307/Optimisation.pdf), [Optimisation.ipynb](/enseignement/Montpellier/HMMA307/Optimisation.ipynb),
+[Optimisation.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/Optimisation.ipynb?flush_cache=true)
+
+1. [Anova.pdf](/enseignement/Montpellier/HMMA307/Anova.pdf), [ANOVA.ipynb](/enseignement/Montpellier/HMMA307/ANOVA.ipynb),
+[ANOVA.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/ANOVA.ipynb?flush_cache=true)
+
+1. [Anova2F.pdf](/enseignement/Montpellier/HMMA307/Anova2F.pdf), [Anova2F.ipynb](/enseignement/Montpellier/HMMA307/Anova2F.ipynb),
+[Anova2F.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/Anova2F.ipynb?flush_cache=true)
+
+1. [Anova_aleatoire.pdf](/enseignement/Montpellier/HMMA307/Anova_aleatoire.pdf), [Anova_aleatoire.ipynb](/enseignement/Montpellier/HMMA307/Anova_aleatoire.ipynb),
+[Anova_aleatoire.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/Anova_aleatoire.ipynb?flush_cache=true)
+
+1. [ModelesLineairesMixtes.pdf](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.pdf), [ModelesLineairesMixtes.ipynb](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.ipynb),
+[ModelesLineairesMixtes.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.ipynb?flush_cache=true), [data.csv](/enseignement/Montpellier/HMMA307/data.csv),
+
+1. [RegressionQuantile.pdf](/enseignement/Montpellier/HMMA307/RegressionQuantile.pdf), [RegressionQuantile.ipynb](/enseignement/Montpellier/HMMA307/RegressionQuantile.ipynb), [RegressionQuantile.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HMMA307/RegressionQuantile.ipynb?flush_cache=true), [data.csv](/enseignement/Montpellier/HMMA307/data.csv)
 
 
 ## Travaux dirigés:
