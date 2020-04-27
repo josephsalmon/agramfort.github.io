@@ -108,9 +108,11 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 - [ScienceEtonnante: Les politiques d'austérité : à cause d'une erreur Excel ?](https://www.youtube.com/watch?v=yeX_Zs7zztY&feature=youtu.be)
 
-- [The mathematics of the corona outbreak](https://www.youtube.com/watch?v=gSqIwXl6IjQ)
+- [Python for Dynamics and Evolution of Earth and Planets](https://nordicesmhub.github.io/deep_python/index.html)
 
-- [Le déclassement de la fonction publique](https://www.liberation.fr/france/2020/01/08/prof-un-metier-qui-n-attire-plus_1769790)
+- [Numpy Tutorial](https://github.com/rougier/numpy-tutorial) et [from-python-to-numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) par [Nicolas P. Rougier](https://www.labri.fr/perso/nrougier/resume.html)
+
+- [The mathematics of the corona outbreak](https://www.youtube.com/watch?v=gSqIwXl6IjQ)
 
 - [The Safe Sneeze by Mythbusters](https://www.youtube.com/watch?v=3vw0hIs2LEg)
 
@@ -131,3 +133,7 @@ and associated
 - [Open Climate Data](http://openclimatedata.net)
 
 - [OREM: Bases de données des Services d'Observation](https://data.oreme.org/observation)
+
+<!---
+- [Le déclassement de la fonction publique](https://www.liberation.fr/france/2020/01/08/prof-un-metier-qui-n-attire-plus_1769790)
+ --->
