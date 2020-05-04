@@ -4,7 +4,7 @@ category: course
 iscourse: true
 isfull: true
 istalk: true
-ismisc: true
+ismisc: false
 
 
 - [Fast-big Workshop (Paris, Inria)](https://project.inria.fr/fastbig/fast-big-worshop-january-10th-2020-paris/) (10/01/2020), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"

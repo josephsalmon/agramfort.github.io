@@ -6,21 +6,24 @@ isfull: true
 istalk: false
 ismisc: true
 
-## Ecology
-- [open-sciences-participatives](https://www.open-sciences-participatives.org/home/): "OPEN", le portail qui permet à tous de participer à l'observation de la biodiversité
+## Personal visualisation and math art
+
+- [Tweets: math art etc.](https://github.com/josephsalmon/Tweets/)
+
 
 ## Latex
 
 - [Moosetex](http://www.math.u-bordeaux1.fr/~cdeledal/moosetex):
 Bored with the log system of Latex? Feed up with converting eps to pdf (and backward)? Need to clean project before commit in a control version system (like SVN or GIT).
 Then, I highly recommend using [Moosetex](http://www.math.u-bordeaux1.fr/~cdeledal/moosetex).
-Any Linux/Mac user might benefit from that.
+Any Linux/Mac user might benefit from it.
 
 - [TeXtip](https://twitter.com/TeXtip)
 
 - Bibtex: [Tame the BeaST](http://www.lsv.ens-cachan.fr/~markey/BibTeX/doc/ttb_en.pdf) by Nicolas Markey
 
-- I use [Sublime](https://www.sublimetext.com/) and [Latexing](https://packagecontrol.io/packages/LaTeXing) though I should test soon [Visual Studio Code](https://code.visualstudio.com/)
+- I use [Sublime](https://www.sublimetext.com/) and [Latexing](https://packagecontrol.io/packages/LaTeXing) though I should test soon [Visual Studio Code](https://code.visualstudio.com/).
+
 
 ## Translation
 
@@ -30,9 +33,11 @@ Any Linux/Mac user might benefit from that.
 
 - [Statitics glossary](http://isi.cbs.nl/glossary/)
 
+
 ## Time zones
 
 - [Classic converter](https://www.timeanddate.com/worldclock/converter-classic.html)
+
 
 ## Videos, courses and lectures about mathematics
 
@@ -51,6 +56,7 @@ Any Linux/Mac user might benefit from that.
 
 - Mathematics through history: [Electronic Journal for History of Probability and Statistics](http://www.jehps.net/indexang.html)
 
+
 ## Statistics
 
 - [Freakonometrics](https://freakonometrics.hypotheses.org/)
@@ -66,6 +72,13 @@ Any Linux/Mac user might benefit from that.
 
 - [openculture](http://www.openculture.com/) : discover Tarkovski's movies or good ol' Hitchcock's
 
+
 ## Radio
 
 - [Sur les épaules de darwin](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin)
+
+
+
+## Ecology
+
+- [open-sciences-participatives](https://www.open-sciences-participatives.org/home/): "OPEN", le portail qui permet à tous de participer à l'observation de la biodiversité

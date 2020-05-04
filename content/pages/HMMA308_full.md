@@ -62,6 +62,13 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ## Projet final:
 [project_2019-2020.pdf](/enseignement/Montpellier/HMMA308/project_2019-2020.pdf)
 
+## Plus d'information et quelques sources de données:
+
+- [The end of the average](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)
+
+- [Le fléau de la dimension (Python)](https://github.com/Arvinds-ds/Stan-Code/blob/master/python%20notebooks/curse_dims/curs-dims.ipynb) inspiré par [Le fléau de la dimension (R)](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
+
+
 <!---
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
 
