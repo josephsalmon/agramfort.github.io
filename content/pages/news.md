@@ -3,7 +3,8 @@ sortorder: 1
 category: news
 iscourse: false
 
-- January 2020: New paper accepted to AISTATS "Support recovery and sup-norm convergence rates for sparse pivotal estimation" with Q. Bertrand, M. Massias and A. Gramfort.
+- June 2020: New paper accepted to ICML "[Implicit differentiation of Lasso-type models for hyperparameter optimization](https://arxiv.org/abs/2002.08943)" with Q. Bertrand, Q. Klopfenstein, M. Blondel, S. Vaiter and A. Gramfort, [code](https://github.com/QB3/sparse-ho)
+- January 2020: New paper accepted to AISTATS "[Support recovery and sup-norm convergence rates for sparse pivotal estimation](https://arxiv.org/abs/2001.05401)" with Q. Bertrand, M. Massias and A. Gramfort, [code](https://github.com/QB3/CLaR)
 - December 2019: The AI chair proposal CaMeLOt (CooperAtive MachinE Leanrning and OpTimization) has been selected by the ANR. Open PhD and postdoc positions will be published soon (location: Montpellier)
  Do not hesitate to contact me for additional information
 - September 2019: New paper accepted at NeurIPS 2019, joint work with Q. Bertrand, M. Massias and A. Gramfort. "Handling correlated and repeated measurements with the smoothed Multivariate square-root Lasso" [arxiv](https://arxiv.org/abs/1902.02509), [code](https://github.com/QB3/CLaR)

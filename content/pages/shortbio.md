@@ -3,7 +3,7 @@ sortorder: 2
 category: shortbio
 iscourse: false
 
-I am currently a full professor at [Université de Montpellier](https://www.umontpellier.fr/)
+Since 2018, I am a full professor at [Université de Montpellier](https://www.umontpellier.fr/)
 and an associate member at INRIA [Parietal Team](http://parietal.saclay.inria.fr/).
 For the spring and summer quarters 2018, I was a visiting assistant professor at [UW, Statistics departement](https://www.stat.washington.edu/).
 From 2012 to 2018 I was an assistant professor at [Telecom ParisTech](http://telecom-paristech.fr).
