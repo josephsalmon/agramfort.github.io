@@ -50,6 +50,9 @@ extrapolation" [slides](talks/horizonmath.pdf)
 - [University of British Columbia (Vancouver)](https://www.cs.ubc.ca/)   (07/17/2018), "Celer: a fast Lasso solver with dual extrapolation"
 [slides](talks/UBC.pdf)
 
+- [USC Probability and Statistics Seminars](https://dornsife.usc.edu/probability-and-statistics-seminars/spring-2018/) (03/23/2018) "Generalized Concomitant Multi-Task Lasso for sparse multimodal regression" [slides](talks/seminar_JS.pdf)
+
+
 - [ML+TOPS Seminar - University of Washington](https://www.cs.washington.edu/research/ml/seminars) (02/27/2018) "Generalized Concomitant Multi-Task
 Lasso for sparse multimodal regression" [slides](talks/seminar_JS.pdf)
 

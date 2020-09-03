@@ -57,7 +57,9 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 1. [TD2.pdf](/enseignement/Montpellier/HLMA408/TD2.pdf), [TD2_corr.pdf](/enseignement/Montpellier/HLMA408/TD2_corr.pdf)
 
-1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf), [TD3_corr.pdf](/enseignement/Montpellier/HLMA408/TD3_corr.pdf), [TD3-Loi-uniforme.ipynb](/enseignement/Montpellier/HLMA408/TD3-Loi-uniforme.ipynb)
+1. [TD3.pdf](/enseignement/Montpellier/HLMA408/TD3.pdf), [TD3_corr.pdf](/enseignement/Montpellier/HLMA408/TD3_corr.pdf), [TD3-Loi-uniforme.ipynb](/enseignement/Montpellier/HLMA408/TD3-Loi-uniforme.ipynb),
+[TD3-Loi-uniforme.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/TD3-Loi-uniforme.ipynb?flush_cache=true)
+
 
 1. [TD4.pdf](/enseignement/Montpellier/HLMA408/TD4.pdf), [TD4_corr.pdf](/enseignement/Montpellier/HLMA408/TD4_corr.pdf)
 1. [TD5.pdf](/enseignement/Montpellier/HLMA408/TD5.pdf), [TD5_corr.pdf](/enseignement/Montpellier/HLMA408/TD5_corr.pdf)
