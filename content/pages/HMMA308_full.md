@@ -13,10 +13,10 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ![Level set for Adaptive Lasso (log)](images/non_cvx_log_level_set.svg "Level st for Adaptive Lasso (log)"){ width=27% }
 </center>
 
-## Syllabus:
+## Syllabus
 [syllabus_hmma308.pdf](/enseignement/Montpellier/HMMA308/syllabus_hmma308.pdf)
 
-## Cours:
+## Cours
 
 1. Intro Machine Learning: [IntroML_slides.pdf](/enseignement/Montpellier/HMMA308/IntroML_slides.pdf)
 
@@ -27,32 +27,34 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. SVD: [SVD_slides.pdf](/enseignement/Montpellier/HMMA308/SVD_slides.pdf), [SVD.ipynb](/enseignement/Montpellier/HMMA308/SVD.ipynb)
 
+1. PCA: [PCA_slides.pdf](/enseignement/Montpellier/HMMA308/PCA_slides.pdf), [PCA.ipynb](/enseignement/Montpellier/HMMA308/PCA.ipynb)
+
 1. Ridge: [Ridge_slides.pdf](/enseignement/Montpellier/HMMA308/Ridge_slides.pdf), [Ridge.ipynb](/enseignement/Montpellier/HMMA308/Ridge.ipynb)
-
-
-1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
 
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
 
 1. Bagging et forêts aléatoires : [ForetsAleatoires_slides.pdf](/enseignement/Montpellier/HMMA308/ForetsAleatoires_slides.pdf)
+
+1. Lasso: [Lasso_slides.pdf](/enseignement/Montpellier/HMMA308/Lasso_slides.pdf), [Lasso_fr.ipynb](/enseignement/Montpellier/HMMA308/Lasso_fr.ipynb), [functions_Lasso.py](/enseignement/Montpellier/HMMA308/functions_Lasso.py), [prox_collection.py](/enseignement/Montpellier/HMMA308/prox_collection.py)
 
 1. SVM : [svm_slides.pdf](/enseignement/Montpellier/HMMA308/svm_slides.pdf)
 
 1. Clustering : [clustering_slides.pdf](/enseignement/Montpellier/HMMA308/clustering_slides.pdf)
 
 
-## TPs:
-
+## TPs
 
 1. [knn_tp.pdf](/enseignement/Montpellier/HMMA308/knn_tp.pdf),
 [tp_knn_source.py](/enseignement/Montpellier/HMMA308/tp_knn_source.py), [tp_knn_script.py](/enseignement/Montpellier/HMMA308/tp_knn_script.py), [tp_knn_script_corr.py](/enseignement/Montpellier/HMMA308/tp_knn_script_corr.py),
 [knn_tp_corr.pdf](/enseignement/Montpellier/HMMA308/knn_tp_corr.pdf)
 
-
 1. [perceptron_tp.pdf](/enseignement/Montpellier/HMMA308/perceptron_tp.pdf),
 [tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
-1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf)
+1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf), [tp_arbres_source.py](/enseignement/Montpellier/HMMA308/tp_arbres_source.py)
+
+<!--- , [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
+
 
 1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip), [svm_correction.py](/enseignement/Montpellier/HMMA308/svm_correction.py)
 
@@ -69,7 +71,6 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 - [Le fléau de la dimension (Python)](https://github.com/Arvinds-ds/Stan-Code/blob/master/python%20notebooks/curse_dims/curs-dims.ipynb) inspiré par [Le fléau de la dimension (R)](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
 
 
-<!---
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
 
 
@@ -102,3 +103,6 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ## Projet final:
 [project_2018-2019.pdf](/enseignement/Montpellier/HMMA308/project_2018-2019.pdf)
 --->
+
+## More resources
+- leakage (fr: fuite) example : <https://twitter.com/acidflask/status/1259531004500488192>

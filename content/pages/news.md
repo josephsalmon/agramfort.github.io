@@ -3,6 +3,8 @@ sortorder: 1
 category: news
 iscourse: false
 
+- October 2020: talk at [GdR MIA Thematic day on Non-Convex Sparse Optimization (Toulouse, France)](https://www.irit.fr/~Emmanuel.Soubies/Docs/Thematic_Day_MIA_09-10-2020.pdf) "Screening Rules for Lasso with Non-Convex Sparse Regularizers" [slides](talks/MIA_2020.pdf) and a bit on
+[BenchOpt](https://benchopt.github.io/), a new package to simplify, make more transparent and more reproducible comparisons between optimization algorithms
 - June 2020: New paper accepted to ICML "[Implicit differentiation of Lasso-type models for hyperparameter optimization](https://arxiv.org/abs/2002.08943)" with Q. Bertrand, Q. Klopfenstein, M. Blondel, S. Vaiter and A. Gramfort, [code](https://github.com/QB3/sparse-ho)
 - January 2020: New paper accepted to AISTATS "[Support recovery and sup-norm convergence rates for sparse pivotal estimation](https://arxiv.org/abs/2001.05401)" with Q. Bertrand, M. Massias and A. Gramfort, [code](https://github.com/QB3/CLaR)
 - December 2019: The AI chair proposal CaMeLOt (CooperAtive MachinE Leanrning and OpTimization) has been selected by the ANR. Open PhD and postdoc positions will be published soon (location: Montpellier)

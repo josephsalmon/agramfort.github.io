@@ -10,6 +10,16 @@ ismisc: true
 
 - [Tweets: math art etc.](https://github.com/josephsalmon/Tweets/)
 
+![Splines](https://raw.github.com/josephsalmon/Tweets/master/Spline-ish/my_art/a_la_harris_007.svg?sanitize=true "Splines"){ width=15% } ![Python scientific ecosystem](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle_simple.svg?sanitize=true "Penrose Triangle"){ width=10% }
+![Penrose Triangle](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle.svg?sanitize=true "Penrose Triangle"){ width=15% } ![Penrose Triangle](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle_simple_nb.svg?sanitize=true "Penrose Triangle"){ width=10% }
+![Penrose Triangle](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangles_nb.svg?sanitize=true "Penrose Triangle"){ width=15% }
+
+![Islamic Art](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/zellige.svg?sanitize=true "Islamic Art"){ width=15% }
+![Islamic Art](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/zellige_color.svg?sanitize=true "Islamic Art"){ width=15% }
+![Islamic Art: Lotfallah Mosk](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/Lotfallah_colored.svg?sanitize=true "Islamic Art: Lotfallah Mosk"){ width=15% }
+![Islamic Art: Lotfallah Mosk](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/Lotfallah_nb.svg?sanitize=true "Islamic Art: Lotfallah Mosk"){ width=15% }
+![Ten Star](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/ten_star_color_e.svg?sanitize=true "Ten Star"){ width=15% }
+
 
 ## Latex
 

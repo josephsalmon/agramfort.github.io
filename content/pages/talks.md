@@ -7,6 +7,8 @@ istalk: true
 ismisc: false
 
 
+- [GdR MIA Thematic day on Non-Convex Sparse Optimization (Toulouse, France)](https://www.irit.fr/~Emmanuel.Soubies/Docs/Thematic_Day_MIA_09-10-2020.pdf) (09/10/2020), "Screening Rules for Lasso with Non-Convex Sparse Regularizers" [slides](talks/MIA_2020.pdf)
+
 - [Mathematical Methods of Modern Statistics 2 (Luminy, France)](https://conferences.cirm-math.fr/virtualconference-2146.html) (15/06/2020), "The smoothed multivariate square-root Lasso: an optimization lens on concomitant estimation" [slides](talks/bounds_slides_CIRM2020.pdf), [video](https://www.youtube.com/watch?time_continue=4&v=w21qIzGb0eM&feature=emb_logo)
 
 - [Fast-big Workshop (Paris, Inria)](https://project.inria.fr/fastbig/fast-big-worshop-january-10th-2020-paris/) (10/01/2020), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"
