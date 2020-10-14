@@ -50,7 +50,9 @@ We will address some of the element in the Python scientific ecosystem:
 
 
 1. [TP3-numpy_matplolib.pdf](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.pdf), [TP3-numpy_matplolib-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib-skeleton.ipynb),
+[TP3-numpy_matplolib-skeleton.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib-skeleton.ipynb), [TP3-numpy_matplolib.ipynb](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.ipynb), [TP3-numpy_matplolib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.ipynb)
 
+1. [TP4-descente_gradient.pdf](/enseignement/Montpellier/HLMA310/TP4-descente_gradient.pdf), [TP4-descente_gradient-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP4-descente_gradient-skeleton.ipynb),
 
 <!---
 

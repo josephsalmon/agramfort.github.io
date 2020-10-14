@@ -53,10 +53,12 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf), [tp_arbres_source.py](/enseignement/Montpellier/HMMA308/tp_arbres_source.py)
 
+1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip),
+
+
 <!--- , [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
 
-1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip), [svm_correction.py](/enseignement/Montpellier/HMMA308/svm_correction.py)
 
 
 1. [clustering_tp.pdf](/enseignement/Montpellier/HMMA308/clustering_tp.pdf), [kmeans.py](/enseignement/Montpellier/HMMA308/kmeans.py), [gap.py](/enseignement/Montpellier/HMMA308/gap.py), [china.jpg](/enseignement/Montpellier/HMMA308/china.jpg)
@@ -64,16 +66,8 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ## Projet final:
 [project_2019-2020.pdf](/enseignement/Montpellier/HMMA308/project_2019-2020.pdf)
 
-## Plus d'information et quelques sources de données:
-
-- [The end of the average](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)
-
-- [Le fléau de la dimension (Python)](https://github.com/Arvinds-ds/Stan-Code/blob/master/python%20notebooks/curse_dims/curs-dims.ipynb) inspiré par [Le fléau de la dimension (R)](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
-
 
 1. Arbres : [arbres_slides.pdf](/enseignement/Montpellier/HMMA308/arbres_slides.pdf)
-
-
 
 
 1. Méthodes non-linéaires, GAM et splines: [Splines_GAM_slides.pdf](/enseignement/Montpellier/HMMA308/Splines_GAM_slides.pdf), [GAM.ipynb](/enseignement/Montpellier/HMMA308/GAM.ipynb)
@@ -96,13 +90,24 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf)
 
-1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip)
-
 1. [clustering_tp.pdf](/enseignement/Montpellier/HMMA308/clustering_tp.pdf), [kmeans.py](/enseignement/Montpellier/HMMA308/kmeans.py), [gap.py](/enseignement/Montpellier/HMMA308/gap.py), [china.jpg](/enseignement/Montpellier/HMMA308/china.jpg)
+
+1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip),
+ [svm_correction.py](/enseignement/Montpellier/HMMA308/svm_correction.py)
+
+
 
 ## Projet final:
 [project_2018-2019.pdf](/enseignement/Montpellier/HMMA308/project_2018-2019.pdf)
 --->
 
 ## More resources
-- leakage (fr: fuite) example : <https://twitter.com/acidflask/status/1259531004500488192>
+- [The end of the average](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)
+
+- [Le fléau de la dimension (Python)](https://github.com/Arvinds-ds/Stan-Code/blob/master/python%20notebooks/curse_dims/curs-dims.ipynb) inspiré par [Le fléau de la dimension (R)](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
+
+- Leakage (fr: *fuite*) example : <https://twitter.com/acidflask/status/1259531004500488192>
+
+- The Literary Digest poll : <https://amsi.org.au/ESA_Senior_Years/SeniorTopic4/4b/4b_2content_4.html>
+
+- [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias) ![Survivorship bias](images/Survivorship-bias.png "Survivorship-bias, Wikipedia source)"){ width=10% }

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import re
 import bibtexparser
 import pandas as pd
 
@@ -127,24 +128,50 @@ def make_nice_title(title):
 - only full author records, in "surname, name and" format
 """
 
-with open('./data/Salmon.bib') as bib:
-    bib_str = bib.read()
+def get_bib_entries(bib_fname):
+    with open(bib_fname) as bib:
+        bib_str = bib.read()
 
-records = bibtexparser.loads(bib_str)
+    parser = bibtexparser.bparser.BibTexParser(common_strings=True)
+    records = parser.parse(bib_str)
+    parser2 = bibtexparser.bparser.BibTexParser(common_strings=True)
+    one_records = parser2.parse(bib_str)
 
-one_records = bibtexparser.loads(bib_str)
-for k, item in enumerate(records.entries):
-    one_records.entries = records.entries[k:k + 1]
-    print(item['author'])
-    item['author'] = make_nice_author(item['author'])
-    for key in ['annote', 'owner', 'group', 'topic']:
-        if key in item:
-            del item[key]
-    item['bibtex'] = bibtexparser.dumps(one_records).strip()
-    item['title'] = make_nice_title(item['title'])
-    item['index'] = k
+    entries = []
 
-records.entries.sort(key=lambda record: record['year'], reverse=True)
+    for k, item in enumerate(records.entries):
+        one_records.entries = records.entries[k:k + 1]
+        item['author'] = make_nice_author(item['author'])
+        for key in ['annote', 'owner', 'group', 'topic']:
+            if key in item:
+                del item[key]
 
-PUBLICATION_LIST = records.entries[:]
+        bibtex_str = bibtexparser.dumps(one_records).strip()
+
+        regex = r"author = {[^}]*}"
+        matches = list(re.finditer(regex, bibtex_str, re.MULTILINE))
+        assert len(matches) == 1
+        match = matches[0]
+        start, stop = match.start(), match.end()
+        author_str = bibtex_str[start:stop]
+        author_str_ok = ''
+        splits = author_str.split(', ')
+        for k, s in enumerate(splits):
+            author_str_ok += ' and '
+            author_str_ok += s
+
+        bibtex_str_ok = bibtex_str[:start] + author_str_ok + bibtex_str[stop:]
+        item['bibtex'] = bibtex_str_ok
+
+        item['title'] = make_nice_title(item['title'])
+        item['index'] = k
+        if 'url' in item:
+            item['link'] = item['url']
+        entries.append(item)
+    return entries
+
+
+entries = get_bib_entries('./data/Salmon.bib')
+entries.sort(key=lambda record: record['year'], reverse=True)
+PUBLICATION_LIST = entries[:]
 PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:7]
