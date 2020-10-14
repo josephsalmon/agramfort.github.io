@@ -157,7 +157,12 @@ def get_bib_entries(bib_fname):
         author_str_ok = ''
         splits = author_str.split(', ')
         for k, s in enumerate(splits):
-            author_str_ok += ' and '
+            print(s)
+            # if ((k % 2 == 0) and k < (len(splits) - 2)):
+            if (k > 0):
+                author_str_ok += ' and '
+            # else:
+                # author_str_ok += ', '
             author_str_ok += s
 
         bibtex_str_ok = bibtex_str[:start] + author_str_ok + bibtex_str[stop:]
