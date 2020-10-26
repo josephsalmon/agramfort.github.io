@@ -5,19 +5,19 @@ iscourse: false
 
 ### PhD Students
 
-- [Camille Garcin](???) co-supervised by [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php): 2020-2023?
-- [Emmanuel Pilliat](???) co-supervised by [Nicolas Verzelen](http://nicolas.verzelen.free.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/http://nicolas.verzelen.free.fr/) : 2020-2023?
+- [Camille Garcin](https://garcinc.github.io/Camille-Garcin/) co-supervised by [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php): 2020-2023?
+- [Emmanuel Pilliat](https://epilliat.github.io/Page-perso/) co-supervised by [Nicolas Verzelen](http://nicolas.verzelen.free.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/http://nicolas.verzelen.free.fr/): 2020-2023?
 - [Hashem Ghanem](???) co-supervised by [Samuel Vaiter](https://samuelvaiter.com/) and [Nicolas Keriven](https://nkeriven.github.io/): 2020-2023?
 - [Florent Bascou](https://bascouflorent.github.io) co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/): 2019-2022?
-- [Damien Blanc](https://???) co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/): 2019-2022?
-- [Quentin Bertrand](https://qb3.github.io/) co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) 2018-2021?
-- [Nidham Gazagnadou](https://ngazagna.github.io/) co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/) 2018-2021?
-- [Jérôme-Alexis Chevalier](https://team.inria.fr/parietal/team-members/jerome-alexis-chevalier/) co-supervised by [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) 2017-2020?
+- [Damien Blanc](https://www.quantacell.com/about/) co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/): 2019-2022?
+- [Quentin Bertrand](https://qb3.github.io/) co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/): 2018-2021?
+- [Nidham Gazagnadou](https://ngazagna.github.io/) co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/): 2018-2021?
+- [Jérôme-Alexis Chevalier](https://team.inria.fr/parietal/team-members/jerome-alexis-chevalier/) co-supervised by [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/): 2017-2020?
 <br/><br/>
 
 
 ### Alumni
-- [Mathurin Massias](https://mathurinm.github.io)[PhD 2016-2019], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/): 2016-2019 (now at Università di Genova, Italy)
+- [Mathurin Massias](https://mathurinm.github.io) [PhD 2016-2019], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/): 2016-2019 (now at Università di Genova, Italy)
 - [Evgenii Chzhen](https://echzhen.com/) [PhD 2016-2019], co-supervised by [Mohamed Hebiri](http://perso-math.univ-mlv.fr/users/hebiri.mohamed/) (now at Université Paris-Sud)
 - [Eugene Ndiaye](https://eugenendiaye.github.io/) [PhD, 2015-2018], co-supervised by [Olivier Fercoq](http://perso.telecom-paristech.fr/~ofercoq/) (now at Riken Institute, Japan)
 - [Jean Lafond](http://perso.telecom-paristech.fr/~lafond/) [PhD, 2013-2016]  co-supervised by [Éric Moulines](http://perso.telecom-paristech.fr/~moulines/) (now at Cubist Systematic, UK)

@@ -51,6 +51,11 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 [Anova.ipynb](/enseignement/Montpellier/HLMA408/Anova.ipynb),
 [Anova.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA408/Anova.ipynb?flush_cache=true)
 
+
+
+<!---
+
+
 ## Travaux dirigés:
 
 1. [TD1.pdf](/enseignement/Montpellier/HLMA408/TD1.pdf), [TD1_corr.pdf](/enseignement/Montpellier/HLMA408/TD1_corr.pdf)
@@ -67,14 +72,13 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 ## Travaux pratiques:
 
+
+
+
+
 1. Introduction: [TP-Introduction.pdf](/enseignement/Montpellier/HLMA408/TP-Introduction.pdf), [TP-Introduction_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-Introduction_squelette.ipynb)
 
 1. Chi2: [TP-chi2.pdf](/enseignement/Montpellier/HLMA408/TP-chi2.pdf), [TP-chi2_squelette.ipynb](/enseignement/Montpellier/HLMA408/TP-chi2_squelette.ipynb), [Courbe_ROC.ipynb](/enseignement/Montpellier/HLMA408/Courbe_ROC.ipynb)
-
-
-
-<!---
-
 
 
 

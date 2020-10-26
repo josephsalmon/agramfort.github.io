@@ -30,7 +30,9 @@ We will address some of the element in the Python scientific ecosystem:
 
 1. [matplotlib_slides.pdf](/enseignement/Montpellier/HLMA310/matplotlib_slides.pdf), [matplotlib.ipynb](/enseignement/Montpellier/HLMA310/matplotlib.ipynb), [matplotlib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/matplotlib.ipynb)
 
-1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb), [belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
+1. [pandas_slides.pdf](/enseignement/Montpellier/HLMA310/pandas_slides.pdf), [pandas.ipynb](/enseignement/Montpellier/HLMA310/pandas.ipynb),
+[pandas.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/pandas.ipynb),
+[belgianmunicipalities.ipynb](/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb), [belgianmunicipalities.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/belgianmunicipalities.ipynb)
 
 
 ## Travaux pratiques
@@ -53,6 +55,11 @@ We will address some of the element in the Python scientific ecosystem:
 [TP3-numpy_matplolib-skeleton.html](https://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib-skeleton.ipynb), [TP3-numpy_matplolib.ipynb](/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.ipynb), [TP3-numpy_matplolib.html](http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/Montpellier/HLMA310/TP3-numpy_matplolib.ipynb)
 
 1. [TP4-descente_gradient.pdf](/enseignement/Montpellier/HLMA310/TP4-descente_gradient.pdf), [TP4-descente_gradient-skeleton.ipynb](/enseignement/Montpellier/HLMA310/TP4-descente_gradient-skeleton.ipynb),
+
+
+1. [TP5-pandas.pdf](/enseignement/Montpellier/HLMA310/TP5-pandas.pdf), [TP5-pandas.ipynb](/enseignement/Montpellier/HLMA310/TP5-pandas.ipynb)
+
+1. [TP_note_2020.pdf](/enseignement/Montpellier/HLMA310/TP_note_2020.pdf)
 
 <!---
 

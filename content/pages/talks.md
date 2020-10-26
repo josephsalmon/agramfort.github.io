@@ -23,7 +23,7 @@ ismisc: false
 - [Guanajuato, CIMAT (Mexico)](https://pcc.cimat.mx/) (04/11/2019), "Correlated and repeated measurements with the smoothed Multivariate square-root Lasso"
 [slides](talks/seminar_JS_CIMAT.pdf)
 
-- [I Taller Interinstitucional de Ciencia de Datos e Inteligencia Artificial, UDLAP (Puebla)](https://tallerdatos.udlap.mx/) (28/10/2019), "Coordinate descent (and beyond) for sparse learning optimization" (3X 1h course) [slides](talks/sparse_learning.pdf)
+- [I Taller Interinstitucional de Ciencia de Datos e Inteligencia Artificial, UDLAP (Puebla)](https://tallerdatos.udlap.mx/) (28/10/2019), "Coordinate descent (and beyond) for sparse learning optimization" [slides](talks/sparse_learning.pdf)
 
 - [Seminar, UNAM (Mexico)](http://www.dpye.iimas.unam.mx/) (28/10/2019), "Concomitant Lasso with Repetitions (CLaR): beyond averaging multiple realizations of heteroscedastic noise"
 [slides](talks/seminar_UNAM.pdf)

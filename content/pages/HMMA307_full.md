@@ -11,14 +11,14 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 ![Pollution en Occitanie](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=70%}
 </center>
 
-## Syllabus:
+## Syllabus
 [syllabus_hmma307.pdf](/enseignement/Montpellier/HMMA307/syllabus_hmma307.pdf)
 
 
 ## Polycopié: "Algèbre linéaire pour les statistiques"
 [LinAlg4Stat.pdf](/enseignement/Montpellier/HMMA307/LinAlg4Stat.pdf) (en cours de rédaction)
 
-## Notes de cours:
+## Notes de cours
 1. [Introduction.pdf](/enseignement/Montpellier/HMMA307/Introduction.pdf)
 
 1. [Optimisation.pdf](/enseignement/Montpellier/HMMA307/Optimisation.pdf)
@@ -39,7 +39,8 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 
 1. [RegressionQuantile.pdf](/enseignement/Montpellier/HMMA307/RegressionQuantile.pdf)
 
-## Travaux dirigés:
+
+## Travaux dirigés
 
 1. [TD1-SVD.pdf](/enseignement/Montpellier/HMMA307/TD1-SVD.pdf)
 
@@ -51,6 +52,9 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 
 ## More resources
 -  Challenge visualisation, Totem Albert 1er : <https://twitter.com/TotemsMtp/status/1310516278256435200>
+
+- Simpson's paradox: <https://en.wikipedia.org/wiki/Simpson%27s_paradox>
+
 
 
 <!---

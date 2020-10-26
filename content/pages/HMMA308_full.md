@@ -16,6 +16,9 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ## Syllabus
 [syllabus_hmma308.pdf](/enseignement/Montpellier/HMMA308/syllabus_hmma308.pdf)
 
+## Projets
+[Projets_ML.pdf](/enseignement/Montpellier/HMMA308/Projets_ML.pdf)
+
 ## Cours
 
 1. Intro Machine Learning: [IntroML_slides.pdf](/enseignement/Montpellier/HMMA308/IntroML_slides.pdf)
@@ -55,6 +58,7 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 
 1. [svm_tp.pdf](/enseignement/Montpellier/HMMA308/svm_tp.pdf), [svm_tp_sources.zip](/enseignement/Montpellier/HMMA308/svm_tp_sources.zip),
 
+1. [clustering_tp.pdf](/enseignement/Montpellier/HMMA308/clustering_tp.pdf), [kmeans.py](/enseignement/Montpellier/HMMA308/kmeans.py), [gap.py](/enseignement/Montpellier/HMMA308/gap.py), [china.jpg](/enseignement/Montpellier/HMMA308/china.jpg)
 
 <!--- , [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
 
