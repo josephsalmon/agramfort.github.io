@@ -19,25 +19,19 @@ This course is in French, and deals with advanced linear models (Anova, Mixed-ef
 [LinAlg4Stat.pdf](/enseignement/Montpellier/HMMA307/LinAlg4Stat.pdf) (en cours de rédaction)
 
 ## Notes de cours
-1. [Introduction.pdf](/enseignement/Montpellier/HMMA307/Introduction.pdf)
+1. [Introduction.pdf](/enseignement/Montpellier/HMMA307/Introduction.pdf), [CM1.pdf](/enseignement/Montpellier/HMMA307/CM1.pdf)
 
-1. [Optimisation.pdf](/enseignement/Montpellier/HMMA307/Optimisation.pdf)
+1. [Optimisation.pdf](/enseignement/Montpellier/HMMA307/Optimisation.pdf), [CM2.pdf](/enseignement/Montpellier/HMMA307/CM2.pdf)
 
-1. [Anova.pdf](/enseignement/Montpellier/HMMA307/Anova.pdf)
+1. [Anova.pdf](/enseignement/Montpellier/HMMA307/Anova.pdf), [CM3.pdf](/enseignement/Montpellier/HMMA307/CM3.pdf)
 
+1. [Anova2F.pdf](/enseignement/Montpellier/HMMA307/Anova2F.pdf), [CM4.pdf](/enseignement/Montpellier/HMMA307/CM4.pdf)
 
+1. [Anova_aleatoire.pdf](/enseignement/Montpellier/HMMA307/Anova_aleatoire.pdf), [CM5.pdf](/enseignement/Montpellier/HMMA307/CM5.pdf)
 
-1. [Anova2F.pdf](/enseignement/Montpellier/HMMA307/Anova2F.pdf)
+1. [ModelesLineairesMixtes.pdf](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.pdf), [CM6.pdf](/enseignement/Montpellier/HMMA307/CM6.pdf)
 
-
-
-
-1. [Anova_aleatoire.pdf](/enseignement/Montpellier/HMMA307/Anova_aleatoire.pdf)
-
-
-1. [ModelesLineairesMixtes.pdf](/enseignement/Montpellier/HMMA307/ModelesLineairesMixtes.pdf)
-
-1. [RegressionQuantile.pdf](/enseignement/Montpellier/HMMA307/RegressionQuantile.pdf)
+1. [RegressionQuantile.pdf](/enseignement/Montpellier/HMMA307/RegressionQuantile.pdf), [CM7.pdf](/enseignement/Montpellier/HMMA307/CM7.pdf)
 
 
 ## Travaux dirigés
