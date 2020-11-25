@@ -1,4 +1,4 @@
-title: HMMA308 - Apprentissage statistique (2018-2020)
+title: HMMA308 - Apprentissage statistique (2018-2021)
 sortorder: -2
 category: coursesHMMA308
 iscourse: true
