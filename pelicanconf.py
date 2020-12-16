@@ -10,6 +10,7 @@ SITENAME = u'Joseph Salmon'
 SITEURL = ''
 
 PATH = 'content'
+# PAGES = './pages'
 
 TIMEZONE = 'Europe/Paris'
 
