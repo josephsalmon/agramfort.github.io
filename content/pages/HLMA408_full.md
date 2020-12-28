@@ -9,7 +9,7 @@ slug: HLMA408-full
 This is an undergraduate course (in French!) introducing statistics and data visualisation.
 
 <center>
-![Pollution en Occitanie](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=70%}
+![Pollution en Occitanie](images/pollution_occitanie.svg "Pollution en Occitanie"){ width=50%}
 </center>
 
 ## Syllabus:
@@ -18,6 +18,16 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 ## Polycopié:
 [Introduction à Python (HLMA310)](/enseignement/Montpellier/HLMA310/IntroPython.pdf) (en cours de rédaction)
 
+
+## Widgets introductifs
+
+
+
+Distributions continues             |  Distributions discrètes | Quantiles
+:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_continuous.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FFonction_masse_echantillon.ipynb"> <img src="images/screenshot_discrete.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_quantile.png" width="76%" > </a>
+
+Sources: https://github.com/josephsalmon/Random-Widgets
 
 ## Cours: slides et notebooks
 
@@ -112,15 +122,13 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 --->
 ## Plus d'information et quelques sources de données:
 
+
+### Général
 - [ScienceEtonnante: Les politiques d'austérité : à cause d'une erreur Excel ?](https://www.youtube.com/watch?v=yeX_Zs7zztY&feature=youtu.be)
 
 - [Python for Dynamics and Evolution of Earth and Planets](https://nordicesmhub.github.io/deep_python/index.html)
 
 - [Numpy Tutorial](https://github.com/rougier/numpy-tutorial) et [from-python-to-numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) par [Nicolas P. Rougier](https://www.labri.fr/perso/nrougier/resume.html)
-
-- [The mathematics of the corona outbreak](https://www.youtube.com/watch?v=gSqIwXl6IjQ)
-
-- [The Safe Sneeze by Mythbusters](https://www.youtube.com/watch?v=3vw0hIs2LEg)
 
 - [Compstat: "Tutorial on Computational Statistics", by Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)
 
@@ -134,11 +142,33 @@ and associated
 
 - [Scipy lecture notes](https://www.scipy-lectures.org/)
 
-- [Pollution on data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
+
+
+
+### Biais
+- The Literary Digest poll : Franklin D. Roosevelt  vs. Alf Landon  <https://amsi.org.au/ESA_Senior_Years/SeniorTopic4/4b/4b_2content_4.html>
+
+- [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)
+
+
+![Survivorship bias](images/Survivorship-bias.png "Survivorship-bias, Wikipedia source)"){ width=10% }
+
+
+### Bases de données
 
 - [Open Climate Data](http://openclimatedata.net)
 
 - [OREM: Bases de données des Services d'Observation](https://data.oreme.org/observation)
+
+- [Pollution on data.gouv.fr](https://www.data.gouv.fr/fr/datasets/donnees-temps-reel-de-mesure-des-concentrations-de-polluants-atmospheriques-reglementes-1/)
+
+
+### Covid-19
+
+- [The mathematics of the corona outbreak](https://www.youtube.com/watch?v=gSqIwXl6IjQ)
+
+- [The Safe Sneeze by Mythbusters](https://www.youtube.com/watch?v=3vw0hIs2LEg)
+
 
 <!---
 - [Le déclassement de la fonction publique](https://www.liberation.fr/france/2020/01/08/prof-un-metier-qui-n-attire-plus_1769790)

@@ -10,7 +10,7 @@ SITENAME = u'Joseph Salmon'
 SITEURL = ''
 
 PATH = 'content'
-# PAGES = './pages'
+PAGES = 'pages'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -53,14 +53,14 @@ GOOGLE_ANALYTICS = " UA-34336869-1"
 
 # NOT_COURSE_LIST = ["contact", "news", "positions", "shortbio", "software", "team"]
 
-STATIC_PATHS = ['misc', 'code', 'images', 'enseignement',
-                'talks', 'papers', 'pdfs']
+STATIC_PATHS = ['code', 'images', 'enseignement',
+                'talks', 'papers']
 PAGE_EXCLUDES = ['misc', 'code', 'enseignement', 'talks',
                  'papers', '.ipynb_checkpoints']
 ARTICLE_EXCLUDES = ['code', 'enseignement', 'talks', 'papers',
                     '.ipynb_checkpoints']
 DISPLAY_CATEGORIES_ON_MENU = True
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 DEFAULT_DATE = 'fs'
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 
