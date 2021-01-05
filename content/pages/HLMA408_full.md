@@ -23,9 +23,9 @@ This is an undergraduate course (in French!) introducing statistics and data vis
 
 
 
-Distributions continues             |  Distributions discrètes | Quantiles
-:-------------------------:|:-------------------------:|:-------------------------:
-<a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_continuous.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FFonction_masse_echantillon.ipynb"> <img src="images/screenshot_discrete.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_quantile.png" width="76%" > </a>
+Distributions continues             |  Distributions discrètes | Quantiles | Courbes ROC / Tests
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_continuous.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FFonction_masse_echantillon.ipynb"> <img src="images/screenshot_discrete.png" width="78%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb"> <img src="images/screenshot_quantile.png" width="76%" > </a> | <a href="https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FROC_curve_PCR_tests.ipynb"> <img src="images/screenshot_roc_curves.png" width="76%" > </a>
 
 Sources: https://github.com/josephsalmon/Random-Widgets
 
