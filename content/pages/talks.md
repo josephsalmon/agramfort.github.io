@@ -7,6 +7,11 @@ istalk: true
 ismisc: false
 
 
+- [Machine Learning seminar at Telecom Paris (Paris, France)](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/signal-statistique-et-apprentissage-s2a/orientations/apprentissage-statistique) (08/04/2021), "Implicit differentiation for fast hyperparameter selection in non-smooth convex learning" [slides](talks/sparse_ho_long_js.pdf)
+
+- [Journée Scientifique IA et Biodiversité (CEMEB, 
+- Montpellier, France)](https://www.labex-cemeb.org/fr/actualites/journee-scientifique-ia-et-biodiversite-30-mars-2021) (30/03/2021), "Structured linear models: contributions from statistics and optimization" [slides](talks/cemeb_js.pdf)
+
 - [GdR MIA Thematic day on Non-Convex Sparse Optimization (Toulouse, France)](https://www.irit.fr/~Emmanuel.Soubies/Docs/Thematic_Day_MIA_09-10-2020.pdf) (09/10/2020), "Screening Rules for Lasso with Non-Convex Sparse Regularizers" [slides](talks/screening_nncvx.pdf)
 
 - [Mathematical Methods of Modern Statistics 2 (Luminy, France)](https://conferences.cirm-math.fr/virtualconference-2146.html) (15/06/2020), "The smoothed multivariate square-root Lasso: an optimization lens on concomitant estimation" [slides](talks/bounds_slides_CIRM2020.pdf), [video](https://www.youtube.com/watch?time_continue=4&v=w21qIzGb0eM&feature=emb_logo)
@@ -61,6 +66,9 @@ Lasso for sparse multimodal regression" [slides](talks/seminar_JS.pdf)
 - Séminaire de probabilités de l'ENS Lyon (29/11/2017) "Generalized Concomitant Multi-Task Lasso for sparse multimodal regression" [slides](talks/seminar_ens_proba.pdf)
 
 - Séminaire d'informatique de l'ENS Lyon (29/11/2017) "(Gap) Safe screening rules to speed-up sparse regression solvers" [slides](talks/GAP_Safe_Lyon.pdf)
+
+- Habilitation à dirigée des recherches, HDR, (29/06/2017)
+[slides](talks/hdr.pdf)
 
 - [France / Japan Machine Learning Workshop](http://fjml.marcocuturi.net/)
 Paris, France, September, 2017

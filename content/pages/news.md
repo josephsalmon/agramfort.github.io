@@ -3,6 +3,9 @@ sortorder: 1
 category: news
 iscourse: false
 
+- Download a subset of the Pl@ntNet database [https://plantnet.org/](https://plantnet.org/), with more than 300.000 images and thousand of classes (plant species)
+[https://gitlab.inria.fr/cgarcin/plantnet_dataset](https://gitlab.inria.fr/cgarcin/plantnet_dataset).
+- November 2020: Launching [ML-MTP Machine Learning in Montpellier, Theory & Practice](https://groupes.renater.fr/wiki/ml-mtp/index).
 - October 2020: talk at [GdR MIA Thematic day on Non-Convex Sparse Optimization (Toulouse, France)](https://www.irit.fr/~Emmanuel.Soubies/Docs/Thematic_Day_MIA_09-10-2020.pdf) "Screening Rules for Lasso with Non-Convex Sparse Regularizers" [slides](talks/MIA_2020.pdf) and a bit on
 [BenchOpt](https://benchopt.github.io/), a new package to simplify, make more transparent and more reproducible comparisons between optimization algorithms
 - June 2020: New paper accepted to ICML "[Implicit differentiation of Lasso-type models for hyperparameter optimization](https://arxiv.org/abs/2002.08943)" with Q. Bertrand, Q. Klopfenstein, M. Blondel, S. Vaiter and A. Gramfort, [code](https://github.com/QB3/sparse-ho)
