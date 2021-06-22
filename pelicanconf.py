@@ -44,8 +44,8 @@ PAGE_ORDER_BY = 'sortorder'
 # RELATIVE_URLS = True
 
 THEME = "themes/pure-alex"
-PROFILE_IMG_URL = '/images/photo3.png'
-PROFILE_IMAGE_URL = '/images/photo3.png'
+PROFILE_IMG_URL = '/images/joseph_2018.png'
+PROFILE_IMAGE_URL = '/images/joseph_2018.png'
 FAVICON = 'images/favicon.ico'
 # COVER_IMG_URL = './images/picture2.jpg'
 
