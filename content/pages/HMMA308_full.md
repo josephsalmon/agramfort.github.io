@@ -48,11 +48,14 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 ## TPs
 
 1. [knn_tp.pdf](/enseignement/Montpellier/HMMA308/knn_tp.pdf),
-[tp_knn_source.py](/enseignement/Montpellier/HMMA308/tp_knn_source.py), [tp_knn_script.py](/enseignement/Montpellier/HMMA308/tp_knn_script.py), [tp_knn_script_corr.py](/enseignement/Montpellier/HMMA308/tp_knn_script_corr.py),
+[tp_knn_source.py](/enseignement/Montpellier/HMMA308/tp_knn_source.py), [tp_knn_script.py](/enseignement/Montpellier/HMMA308/tp_knn_script.py),
+
+<!--- [tp_knn_script_corr.py](/enseignement/Montpellier/HMMA308/tp_knn_script_corr.py),
 [knn_tp_corr.pdf](/enseignement/Montpellier/HMMA308/knn_tp_corr.pdf)
+--->
 
 1. [perceptron_tp.pdf](/enseignement/Montpellier/HMMA308/perceptron_tp.pdf),
-[tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), [TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)
+[tp_perceptron_source.py](/enseignement/Montpellier/HMMA308/tp_perceptron_source.py), [tp_perceptron_script.py](/enseignement/Montpellier/HMMA308/tp_perceptron_script.py), <!---[TP_perceptron.ipynb](/enseignement/Montpellier/HMMA308/TP_perceptron.ipynb)--->
 
 1. [arbres_tp.pdf](/enseignement/Montpellier/HMMA308/arbres_tp.pdf), [tp_arbres_source.py](/enseignement/Montpellier/HMMA308/tp_arbres_source.py)
 

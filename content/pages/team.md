@@ -10,14 +10,15 @@ iscourse: false
 - [Hashem Ghanem](???) co-supervised by [Samuel Vaiter](https://samuelvaiter.com/) and [Nicolas Keriven](https://nkeriven.github.io/): 2020-2023?
 - [Florent Bascou](https://bascouflorent.github.io) co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/): 2019-2022?
 - [Damien Blanc](https://www.quantacell.com/about/) co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/): 2019-2022?
-- [Quentin Bertrand](https://qb3.github.io/) co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/): 2018-2021?
 - [Nidham Gazagnadou](https://ngazagna.github.io/) co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/): 2018-2021?
 
 <br/><br/>
 
 
 ### Alumni
-- [Jérôme-Alexis Chevalier](https://team.inria.fr/parietal/team-members/jerome-alexis-chevalier/) [PhD 2017-2020], co-supervised by [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (now at Inria Saclay)
+- [Quentin Bertrand](https://qb3.github.io/) [PhD 2017-2020], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Mila)
+- [Pierre-Antoine Bannier](https://twitter.com/el_pa_b) [Intern 2021], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/)
+- [Jérôme-Alexis Chevalier](https://ja-che.github.io/) [PhD 2017-2020], co-supervised by [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (now at Inria Saclay)
 - [Mathurin Massias](https://mathurinm.github.io) [PhD 2016-219], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Università di Genova, Italy)
 - [Evgenii Chzhen](https://echzhen.com/) [PhD 2016-2019], co-supervised by [Mohamed Hebiri](http://perso-math.univ-mlv.fr/users/hebiri.mohamed/) (now at Université Paris-Sud)
 - [Eugene Ndiaye](https://eugenendiaye.github.io/) [PhD, 2015-2018], co-supervised by [Olivier Fercoq](http://perso.telecom-paristech.fr/~ofercoq/) (now at Riken Institute, Japan)
