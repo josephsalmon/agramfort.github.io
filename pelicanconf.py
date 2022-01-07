@@ -62,7 +62,13 @@ PAGE_EXCLUDES = [
     "papers",
     ".ipynb_checkpoints",
 ]
-ARTICLE_EXCLUDES = ["code", "enseignement", "talks", "papers", ".ipynb_checkpoints"]
+ARTICLE_EXCLUDES = [
+    "code",
+    "enseignement",
+    "talks",
+    "papers",
+    ".ipynb_checkpoints",
+]
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = False
 DEFAULT_DATE = "fs"
@@ -83,6 +89,7 @@ TEMPLATE_PAGES = {
     "teaching.html": "teaching.html",
     "talks.html": "talks.html",
     "misc.html": "misc.html",
+    "HAX606X.html": "HAX606X.html",
     "HMMA308.html": "HMMA308.html",
     "HMMA307.html": "HMMA307.html",
     "HMMA237.html": "HMMA237.html",

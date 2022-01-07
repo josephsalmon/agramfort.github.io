@@ -29,8 +29,12 @@
 <li> GP-PCA:  <a href="index_codes.php?page=GPPCA">Demo</a>,    <a href="demos/GP-PCA_code.zip">ZIP</a> file </li> 
 </ul> 
 
-	
+<h3>Dataset</h3>
+<ul> 
+Chandra dataset:
+<a href="images/Chandra1.mat">Chandra1.mat</a>
+</ul> 
 
-<h3>Contact us</h3>  
-<p>Please contact us if you have any question.</p> 
+<h3>Contact us</h3>
+<p>Please contact us if you have any question.</p>
 

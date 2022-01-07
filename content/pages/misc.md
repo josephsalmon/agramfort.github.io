@@ -21,6 +21,14 @@ ismisc: true
 ![Ten Star](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/ten_star_color_e.svg?sanitize=true "Ten Star"){ width=15% }
 
 
+## Conferences / Workshop organized
+
+- [Optimization for Machine Learning](https://conferences.cirm-math.fr/2133.html), March 2020
+
+- [Graph signals : learning and optimization perspectives](https://graph-sig-2019.sciencesconf.org/), May 2019
+
+- [ Workshop on Decentralized Machine Learning, Optimization and Privacy](https://team.inria.fr/magnet/workshop-on-decentralized-machine-learning-optimization-and-privacy/), September 2017
+
 ## Latex
 
 - [Moosetex](http://www.math.u-bordeaux1.fr/~cdeledal/moosetex):
