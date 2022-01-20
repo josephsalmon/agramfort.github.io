@@ -3,7 +3,7 @@ sortorder: 0
 category: contact
 iscourse: false
 
-**Email:** [joseph.salmon@umontpellier.fr](mailto:joseph.salmon@umontpellier.fr)
+**Email:** [joseph.salmon.taff@gmail.com](mailto:joseph.salmon.taff@gmail.com)
 
 **Address:**
 IMAG, c.c. 051</br>

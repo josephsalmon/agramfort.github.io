@@ -13,7 +13,7 @@ We will address some of the element in the Python scientific ecosystem:
 ![Python scientific ecosystem](images/python_ecosystem.svg "Python scientific ecosystem"){ width=72% }
 </center>
 
-## Syllabus:
+## Syllabus
 [syllabus_HLMA310.pdf](/enseignement/Montpellier/HLMA310/syllabus_HLMA310.pdf)
 
 ## Course note
