@@ -3,7 +3,7 @@ sortorder: 1
 category: news
 iscourse: false
 
-- August 2021: **Post-doctorate position** available in my group: [Post-doc_offer.pdf](./perso/Post-doc_offer.pdf)
+- March 2022: visitor at the Simons Institute for the Theory of Computing
 - July 2021: **IUF** Nomination (junior member): [https://www.iufrance.fr/detail-de-lactualite/247.html](https://www.iufrance.fr/detail-de-lactualite/247.html)
 - June 2020: **New dataset available**! This is a subset of the Pl@ntNet database [https://plantnet.org/](https://plantnet.org/), with more than 300k images and thousand of classes (plant species)
 [https://gitlab.inria.fr/cgarcin/plantnet_dataset](https://gitlab.inria.fr/cgarcin/plantnet_dataset).
