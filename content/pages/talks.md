@@ -1,10 +1,13 @@
 title: Talks
 sortorder: 12
-category: course
+category: talks
 iscourse: true
 isfull: true
 istalk: true
 ismisc: false
+
+- [LSE Data Science Seminar (London, UK)](https://www.lse.ac.uk/Statistics/Seminars/Data-Science-Seminar-Series) (07/02/2022), "Hyperparameter selection
+for high dimensional sparse learning" [slides](talks/LSE2022.pdf)
 
 
 - [Colloque de lancement MIPS / 10èmes Journées Scientifiques du LabEx NUMEV (Montpellier, France)](https://muse.edu.umontpellier.fr/2021/10/18/colloque-de-lancement-mips-10emes-journees-scientifiques-du-labex-numev/) (08/11/2021), "Implicit differentiation for fast hyperparameter selection in non-smooth convex learning" [slides](talks/MIPS_JS.pdf)

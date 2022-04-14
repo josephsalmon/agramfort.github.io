@@ -17,19 +17,23 @@ This is an undergraduate course (in French!) introducing standard techniques fro
 
 ## References
 
-- *Mathematics for Machine Learning*:  by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong; [mml-book.pdf]([enseignement/Montpellier/HAX606X/TP/tp1_sujet.pdf](https://mml-book.github.io/book/mml-book.pdf))
+- *Mathematics for Machine Learning*; Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong; [mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf)
 
-- *Introduction à l'analyse numérique matricielle et à l'optimisation
-Introduction à l'analyse numérique matricielle et à l'optimisation* by Philippe G. Ciarlet
+- *Introduction à l'analyse numérique matricielle et à l'optimisation*; G. Ciarlet
+
+- *Fragments d’Optimisation Différentiable - Théories et Algorithmes*; Jean Charles Gilbert
+[.pdf](https://hal.inria.fr/hal-03347060/document)
 
 ## TP
 
 1. Introduction: [tp1_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp1_sujet.pdf), code Python associé [tp1.py](enseignement/Montpellier/HAX606X/TP/tp1.py)
-2.  
-3.  
-4.  
-5.  
-6.  
+   
+2. Méthode de la sécante / méthode du nombre d'or: [tp2_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp2_sujet.pdf)
+
+3. Méthode de descente de gradient et variantes: [tp3_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp3_sujet.pdf), [dico_math_functions.py](enseignement/Montpellier/HAX606X/TP/dico_math_functions.py), [widget_convergence.py](enseignement/Montpellier/HAX606X/TP/widget_convergence.py), [widget_level_set.py](enseignement/Montpellier/HAX606X/TP/widget_level_set.py)
+
+4. Méthode de descente de gradient projeté : [tp4_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp4_sujet.pdf), [script_season.py](enseignement/Montpellier/HAX606X/TP/script_season.py)
+
 
 <br>
 <br>
@@ -82,7 +86,7 @@ This work is deeply inspired and adapted from the great work by Nicolas Rougier:
 
 | Code                 | Result        |
 |----------------------|-----------|
-| <pre>M = np.zeros((3, 4)); M[2, 2] = 1</pre>         |  <image src = "enseignement/Montpellier/HAX606X/figures/reshape-M.svg" height="100px"></image>        |
+| <pre>M = np.zeros((3, 4)); M[2, 2] = 1</pre>         |  <image src = "enseignement/Montpellier/HAX606X/figures/reshape-M.svg" width="200px"></image>        |
 | <pre>M = M.reshape(4, 3)</pre>         |  <image src = "enseignement/Montpellier/HAX606X/figures/reshape-M-reshape(4,3).svg" width="200px"></image>        |
 | <pre>M = M.reshape(12, 1)</pre>         |  <image src = "enseignement/Montpellier/HAX606X/figures/reshape-M-reshape(12,1).svg" width="200px"></image>        |
 | <pre>M = M.reshape(1, 12)</pre>         |  <image src = "enseignement/Montpellier/HAX606X/figures/reshape-M-reshape(1,12).svg" width="200px"></image>        |
@@ -93,11 +97,10 @@ This work is deeply inspired and adapted from the great work by Nicolas Rougier:
 
 ## Slicing
 
-Start from a zero matrix:
-```Python
+Start from a zero matrix and get the following simple slicing operations:
 
-```
-
+</br>
+</br>
 
 
 | Code                 | Result        |

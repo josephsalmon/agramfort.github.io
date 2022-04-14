@@ -19,7 +19,7 @@
     {% endif %}
 
     {% block head %}
-        <title>{% block title %}{{ SITENAME }} // {{ TAGLINE }}{% endblock title %}</title>
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     {% endblock head %}
 
     {% if FAVICON %}
@@ -35,6 +35,11 @@
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     {% block head_js %}{% endblock %}
+    {% if article %}
+
+    <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}" />
+
+    {% endif%}
 </head>
 
 <body>

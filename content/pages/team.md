@@ -19,8 +19,8 @@ iscourse: false
 </br>
 
 ### Alumni
-- [Quentin Bertrand](https://qb3.github.io/) [Ph.D. 2017-2020], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Mila)
-- [Nidham Gazagnadou](https://ngazagna.github.io/) co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/): 2018-2021 (now at Sony AI)
+- [Quentin Bertrand](https://qb3.github.io/) [Ph.D. 2018-2021], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Mila)
+- [Nidham Gazagnadou](https://ngazagna.github.io/) [Ph.D. 2018-2021] co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/) (now at Sony AI)
 - [Pierre-Antoine Bannier](https://twitter.com/el_pa_b) [Intern 2021], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/)
 - [Jérôme-Alexis Chevalier](https://ja-che.github.io/) [Ph.D. 2017-2020], co-supervised by [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (now at Inria Saclay)
 - [Mathurin Massias](https://mathurinm.github.io) [Ph.D. 2016-219], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now CR INRIA, Lyon)
