@@ -6,9 +6,15 @@ isfull: true
 istalk: false
 ismisc: true
 
-## Personal visualisation and math art
 
-- [Tweets: math art etc.](https://github.com/josephsalmon/Tweets/)
+## Tips for young researchers on work organization
+- [Advice and guidelines for young researchers](https://github.com/josephsalmon/OrganizationFiles)
+
+
+
+## Personal visualization and math art
+
+- [Tweets: math art etc.](https://github.com/josephsalmon/Tweets/): this includes LaTeX templates/tips, Inkscape first steps, bibliographic help, etc.
 
 ![Splines](https://raw.github.com/josephsalmon/Tweets/master/Spline-ish/my_art/a_la_harris_007.svg?sanitize=true "Splines"){ width=15% } ![Python scientific ecosystem](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle_simple.svg?sanitize=true "Penrose Triangle"){ width=10% }
 ![Penrose Triangle](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle.svg?sanitize=true "Penrose Triangle"){ width=15% } ![Penrose Triangle](https://raw.github.com/josephsalmon/Tweets/master/Weird-Triangle/svg/Weird-Triangle_simple_nb.svg?sanitize=true "Penrose Triangle"){ width=10% }
@@ -40,7 +46,7 @@ Any Linux/Mac user might benefit from it.
 
 - Bibtex: [Tame the BeaST](http://www.lsv.ens-cachan.fr/~markey/BibTeX/doc/ttb_en.pdf) by Nicolas Markey
 
-- I use [Sublime](https://www.sublimetext.com/) and [Latexing](https://packagecontrol.io/packages/LaTeXing) though I should test soon [Visual Studio Code](https://code.visualstudio.com/).
+- I used to enjoy [Sublime](https://www.sublimetext.com/) and [Latexing](https://packagecontrol.io/packages/LaTeXing) though I have now switched to [Visual Studio Code](https://code.visualstudio.com/) for Python and TeX.
 
 
 ## Translation
@@ -57,7 +63,7 @@ Any Linux/Mac user might benefit from it.
 - [Classic converter](https://www.timeanddate.com/worldclock/converter-classic.html)
 
 
-## Videos, courses and lectures about mathematics
+## Videos, courses, and lectures about mathematics
 
 - Mathematical Lectures at ENS (Paris): [Diffusions des savoirs](http://www.diffusion.ens.fr/index.php?res=themes&idtheme=30)
 
@@ -74,6 +80,7 @@ Any Linux/Mac user might benefit from it.
 
 - Mathematics through history: [Electronic Journal for History of Probability and Statistics](http://www.jehps.net/indexang.html)
 
+- Graphs for drawing: [graphpaper](https://incompetech.com/graphpaper/)
 
 ## Statistics
 

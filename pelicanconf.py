@@ -157,7 +157,7 @@ def get_bib_entries(bib_fname):
     entries = []
 
     for k, item in enumerate(records.entries):
-        one_records.entries = records.entries[k : k + 1]
+        one_records.entries = records.entries[k: k + 1]
         item["author"] = make_nice_author(item["author"])
         for key in ["annote", "owner", "group", "topic"]:
             if key in item:

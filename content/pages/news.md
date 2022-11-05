@@ -3,6 +3,9 @@ sortorder: 1
 category: news
 iscourse: false
 
+- April 2023: Organizer of STATLEARN 2023.
+- November 2022: Organizer of "[https://ml4lifesciences.sciencesconf.org/](Machine Learning for life sciences)" (November 15-17)
+- September 2022: Benchopt paper ([url](https://arxiv.org/abs/2206.13424)) accepted at NeurIPS 2022!
 - March 2022: visitor at the Simons Institute for the Theory of Computing
 - August 2021: **New dataset available**! This is a subset of the Pl@ntNet database [https://plantnet.org/](https://plantnet.org/), with more than 300k images and thousands of classes (plant species)
 [https://github.com/plantnet/PlantNet-300K](https://github.com/plantnet/PlantNet-300K). See the  Neurips, Datasets and Benchmarks Track paper [pdf](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/7e7757b1e12abcb736ab9a754ffb617a-Paper-round2.pdf).

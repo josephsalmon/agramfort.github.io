@@ -7,10 +7,12 @@ istalk: true
 ismisc: false
 
 
-- [Workshop New Trends in Statistical Learning II at Porquerolles](https://irmar.univ-rennes1.fr/seminars?f%5B0%5D=seminar_type%3A240)(16/06/2021) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres_porquerolles.pdf)
+- [Learning and Optimization in Luminy](https://www.cirm-math.fr/Schedule/display.php?id_renc=2551) (5/10/2022) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres_cirm2022.pdf)
+
+- [Workshop New Trends in Statistical Learning II at Porquerolles](https://irmar.univ-rennes1.fr/seminars?f%5B0%5D=seminar_type%3A240) (16/06/2022) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres_porquerolles.pdf)
 
 
-- [Séminaire de l'équipe de Statistique de l'IRMAR](https://irmar.univ-rennes1.fr/seminars?f%5B0%5D=seminar_type%3A240)(20/05/2021) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres.pdf)
+- [Séminaire de l'équipe de Statistique de l'IRMAR](https://irmar.univ-rennes1.fr/seminars?f%5B0%5D=seminar_type%3A240) (20/05/2022) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres.pdf)
 
 - [LSE Data Science Seminar (London, UK)](https://www.lse.ac.uk/Statistics/Seminars/Data-Science-Seminar-Series) (07/02/2022), "Hyperparameter selection
 for high dimensional sparse learning" [slides](talks/LSE2022.pdf)
