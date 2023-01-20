@@ -30,6 +30,9 @@ This is an undergraduate course (in French!) introducing standard techniques fro
     <li>Premiers pas en Python et introduction à VSCodium
     <a href="enseignement/Montpellier/HAX606X/TP/TP0.html">TP0.html</a>
     </li>
+    <li> Prise en main de Python pour l'optimisation
+    <a href="enseignement/Montpellier/HAX606X/TP/TP1.html">TP1.html</a>
+    </li>
 
 
 <!-- 2. Introduction: [TP1.html](enseignement/Montpellier/HAX606X/TP/TP1.html), code Python associé [tp1.py](enseignement/Montpellier/HAX606X/TP/tp1.py) -->
