@@ -26,13 +26,25 @@ This is an undergraduate course (in French!) introducing standard techniques fro
 
 ## TP
 
-1. Introduction: [tp1_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp1_sujet.pdf), code Python associé [tp1.py](enseignement/Montpellier/HAX606X/TP/tp1.py)
-   
-2. Méthode de la sécante / méthode du nombre d'or: [tp2_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp2_sujet.pdf)
+<ol start="0">
+    <li>Premiers pas en Python et introduction à VSCodium
+    <a href="enseignement/Montpellier/HAX606X/TP/TP0.html">TP0.html</a>
+    </li>
 
-3. Méthode de descente de gradient et variantes: [tp3_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp3_sujet.pdf), [dico_math_functions.py](enseignement/Montpellier/HAX606X/TP/dico_math_functions.py), [widget_convergence.py](enseignement/Montpellier/HAX606X/TP/widget_convergence.py), [widget_level_set.py](enseignement/Montpellier/HAX606X/TP/widget_level_set.py)
 
-4. Méthode de descente de gradient projeté : [tp4_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp4_sujet.pdf), [script_season.py](enseignement/Montpellier/HAX606X/TP/script_season.py)
+<!-- 2. Introduction: [TP1.html](enseignement/Montpellier/HAX606X/TP/TP1.html), code Python associé [tp1.py](enseignement/Montpellier/HAX606X/TP/tp1.py) -->
+
+<!-- 2. Méthode de la sécante / méthode du nombre d'or: [tp2_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp2_sujet.pdf)
+
+1. Méthode de descente de gradient et variantes: [tp3_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp3_sujet.pdf), [dico_math_functions.py](enseignement/Montpellier/HAX606X/TP/dico_math_functions.py), [widget_convergence.py](enseignement/Montpellier/HAX606X/TP/widget_convergence.py), [widget_level_set.py](enseignement/Montpellier/HAX606X/TP/widget_level_set.py)
+
+2. Méthode de descente de gradient projeté : [tp4_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp4_sujet.pdf), [script_season.py](enseignement/Montpellier/HAX606X/TP/script_season.py) -->
+
+</ol>
+
+## Notes pour aller plus loin
+
+- Notion d'aléatoire avec Python / Numpy: [Note_randomness.html](enseignement/Montpellier/HAX606X/TP/Note_randomness.html)
 
 
 <br>

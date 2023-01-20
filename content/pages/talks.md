@@ -6,6 +6,7 @@ isfull: true
 istalk: true
 ismisc: false
 
+- [IMT Seminar](https://indico.math.cnrs.fr/category/474/) (29/11/2022) (Improve learning combining crowdsourced labels by weighting Areas Under the Margin) [slides](talks/slides_IMT2022.pdf)
 
 - [Learning and Optimization in Luminy](https://www.cirm-math.fr/Schedule/display.php?id_renc=2551) (5/10/2022) "Stochastic smoothing of the top-K calibrated hinge loss for deep imbalanced classification" [slides](talks/pres_cirm2022.pdf)
 

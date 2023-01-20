@@ -20,7 +20,8 @@ iscourse: false
 
 ### Alumni
 - [Cassio Fraga Dantas](https://cassiofragadantas.github.io/) Post-doctorate associate: 2022
-- [Florent Bascou](https://bascouflorent.github.io) co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/): 2019-2022
+- [Florent Bascou](https://bascouflorent.github.io) [Ph.D. 2019-2022], co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/), </br>
+Manuscript: ["Sparse linear model with quadratic interactions"](/papers/these_bascou.pdf)
 - [Quentin Bertrand](https://qb3.github.io/) [Ph.D. 2018-2021], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Mila), </br>
 Manuscript: ["Hyperparameter selection for high dimensional sparse learning : application to neuroimaging"](https://jeannicod.ccsd.cnrs.fr/STAR/tel-03373531)
 - [Nidham Gazagnadou](https://ngazagna.github.io/) [Ph.D. 2018-2021] co-supervised by [Robert Gower](https://perso.telecom-paristech.fr/rgower/) (now at Sony AI), </br>
