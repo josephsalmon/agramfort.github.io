@@ -33,9 +33,23 @@ This is an undergraduate course (in French!) introducing standard techniques fro
     <li> Prise en main de Python pour l'optimisation
     <a href="enseignement/Montpellier/HAX606X/TP/TP1.html">TP1.html</a>
     </li>
+    <li>
+  Méthode de la sécante / méthode du nombre d'or:    <a href="enseignement/Montpellier/HAX606X/TP/TP2.html">TP2.html</a>
+    </li>
+    <li>
+
+Méthode de descente de gradient et variantes
+<a href="enseignement/Montpellier/HAX606X/TP/TP3.html">TP3.html</a>, fichiers annexes:
+<a href="enseignement/Montpellier/HAX606X/TP/dico_math_functions.py">dico_math_functions.py</a>
+<a href="enseignement/Montpellier/HAX606X/TP/widget_convergence.py">widget_convergence.py</a>
+<a href="enseignement/Montpellier/HAX606X/TP/widget_level_set.py">widget_level_set.py</a>
+  </li>
 
 
-<!-- 2. Introduction: [TP1.html](enseignement/Montpellier/HAX606X/TP/TP1.html), code Python associé [tp1.py](enseignement/Montpellier/HAX606X/TP/tp1.py) -->
+
+
+
+
 
 <!-- 2. Méthode de la sécante / méthode du nombre d'or: [tp2_sujet.pdf](enseignement/Montpellier/HAX606X/TP/tp2_sujet.pdf)
 

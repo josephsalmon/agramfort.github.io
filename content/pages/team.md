@@ -14,11 +14,11 @@ iscourse: false
 - [Camille Garcin](https://garcinc.github.io/Camille-Garcin/) co-supervised by [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) and [Maximilien Servajean](https://maximiliense.github.io/): 2020-2023?
 - [Emmanuel Pilliat](https://epilliat.github.io/Page-perso/) co-supervised by [Nicolas Verzelen](http://nicolas.verzelen.free.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/http://nicolas.verzelen.free.fr/): 2020-2023?
 - [Hashem Ghanem](https://hashemghanem.github.io/   ) co-supervised by [Samuel Vaiter](https://samuelvaiter.com/) and [Nicolas Keriven](https://nkeriven.github.io/): 2020-2023?
-- [Damien Blanc](https://www.quantacell.com/about/) co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/): 2019-2022
 
 </br>
 
 ### Alumni
+- [Damien Blanc](https://www.quantacell.com/about/) [Ph.D. 2019-2022],co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/)
 - [Cassio Fraga Dantas](https://cassiofragadantas.github.io/) Post-doctorate associate: 2022
 - [Florent Bascou](https://bascouflorent.github.io) [Ph.D. 2019-2022], co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/), </br>
 Manuscript: ["Sparse linear model with quadratic interactions"](/papers/these_bascou.pdf)
