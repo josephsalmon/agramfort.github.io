@@ -172,8 +172,8 @@ pre {
     font-size: 25px;
     color: #fff;
     border-bottom: 0.05em solid #fff;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+ 
+ font-family: "Atkinson Hyperlegible"   text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 .brand-main-sub {
@@ -190,8 +190,8 @@ pre {
     font-size: 15px;
     color: #fff;
     border-bottom: 4px solid rgba(255,255,255,0.8);
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+ 
+ font-family: "Atkinson Hyperlegible"   text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 .brand-main-sub a {
@@ -200,8 +200,8 @@ pre {
 
 #nav a {
     color: #fff;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+ 
+ font-family: "Atkinson Hyperlegible"   text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 .nav a {
@@ -211,8 +211,8 @@ pre {
     margin-left: 15px;
     font-size: 15px;
     color: #fff;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-    font-family: "freight-sans-pro","Myriad Pro","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+ 
+ font-family: "Atkinson Hyperlegible"   text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 .tagline {
@@ -236,16 +236,16 @@ pre {
 
 .links a {
     font-size: 15px;
-    padding-left: 15px;
-    font-family: sans-serif;
+    padding-left
+    font-family: "Atkinson Hyperlegible": 15px;
     letter-spacing: 2px;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     text-decoration: none;
     color: #fff;
 }
 
-.content-subhead {
-    font-family: sans-serif;
+.content-subhead
+font-family: "Atkinson Hyperlegible" {
     text-transform: uppercase;
     color: #1e1e1e;
     border-bottom: 1px solid #353333;
@@ -255,8 +255,8 @@ pre {
     letter-spacing: 0.1em;
 }
 
-.content-nicehead {
-    font-family: sans-serif;
+.content-nicehea
+font-family: "Atkinson Hyperlegible"d {
     text-transform: capitalize;
     color: #ff5722;
     border-bottom: 1px solid #eee;
@@ -267,7 +267,7 @@ pre {
 }
 
 .subheading{
-    font-family: sans-serif;
+    font-family: "Atkinson Hyperlegible"
     color: #ff5722;
     text-transform: capitalize;
     padding-left: : 0em;
@@ -289,14 +289,14 @@ pre {
 }
 
 .post {
-    font-family: sans-serif;
+    font-family: "Atkinson Hyperlegible"
     padding-bottom: 1em;
     border-bottom: 1px solid #f2f2f0;
     background: #f7f2e8;
 }
 
 .main {
-    font-family: sans-serif;
+    font-family: "Atkinson Hyperlegible"
     color: #000000;
     padding: 0em 0;
     font-size: 100%;
@@ -312,14 +312,14 @@ pre {
 }
 
 .post-meta {
-    font-family: sans-serif;
+    font-family: "Atkinson Hyperlegible"
     color: rgb(90,86,97);
     font-size: 90%;
     /*margin-top: -10px;*/
 }
 
 .bib-main {
-    font-family: sans-serif;
+    font-family: "Atkinson Hyperlegible"
     color: #999;
     font-size: 70%;
     margin-top: -10px;

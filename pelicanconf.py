@@ -7,7 +7,7 @@ import pandas as pd
 
 AUTHOR = "Joseph Salmon"
 SITENAME = "Joseph Salmon"
-SITEURL = "http://josephsalmon.eu"
+SITEURL = "https://josephsalmon.eu"
 
 PATH = "content"
 PAGES = "pages"
