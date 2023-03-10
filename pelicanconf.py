@@ -35,6 +35,7 @@ LINKS = ()
 SOCIAL = (
     ("github", "https://github.com/josephsalmon"),
     ("twitter-square", "https://twitter.com/salmonjsph"),
+    ("mastodon", "https://sigmoid.social/@josephsalmon"),
 )
 
 DEFAULT_PAGINATION = 10
