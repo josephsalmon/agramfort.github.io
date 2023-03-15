@@ -4,5 +4,5 @@ category: course
 iscourse: true
 isfull: false
 
-This is an undergraduate course (in French!) introducing Python for scientifc computing.
+This is an undergraduate course (in French!) introducing Python for scientific computing.
 Details can be found here: [HLMA310 - Scientific Python](HLMA310.html).

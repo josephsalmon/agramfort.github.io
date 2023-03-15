@@ -1,4 +1,4 @@
-title: HAX606X - Convex optimization (2020-...)
+title: HAX606X - Convex optimization (2020 - )
 sortorder: 0
 category: course
 iscourse: true

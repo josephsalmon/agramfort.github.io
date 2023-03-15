@@ -8,6 +8,9 @@
             <header class="header">
                 <br>
                 <br>
+                <br>
+                <br>
+
 
             <hgroup>
                 {% if PROFILE_IMG_URL %}
@@ -59,21 +62,18 @@
                 {% for title, link in SOCIAL %}
                 {% if title == "google-scholar-square" %}
                 <a href="{{ link }}">
-                    <i class="ai ai-{{ title }} ai-3x"></i>
+                    <i class="ai ai-{{ title }} ai-2x"></i>
                 </a>
                 {% else %}
                 <a href="{{ link }}">
-                    <i class="fa fa-{{ title }} fa-3x"></i>
+                    <i class="fa fa-{{ title }} fa-2x"></i>
                 </a>
                 {% endif %}
                 {% endfor %}
                 </p>
-                <br>
-                
+
             </hgroup>
-            <br>
-            <br>
-            <br>
+
             </header>
         </div>
     </div>

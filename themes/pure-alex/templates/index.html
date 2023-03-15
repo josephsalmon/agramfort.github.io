@@ -11,10 +11,10 @@
 
                 <!-- <div class="pure-u-1-2">
                     <div id="publications" class="posts"> -->
+
                         <h1 class="content-subhead">
                             Recent Publications
                         </h1>
-                        <br>
 
                         {% for item in PUBLICATION_LIST_SHORT %}
                         {% include 'publi_short.html' %}
@@ -36,6 +36,7 @@
 
             <!-- A wrapper for all the pages -->
             <div class="posts">
+                <br>
                 {% for pg in pages %}
                 {% if pg.iscourse == 'false' %}
                 <h1 class="content-subhead" id="{{ pg.category }}">{{pg.title}}</h1>
@@ -48,6 +49,8 @@
 
             <div class="posts">
                 <div id="teaching" class="posts">
+                <br>
+
                     <h1 class="content-subhead">
                         Teaching / courses
                     </h1>

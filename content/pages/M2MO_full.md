@@ -7,6 +7,9 @@ slug: M2MO-full
 
 This part contains Master 2 exercises on statistical learning.
 
+<br>
+<br>
+
 <center>
 ![Cross Validation](images/CV_10.svg "Cross Validation: 10-fold"){ width=40% }
 ![Cross Validation: 1st fold](images/CV_10_1.svg "Cross Validation: 1st fold"){ width=40% }
@@ -14,11 +17,15 @@ This part contains Master 2 exercises on statistical learning.
 ![Cross Validation: 3rd fold](images/CV_10_3.svg "Cross Validation: 3rd fold"){ width=40% }
 </center>
 
+<br>
+<br>
+
 
 ## Slides and courses
 Documents for this course might be found on
 [Stéphan Clémençon's webpage](http://perso.telecom-paristech.fr/~clemenco/).
 
+<br>
 
 ## Tutorial classes:
 
@@ -27,6 +34,8 @@ Documents for this course might be found on
 1. [learning_td2.pdf](enseignement/M2/Learning/learning_td2.pdf)
 
 1. [learning_td3.pdf](enseignement/M2/Learning/learning_td3.pdf)
+
+<br>
 
 ## Ressources en ligne:
 

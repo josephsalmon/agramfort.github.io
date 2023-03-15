@@ -8,9 +8,15 @@ slug: MDI720-full
 
 This is an undergraduate course (in French!) introducing linear models and variants.
 
+<br>
+<br>
+
 <center>
 ![TSN-E sur la base de données digit](images/fig_tsne_digits_w_classes.svg "TSN-E sur la base de données digit"){ width=72% }
 </center>
+
+<br>
+<br>
 
 ## Cours: slides et notebooks
 
@@ -65,3 +71,7 @@ and associated
 [videos](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 
 - [A. Tsybakov's introduction to statistics](/enseignement/ENSAE/biblio_stat.pdf)
+
+
+<br>
+<br>

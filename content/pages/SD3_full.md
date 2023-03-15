@@ -7,14 +7,19 @@ slug: SD3-full
 
 This is an undergraduate course (in French) on descriptive statistics.
 
-
+<br>
+<br>
 ![Boxplot](images/boxplots.svg "Boxplot"){ width=49% }
 ![Violons](images/violons.svg "Violons"){ width=49% }
+<br>
+<br>
 
 
 ## Courses
 Les documents utilisés pour ces TDs sont aussi disponibles sur le site de [Stéphane Boucheron](http://stephane-v-boucheron.fr/). Il est aussi possible de consulter le [site du cours HMLA310](HLMA310.html) pour avoir plus d'informations. En particulier le [polycopié](/enseignement/Montpellier/HLMA310/IntroPython.pdf) de ce cours pourra servir également (avec l'avantage d'être en Python).
 
+<br>
+<br>
 
 ## TPs
 1. [TP1](enseignement/SD3/td1.pdf): Reprise en main de R
@@ -29,6 +34,9 @@ Les documents utilisés pour ces TDs sont aussi disponibles sur le site de [Sté
 1. [TP4](enseignement/SD3/td4.pdf): Corrélations
 1. [TP5](enseignement/SD3/td5.pdf): Algèbre linéaire
 
+<br>
+
+
 ## Resources:
 
 - [Jake VanderPlas book on datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -42,3 +50,7 @@ and associated
 - [R pour les débutants](enseignement/SD3/Paradis-rdebuts_fr.pdf) par Emmanuel Paradis.
 
 - [Visualisation: dataviz](https://serialmentor.com/dataviz/)
+
+<br>
+<br>
+<br>

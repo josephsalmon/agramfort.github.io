@@ -1,9 +1,9 @@
-title: HLMA310 - Logiciels scientifiques (2018--??)
-sortorder: 0
+title: HLMA310 - Logiciels scientifiques (2018-2020)
+sortorder: 1
 category: course
 iscourse: true
+isfull: true
 slug: HLMA310-full
-
 
 This is an undergraduate course (in French!) introducing Python for scientific computing.
 

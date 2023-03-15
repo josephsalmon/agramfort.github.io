@@ -6,6 +6,7 @@ isfull: true
 slug: STAT593-full
 
 
+<br>
 
 ![Depth 0 and level sets](images/depth_level_sets_full_0.svg "Depth greater than 0 "){ width=41% }
 ![Depth 1 and level sets](images/depth_level_sets_full_1.svg "Depth greater than 1"){ width=41% }
@@ -13,6 +14,7 @@ slug: STAT593-full
 ![Depth 2 and level sets](images/depth_level_sets_full_2.svg "Depth greater than 2"){ width=41% }
 ![Depth 3 and level sets](images/depth_level_sets_full.svg "Depth greater than 3"){ width=41% }
 
+<br>
 
 This is a grade course on robust statistics and optimization.
 
@@ -51,3 +53,5 @@ WARNING: Useful code (for plotting) for the entire notebooks in this course [uti
 1. Robust Optimization  : [RobustOptim.pdf](enseignement/UW/STAT593/RobustOptim.pdf)
 
 1. Conclusion  : [Conclusion.pdf](enseignement/UW/STAT593/Conclusion.pdf)
+
+<br>

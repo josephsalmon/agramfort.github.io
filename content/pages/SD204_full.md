@@ -8,13 +8,19 @@ slug: SD204-full
 
 This is an undergrade course on linear models.
 
+<br>
+<br>
+<br>
+
 
 ![PCA: 1st angle](images/fig_pca_axis0.svg "PCA: 1st angle"){ width=40% }
 ![PCA: 2nd angle](images/fig_pca_axis1.svg "PCA: 2nd angle"){ width=40% }
 ![PCA: 3rd angle](images/fig_pca_axis2.svg "PCA: 3rd angle"){ width=40% }
 ![PCA: 4th angle](images/fig_pca_axis3.svg "PCA: 4th angle"){ width=40% }
 
-
+<br>
+<br>
+<br>
 
 ## Slides and Courses
 
@@ -47,3 +53,8 @@ This is an undergrade course on linear models.
 
 
 1. Categorical variables: [CategoricalVariables.ipynb](/enseignement/TELECOM/SD204/CategoricalVariables.ipynb), [CategoricalVariables.html]( http://nbviewer.jupyter.org/url/josephsalmon.eu/enseignement/TELECOM/SD204/CategoricalVariables.ipynb)
+
+<br>
+<br>
+<br>
+

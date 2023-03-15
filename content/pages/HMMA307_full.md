@@ -1,6 +1,6 @@
-title: HMMA307 - Modèles Linéaires Avancés (2019-2020)
+title: HMMA307 - Modèles Linéaires Avancésss (2019-2020)
 sortorder: 1
-category: coursesHMMA307
+category: course
 iscourse: true
 isfull: true
 slug: HMMA307-full
