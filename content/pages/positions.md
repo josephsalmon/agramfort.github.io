@@ -10,13 +10,11 @@ iscourse: false
 
 I am always looking for outstanding and highly motivated people to join my team as interns, Ph.D. students, post-doctorates or research engineers in the following areas:
 
+- **citizen science** and **crowdsourcing**
 - **optimization** for **machine learning** (including federated learning, privacy, etc.)
 - high dimensional and robust **statistics**
 
-
-I always have open positions for outstanding applicants (post-doc, Ph.D. thesis, internship).
-
-The application process is light:
+I always have open positions for outstanding applicants (post-doc, Ph.D. thesis, internship). The application process is light:
 
 1. Email me your CV, transcript of most recent grades (for interns and Ph.D. students) and explain in a paragraph why you are interested to join my group.
 2. After preliminary feedback on my side, I will ask you to secure two reference letters (one is enough for interns or Ph.D. students) to be sent directly to me.

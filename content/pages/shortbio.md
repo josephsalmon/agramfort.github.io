@@ -3,6 +3,8 @@ sortorder: 2
 category: shortbio
 iscourse: false
 
+I am a statistician and a applied mathematician, with a strong interest in machine learning, optimization and data science. In terms of applications, I am focusing on **citizen science**, **crowdsourcing** and **high dimensional statistics**. 
+
 Since 2018, I am a full professor at [Université de Montpellier](https://www.umontpellier.fr/)
 and an associate member at INRIA [Parietal Team](http://parietal.saclay.inria.fr/).
 For the spring and summer quarters 2018, I was a visiting assistant professor at [UW, Statistics departement](https://www.stat.washington.edu/).
