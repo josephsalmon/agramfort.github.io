@@ -5,8 +5,9 @@ iscourse: true
 isfull: true
 slug: SD204-full
 
-
-This is an undergrade course on linear models.
+<br>
+This is an undergraduate course on linear models.
+<br>
 
 <br>
 <br>

@@ -1,8 +1,12 @@
-title: SD3 - Statistiques Descriptives (2010-2011)
+title: SD3 - Descriptive Statistics (2010-2011)
 sortorder: 8
 category: course
 iscourse: true
 isfull: false
 
-This is an undergraduate course (in French) on descriptive statistics;
-Details can be found here: [SD3 - Statistiques Descriptives](SD3.html).
+<img style="float: right;" src="images/boxplots.svg" width=15%>
+This is an undergraduate course on descriptive statistics.
+<br>
+Details can be found here: [SD3 - Descriptive Statistics](SD3.html).
+<br>
+Course language: &#127467;&#127479;

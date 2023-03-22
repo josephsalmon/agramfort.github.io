@@ -10,7 +10,9 @@ This is an undergraduate course (in French!) introducing standard techniques fro
 
 <br>
 <center>
-![Mexican hat](images/mexican_hat.svg "Mexican hat"){ width=70% }
+<!-- ![Mexican hat](images/mexican_hat.svg "Mexican hat"){ width=70% } -->
+![Descente de gradient, petit pas](images/descente_gradient_petit_pas.svg "Descente de gradient, petit pas"){ width=35% }
+![Descente de gradient, grand pas](images/descente_gradient_grand_pas.svg "Descente de gradient, grand pas"){ width=35% }
 </center>
 <br>
 

@@ -12,7 +12,7 @@ This is an undergraduate course (in French!) introducing linear models and varia
 <br>
 
 <center>
-![TSN-E sur la base de données digit](images/fig_tsne_digits_w_classes.svg "TSN-E sur la base de données digit"){ width=72% }
+![MCO](images/moindre_carre_projection_new.svg "MCO"){ width=72% }
 </center>
 
 <br>
