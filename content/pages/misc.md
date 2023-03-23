@@ -105,5 +105,6 @@ Any Linux/Mac user might benefit from it.
 
 
 ## Ecology
-
+- [Pl@ntnet](https://plantnet.org/): Pl@ntnet is a citizen science project available as an app that helps you identify plants thanks to your pictures.
+.
 - [open-sciences-participatives](https://www.open-sciences-participatives.org/home/): "OPEN", le portail qui permet à tous de participer à l'observation de la biodiversité

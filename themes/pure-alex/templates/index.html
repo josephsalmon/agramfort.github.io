@@ -51,13 +51,30 @@
                 <div id="teaching" class="posts">
                 <br>
 
-                    <h1 class="content-subhead">
+
+                <h1 class="content-subhead">
+                    Teaching: list of courses
+                </h1>
+
+                {% for pg in pages %}
+                {% if pg.isfull == 'false' %}
+
+                    <h2 class="content-subhead" id="{{ pg.category }}">{{ pg.title }}</h2>
+                    <section class="post">
+                        <p class="post-meta">{{ pg.content }}</p>
+                    </section>
+                {% endif %}
+                {% endfor %}
+                <br>
+                <br>
+
+                    <!-- <h1 class="content-subhead">
                         Teaching / courses
                     </h1>
 
                     {% include 'teaching_short.html' %}
 
-                    <a href="teaching.html">Full list of courses</a>
+                    <a href="teaching.html">Full list of courses</a> -->
                 </div>
             </div>
             <br>
