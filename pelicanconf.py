@@ -50,7 +50,7 @@ PROFILE_IMAGE_URL = "/images/joseph_2018.png"
 FAVICON = "images/favicon.ico"
 # COVER_IMG_URL = './images/picture2.jpg'
 
-GOOGLE_ANALYTICS = " UA-34336869-1"
+GOOGLE_ANALYTICS = "G-EGCB6LREF7"
 
 # NOT_COURSE_LIST = ["contact", "news", "positions", "shortbio", "software", "team"]
 
@@ -158,7 +158,7 @@ def get_bib_entries(bib_fname):
     entries = []
 
     for k, item in enumerate(records.entries):
-        one_records.entries = records.entries[k: k + 1]
+        one_records.entries = records.entries[k : k + 1]
         item["author"] = make_nice_author(item["author"])
         for key in ["annote", "owner", "group", "topic"]:
             if key in item:
@@ -196,4 +196,4 @@ def get_bib_entries(bib_fname):
 entries = get_bib_entries("./data/Salmon.bib")
 entries.sort(key=lambda record: record["year"], reverse=True)
 PUBLICATION_LIST = entries[:]
-PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:7]
+PUBLICATION_LIST_SHORT = PUBLICATION_LIST[:10]

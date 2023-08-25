@@ -47,8 +47,10 @@ Méthode de descente de gradient et variantes
 <a href="enseignement/Montpellier/HAX606X/TP/widget_level_set.py">widget_level_set.py</a>
   </li>
 
-
-
+ <li>
+Méthode de descente de gradient projeté et moindres carrés
+<a href="enseignement/Montpellier/HAX606X/TP/TP4.html">TP4.html</a>
+  </li>
 
 
 
@@ -63,6 +65,7 @@ Méthode de descente de gradient et variantes
 
 ## Notes pour aller plus loin
 
+- Retour sur des erreurs fréquentes en Python: [TP_cc_mi_parcours_feedback.html](enseignement/Montpellier/HAX606X/TP/TP_cc_mi_parcours_feedback.html)
 - Notion d'aléatoire avec Python / Numpy: [Note_randomness.html](enseignement/Montpellier/HAX606X/TP/Note_randomness.html)
 
 

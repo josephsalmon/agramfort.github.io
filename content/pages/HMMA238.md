@@ -5,7 +5,7 @@ iscourse: true
 isfull: false
 
 <img style="float: right;" src="images/python_ecosystem.svg" width=19%>
-This is an undergraduate course introducing scientific computing and modern software practices.
+This is a master level course introducing scientific computing and modern software practices.
 <br>
 Details can be found here: [HMMA238 - Scientific Software Development](HMMA238.html).
 <br>

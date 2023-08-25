@@ -1,5 +1,5 @@
 title: HLMA310 - Scientific Python (2018-2020)
-sortorder: 1
+sortorder: 5
 category: course
 iscourse: true
 isfull: false

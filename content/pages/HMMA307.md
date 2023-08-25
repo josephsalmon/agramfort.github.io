@@ -1,5 +1,5 @@
 title: HMMA307 - Advanced Linear Models (2019-2021)
-sortorder: 0
+sortorder: 7
 category: course
 iscourse: true
 isfull: false

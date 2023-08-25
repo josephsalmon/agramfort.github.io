@@ -1,5 +1,5 @@
 title: HMMA308 - Statistical Machine Learning (2018-2021)
-sortorder: -2
+sortorder: 10
 category: coursesHMMA308
 iscourse: true
 isfull: false

@@ -6,7 +6,7 @@ isfull: true
 slug: HMMA238-full
 
 
-This is an undergraduate course (in French!) introducing scientific computing and modern software practices.
+This is a master level course introducing scientific computing and modern software practices.
 The new website for this course is here: [https://github.com/bcharlier/HMMA238](https://github.com/bcharlier/HMMA238)
 
 We will discover some component of the Python scientific ecosystem

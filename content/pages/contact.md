@@ -3,7 +3,7 @@ sortorder: 0
 category: contact
 iscourse: false
 
-**Email:** [joseph"dot"salmon "dot"taff@gmail"dot"fr](mailto:joseph"dot"salmon "dot"taff@gmail"dot"fr)
+**Email:** [joseph"dot"salmon "dot"taff@gmail"dot"com](mailto:joseph"dot"salmon "dot"taff@gmail"dot"com)
 
 **Address:**
 IMAG, c.c. 051</br>
