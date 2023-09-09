@@ -34,7 +34,7 @@ LINKS = ()
 
 SOCIAL = (
     ("github", "https://github.com/josephsalmon"),
-    ("twitter-square", "https://twitter.com/salmonjsph"),
+    # ("twitter-square", "https://twitter.com/salmonjsph"),
     ("mastodon", "https://sigmoid.social/@josephsalmon"),
 )
 
