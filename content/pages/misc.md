@@ -27,6 +27,8 @@ ismisc: true
 ![Ten Star](https://raw.github.com/josephsalmon/Tweets/master/IslamicArt/svg/ten_star_color_e.svg?sanitize=true "Ten Star"){ width=15% }
 
 
+- [Studio Ibbini](https://www.ibbini.com/gallery): traversing analog and digital to create works of extreme intricacy and precision, pushing the boundaries of materials in unusual ways. They reference historical pattern and ornament with a contemporary interpretation.
+
 ## Conferences / Workshop organized
 
 - [Optimization for Machine Learning](https://conferences.cirm-math.fr/2133.html), March 2020

@@ -1,5 +1,5 @@
 title: Joining? Open positions in my lab
-sortorder: 7
+sortorder: 1
 category: positions
 iscourse: false
 
@@ -8,16 +8,16 @@ iscourse: false
 -->
 
 
-I am always looking for outstanding and highly motivated people to join my team as interns, Ph.D. students, post-doctorates or research engineers in the following areas:
+I am looking for outstanding and highly motivated people to work (as intern, Ph.D. student, post-doctorate or research engineer) on **machine learning**, and more precisely on:
 
 - **citizen science** and **crowdsourcing**
+- **high dimensional** / **robust** statistics, **variable selection**, **sparsity**
 - **optimization** for **machine learning** (including federated learning, privacy, etc.)
-- high dimensional and robust **statistics**
 
-I always have open positions for outstanding applicants (post-doc, Ph.D. thesis, internship). The application process is light:
+The application process is light:
 
-1. Email me your CV, transcript of most recent grades (for interns and Ph.D. students) and explain in a paragraph why you are interested to join my group.
-2. After preliminary feedback on my side, I will ask you to secure two reference letters (one is enough for interns or Ph.D. students) to be sent directly to me.
+1. Email a CV, a transcript of recent grades, and explain in a short paragraph why you are interested to join.
+2. Upon interest, I will ask two reference letters (one only for interns or Ph.D. students) to be sent directly to me.
 3. At this stage an interview (possibly online) will be arranged to double-check your skills and profile compatibility.
 
 

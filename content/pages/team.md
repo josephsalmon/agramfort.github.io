@@ -1,5 +1,5 @@
 title: Team
-sortorder: 1
+sortorder: 7
 category: team
 iscourse: false
 
@@ -9,17 +9,17 @@ iscourse: false
 
 ### Ph.D. Students
 - [Antoine Simoes](https://fr.linkedin.com/in/antoine-simoes-4a2b67197): co-supervised by [Yohann de Castro](https://ydecastro.github.io/) 2022-2025?
-- [Amélie Vernay](): co-supervised by [Nicolas Meyer](https://sites.google.com/view/nicolasmeyer/accueil) 2022-2025?
 - [Tanguy Lefort](https://tanglef.github.io/) co-supervised with [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) 2021-2024?
-- [Camille Garcin](https://garcinc.github.io/Camille-Garcin/) co-supervised by [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) and [Maximilien Servajean](https://maximiliense.github.io/): 2020-2023?
-- [Emmanuel Pilliat](https://epilliat.github.io/Page-perso/) co-supervised by [Nicolas Verzelen](http://nicolas.verzelen.free.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/http://nicolas.verzelen.free.fr/): 2020-2023?
-- [Hashem Ghanem](https://hashemghanem.github.io/   ) co-supervised by [Samuel Vaiter](https://samuelvaiter.com/) and [Nicolas Keriven](https://nkeriven.github.io/): 2020-2023?
 
-</br>
+### Engineers
+- [Axel Dubar](https://github.com/axeldubarp) 2023-2024
 
 ### Alumni
+- [Camille Garcin](https://garcinc.github.io/Camille-Garcin/) co-supervised by [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) and [Maximilien Servajean](https://maximiliense.github.io/): 2020-2023
+- [Emmanuel Pilliat](https://epilliat.github.io/Page-perso/) co-supervised by [Nicolas Verzelen](http://nicolas.verzelen.free.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/http://nicolas.verzelen.free.fr/): 2020-2023 (now postdoctorate at Ens Lyon)
+- [Hashem Ghanem](https://hashemghanem.github.io/   ) co-supervised by [Samuel Vaiter](https://samuelvaiter.com/) and [Nicolas Keriven](https://nkeriven.github.io/): 2020-2023
 - [Damien Blanc](https://www.quantacell.com/about/) [Ph.D. 2019-2022],co-supervised by [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and funded by [Quantacell](https://www.quantacell.com/)
-- [Cassio Fraga Dantas](https://cassiofragadantas.github.io/) Post-doctorate associate: 2022
+- [Cassio Fraga Dantas](https://cassiofragadantas.github.io/) Post-doctorate associate: 2022, (now at Researcher at INRAE) </br>
 - [Florent Bascou](https://bascouflorent.github.io) [Ph.D. 2019-2022], co-supervised by [Sophie Lèbre](http://www.univ-montp3.fr/miap/~lebre/), </br>
 Manuscript: ["Sparse linear model with quadratic interactions"](/papers/these_bascou.pdf)
 - [Quentin Bertrand](https://qb3.github.io/) [Ph.D. 2018-2021], co-supervised by [Alexandre Gramfort](http://alexandre.gramfort.net/) (now at Mila), </br>

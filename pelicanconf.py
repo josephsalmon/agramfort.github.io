@@ -90,6 +90,7 @@ TEMPLATE_PAGES = {
     "teaching.html": "teaching.html",
     "talks.html": "talks.html",
     "misc.html": "misc.html",
+    "HAX603X.html": "HAX603X.html",
     "HAX606X.html": "HAX606X.html",
     "HMMA308.html": "HMMA308.html",
     "HMMA307.html": "HMMA307.html",
