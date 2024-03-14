@@ -43,6 +43,8 @@ This course is in French, and deals with Machine Learning, mostly supervised lea
 1. SVM : [svm_slides.pdf](/enseignement/Montpellier/HMMA308/svm_slides.pdf)
 
 1. Clustering : [clustering_slides.pdf](/enseignement/Montpellier/HMMA308/clustering_slides.pdf)
+   
+2. Splines et GAM : [Splines_GAM_slides.pdf](/enseignement/Montpellier/HMMA308/Splines_GAM_slides.pdf)
 
 
 ## TPs

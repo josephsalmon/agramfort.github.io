@@ -38,7 +38,7 @@ See GitHub website: [HAX603X - Modélisation Stochastique](https://josephsalmon.
 
 - Introduction to Python [Python Course](https://python.sdv.univ-paris-diderot.fr/) &#127467;&#127479;
 - [HLMA310 - Scientific Software](https://josephsalmon.eu/HLMA310.html) &#127467;&#127479;
-- Algorithmic Manual in Python [@Courant_deFalco_Gonnord_Filliatre_Conchon_Dowek_Wack13] &#127467;&#127479;
+- Algorithmic Manual in Pythonf &#127467;&#127479;
 - Data Science: [Python Data Science Handbook, With Application to Understanding Data](https://jakevdp.github.io/PythonDataScienceHandbook/) by J. Van DerPlas, 2016; &#127468;&#127463; <br>
  **videos**: [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 - [Math for Journalists](https://observablehq.com/@nshiab/math-for-journalists) by Naël Shiab &#127468;&#127463;
@@ -48,4 +48,4 @@ See GitHub website: [HAX603X - Modélisation Stochastique](https://josephsalmon.
 - Markov Chains: [Markov Chains](https://www.ethanepperly.com/index.php/2023/06/29/markov-musings-1-the-fundamental-theorem/) by Ethan N. Epperly &#127468;&#127463;
 - [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf) by Cosma Shalizi;  &#127468;&#127463;
 - [Maximum Likelihood by Numerical Optimization](https://statisticssu.github.io/STM/tutorial/numericalML/numericalML.html)  &#127468;&#127463;
-- Conditioning, Martingales, and Other Proofs of the Law of Large Numbers:  [@Williams91] &#127468;&#127463;
+- Conditioning, Martingales, and Other Proofs of the Law of Large Numbers:  &#127468;&#127463;
