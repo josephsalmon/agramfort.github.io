@@ -1,4 +1,4 @@
-title: HAX603X - Modélisation Stochastique (2023-2024)
+title: HAX603X - Stochastic Modeling (2023-2024)
 sortorder: 0
 category: course
 iscourse: true

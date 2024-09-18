@@ -6,6 +6,8 @@ isfull: true
 istalk: true
 ismisc: false
 
+- [Lund University](https://www.lusem.lu.se/) (15/04/2024) "Citizen science for plant identification: insights from Pl@ntnet" [slides](talks/beamer_js_lund.pdf)
+
 - [TSE Seminar](https://indico.math.cnrs.fr/category/474/) (30/11/2023) "Supervised learning by crowdsourcing" [slides-part 1](talks/intro-crowdsourcing1.pdf), [slides-part 2](talks/intro-crowdsourcing2.pdf)
 
 - [IMT Seminar](https://indico.math.cnrs.fr/category/474/) (29/11/2022) "Improve learning combining crowdsourced labels by weighting Areas Under the Margin" [slides](talks/slides_IMT2022.pdf)
@@ -19,7 +21,6 @@ ismisc: false
 
 - [LSE Data Science Seminar (London, UK)](https://www.lse.ac.uk/Statistics/Seminars/Data-Science-Seminar-Series) (07/02/2022), "Hyperparameter selection
 for high dimensional sparse learning" [slides](talks/LSE2022.pdf)
-
 
 - [Colloque de lancement MIPS / 10èmes Journées Scientifiques du LabEx NUMEV (Montpellier, France)](https://muse.edu.umontpellier.fr/2021/10/18/colloque-de-lancement-mips-10emes-journees-scientifiques-du-labex-numev/) (08/11/2021), "Implicit differentiation for fast hyperparameter selection in non-smooth convex learning" [slides](talks/MIPS_JS.pdf)
 
